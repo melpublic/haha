@@ -1,0 +1,23 @@
+## you must follow the below template
+5  #element total types in cfg files
+Nb
+Mo
+W
+Ta
+V
+%.3f  # rlist value for making the array of the neigbour atoms: the maimal value of the following ones  
+%.3f #rcut of Nb-Nb pair
+%.3f #rcut of Nb-Mo pair
+%.3f #rcut of Nb-W  pair
+%.3f #rcut of Nb-Ta pair
+%.3f #rcut of Nb-V  pair
+%.3f #rcut of Mo-Mo pair
+%.3f #rcut of Mo-W  pair
+%.3f #rcut of Mo-Ta pair
+%.3f #rcut of Mo-V  pair
+%.3f #rcut of  W-W  pair
+%.3f #rcut of  W-Ta pair
+%.3f #rcut of  W-V  pair
+%.3f #rcut of Ta-Ta pair
+%.3f #rcut of Ta-V  pair
+%.3f #rcut of  V-V  pair
