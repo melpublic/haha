@@ -1,0 +1,1853 @@
+      NbMo_bulk lmp:   250.178641 ref:   208.748333 err:    19.847013 %
+       NbW_bulk lmp:   260.313838 ref:   220.773333 err:    17.910000 %
+      NbTa_bulk lmp:   199.887816 ref:   182.237467 err:     9.685357 %
+       NbV_bulk lmp:   164.971019 ref:   158.912400 err:     3.812553 %
+       MoW_bulk lmp:   279.102540 ref:   265.479733 err:     5.131392 %
+      MoTa_bulk lmp:   278.754394 ref:   233.235550 err:    19.516255 %
+       MoV_bulk lmp:   253.462302 ref:   211.974333 err:    19.572166 %
+       WTa_bulk lmp:   271.781747 ref:   237.941567 err:    14.222055 %
+        WV_bulk lmp:   255.613001 ref:   230.818417 err:    10.742030 %
+       TaV_bulk lmp:   196.297660 ref:   187.256317 err:     4.828325 %
+            pxx lmp:   257.090842 ref:     1.000000 err: 25609.084233 %
+            -10 lmp:    -5.423023 ref:    -5.936864 err:    -8.655081 %
+             -9 lmp:    -5.824062 ref:    -6.212291 err:    -6.249370 %
+             -8 lmp:    -6.161905 ref:    -6.466242 err:    -4.706559 %
+             -7 lmp:    -6.442580 ref:    -6.680298 err:    -3.558493 %
+             -6 lmp:    -6.671620 ref:    -6.854862 err:    -2.673162 %
+             -5 lmp:    -6.854098 ref:    -6.996149 err:    -2.030418 %
+             -4 lmp:    -6.994666 ref:    -7.107536 err:    -1.588036 %
+             -3 lmp:    -7.096194 ref:    -7.190518 err:    -1.311792 %
+             -2 lmp:    -7.151243 ref:    -7.246351 err:    -1.312497 %
+             -1 lmp:    -7.188655 ref:    -7.277912 err:    -1.226406 %
+              0 lmp:    -7.201000 ref:    -7.286507 err:    -1.173506 %
+              1 lmp:    -7.189294 ref:    -7.275521 err:    -1.185164 %
+              2 lmp:    -7.155600 ref:    -7.245993 err:    -1.247490 %
+              3 lmp:    -7.101760 ref:    -7.198763 err:    -1.347494 %
+              4 lmp:    -7.029559 ref:    -7.139068 err:    -1.533937 %
+              5 lmp:    -6.940712 ref:    -7.066422 err:    -1.778964 %
+              6 lmp:    -6.836864 ref:    -6.981991 err:    -2.078594 %
+              7 lmp:    -6.719583 ref:    -6.886570 err:    -2.424830 %
+              8 lmp:    -6.590363 ref:    -6.781562 err:    -2.819389 %
+              9 lmp:    -6.450622 ref:    -6.667906 err:    -3.258660 %
+             10 lmp:    -6.301697 ref:    -6.546394 err:    -3.737882 %
+            pxx lmp:   567.317997 ref:     1.000000 err: 56631.799725 %
+            -10 lmp:    -6.227712 ref:    -6.648424 err:    -6.327993 %
+             -9 lmp:    -6.640881 ref:    -6.967594 err:    -4.689035 %
+             -8 lmp:    -6.989725 ref:    -7.244047 err:    -3.510773 %
+             -7 lmp:    -7.280196 ref:    -7.475630 err:    -2.614284 %
+             -6 lmp:    -7.517772 ref:    -7.665667 err:    -1.929317 %
+             -5 lmp:    -7.707492 ref:    -7.817510 err:    -1.407319 %
+             -4 lmp:    -7.853986 ref:    -7.934322 err:    -1.012520 %
+             -3 lmp:    -7.959777 ref:    -8.019229 err:    -0.741364 %
+             -2 lmp:    -8.027317 ref:    -8.076740 err:    -0.611914 %
+             -1 lmp:    -8.068751 ref:    -8.109332 err:    -0.500412 %
+              0 lmp:    -8.081999 ref:    -8.119557 err:    -0.462554 %
+              1 lmp:    -8.069938 ref:    -8.108475 err:    -0.475271 %
+              2 lmp:    -8.034669 ref:    -8.077522 err:    -0.530523 %
+              3 lmp:    -7.978076 ref:    -8.033674 err:    -0.692062 %
+              4 lmp:    -7.901978 ref:    -7.967235 err:    -0.819065 %
+              5 lmp:    -7.808130 ref:    -7.885664 err:    -0.983229 %
+              6 lmp:    -7.698218 ref:    -7.790825 err:    -1.188665 %
+              7 lmp:    -7.573853 ref:    -7.683899 err:    -1.432158 %
+              8 lmp:    -7.436573 ref:    -7.566208 err:    -1.713334 %
+              9 lmp:    -7.287840 ref:    -7.439229 err:    -2.035015 %
+             10 lmp:    -7.129038 ref:    -7.303822 err:    -2.393053 %
+            pxx lmp:  1338.888239 ref:     1.000000 err: 133788.823870 %
+            -10 lmp:    -6.154623 ref:    -6.430361 err:    -4.288072 %
+             -9 lmp:    -6.519426 ref:    -6.701815 err:    -2.721496 %
+             -8 lmp:    -6.825518 ref:    -6.935224 err:    -1.581862 %
+             -7 lmp:    -7.078806 ref:    -7.132201 err:    -0.748648 %
+             -6 lmp:    -7.281665 ref:    -7.296724 err:    -0.206382 %
+             -5 lmp:    -7.434633 ref:    -7.434133 err:     0.006716 %
+             -4 lmp:    -7.560156 ref:    -7.539551 err:     0.273293 %
+             -3 lmp:    -7.651737 ref:    -7.620951 err:     0.403961 %
+             -2 lmp:    -7.713059 ref:    -7.677085 err:     0.468593 %
+             -1 lmp:    -7.747467 ref:    -7.709330 err:     0.494686 %
+              0 lmp:    -7.757995 ref:    -7.718732 err:     0.508667 %
+              1 lmp:    -7.747317 ref:    -7.711342 err:     0.466522 %
+              2 lmp:    -7.717592 ref:    -7.686041 err:     0.410489 %
+              3 lmp:    -7.670746 ref:    -7.643810 err:     0.352394 %
+              4 lmp:    -7.608568 ref:    -7.586703 err:     0.288196 %
+              5 lmp:    -7.532708 ref:    -7.516055 err:     0.221565 %
+              6 lmp:    -7.444693 ref:    -7.433046 err:     0.156691 %
+              7 lmp:    -7.345934 ref:    -7.339204 err:     0.091698 %
+              8 lmp:    -7.237732 ref:    -7.235715 err:     0.027869 %
+              9 lmp:    -7.121284 ref:    -7.123398 err:    -0.029675 %
+             10 lmp:    -6.997696 ref:    -7.001840 err:    -0.059177 %
+            pxx lmp:   887.927816 ref:     1.000000 err: 88692.781614 %
+            -10 lmp:    -5.190959 ref:    -5.376457 err:    -3.450199 %
+             -9 lmp:    -5.430113 ref:    -5.583698 err:    -2.750591 %
+             -8 lmp:    -5.632561 ref:    -5.760650 err:    -2.223526 %
+             -7 lmp:    -5.801576 ref:    -5.898898 err:    -1.649829 %
+             -6 lmp:    -5.940179 ref:    -6.019703 err:    -1.321063 %
+             -5 lmp:    -6.051153 ref:    -6.123811 err:    -1.186487 %
+             -4 lmp:    -6.137064 ref:    -6.205571 err:    -1.103956 %
+             -3 lmp:    -6.200275 ref:    -6.265778 err:    -1.045403 %
+             -2 lmp:    -6.242960 ref:    -6.306305 err:    -1.004479 %
+             -1 lmp:    -6.266928 ref:    -6.328466 err:    -0.972399 %
+              0 lmp:    -6.273998 ref:    -6.334132 err:    -0.949378 %
+              1 lmp:    -6.266404 ref:    -6.326788 err:    -0.954409 %
+              2 lmp:    -6.244835 ref:    -6.307027 err:    -0.986076 %
+              3 lmp:    -6.210281 ref:    -6.267326 err:    -0.910189 %
+              4 lmp:    -6.163707 ref:    -6.224515 err:    -0.976912 %
+              5 lmp:    -6.106044 ref:    -6.179363 err:    -1.186509 %
+              6 lmp:    -6.038197 ref:    -6.118303 err:    -1.309290 %
+              7 lmp:    -5.961035 ref:    -6.051069 err:    -1.487904 %
+              8 lmp:    -5.875394 ref:    -5.977126 err:    -1.702026 %
+              9 lmp:    -5.782075 ref:    -5.898769 err:    -1.978281 %
+             10 lmp:    -5.681846 ref:    -5.817014 err:    -2.323677 %
+            pxx lmp:  4176.783789 ref:     1.000000 err: 417578.378925 %
+            -10 lmp:    -5.689573 ref:    -6.063506 err:    -6.166944 %
+             -9 lmp:    -6.163174 ref:    -6.438025 err:    -4.269186 %
+             -8 lmp:    -6.556773 ref:    -6.756197 err:    -2.951733 %
+             -7 lmp:    -6.879375 ref:    -7.024090 err:    -2.060269 %
+             -6 lmp:    -7.139089 ref:    -7.243095 err:    -1.435933 %
+             -5 lmp:    -7.343206 ref:    -7.418480 err:    -1.014678 %
+             -4 lmp:    -7.498279 ref:    -7.553872 err:    -0.735962 %
+             -3 lmp:    -7.610189 ref:    -7.653126 err:    -0.561041 %
+             -2 lmp:    -7.684212 ref:    -7.719045 err:    -0.451261 %
+             -1 lmp:    -7.725069 ref:    -7.754775 err:    -0.383067 %
+              0 lmp:    -7.736970 ref:    -7.763645 err:    -0.343591 %
+              1 lmp:    -7.723543 ref:    -7.748529 err:    -0.322453 %
+              2 lmp:    -7.687309 ref:    -7.711936 err:    -0.319332 %
+              3 lmp:    -7.630501 ref:    -7.656053 err:    -0.333745 %
+              4 lmp:    -7.555216 ref:    -7.582317 err:    -0.357428 %
+              5 lmp:    -7.463415 ref:    -7.483267 err:    -0.265286 %
+              6 lmp:    -7.356933 ref:    -7.379403 err:    -0.304492 %
+              7 lmp:    -7.237482 ref:    -7.262768 err:    -0.348152 %
+              8 lmp:    -7.106656 ref:    -7.134796 err:    -0.394410 %
+              9 lmp:    -6.965936 ref:    -6.996554 err:    -0.437611 %
+             10 lmp:    -6.816698 ref:    -6.849406 err:    -0.477538 %
+            pxx lmp:  1387.980230 ref:     1.000000 err: 138698.023013 %
+            -10 lmp:    -5.300219 ref:    -5.931840 err:   -10.647976 %
+             -9 lmp:    -5.767393 ref:    -6.277648 err:    -8.128119 %
+             -8 lmp:    -6.160161 ref:    -6.571782 err:    -6.263458 %
+             -7 lmp:    -6.485803 ref:    -6.816925 err:    -4.857362 %
+             -6 lmp:    -6.750984 ref:    -7.017999 err:    -3.804722 %
+             -5 lmp:    -6.961809 ref:    -7.178718 err:    -3.021552 %
+             -4 lmp:    -7.123860 ref:    -7.303134 err:    -2.454758 %
+             -3 lmp:    -7.242218 ref:    -7.393732 err:    -2.049223 %
+             -2 lmp:    -7.321591 ref:    -7.455219 err:    -1.792408 %
+             -1 lmp:    -7.366225 ref:    -7.490045 err:    -1.653118 %
+              0 lmp:    -7.379996 ref:    -7.502191 err:    -1.628787 %
+              1 lmp:    -7.366271 ref:    -7.492796 err:    -1.688619 %
+              2 lmp:    -7.327523 ref:    -7.467433 err:    -1.873604 %
+              3 lmp:    -7.265978 ref:    -7.419186 err:    -2.065023 %
+              4 lmp:    -7.183781 ref:    -7.354579 err:    -2.322344 %
+              5 lmp:    -7.082988 ref:    -7.274933 err:    -2.638441 %
+              6 lmp:    -6.965566 ref:    -7.182080 err:    -3.014641 %
+              7 lmp:    -6.833384 ref:    -7.077292 err:    -3.446352 %
+              8 lmp:    -6.688213 ref:    -6.962258 err:    -3.936160 %
+              9 lmp:    -6.531726 ref:    -6.838045 err:    -4.479629 %
+             10 lmp:    -6.365496 ref:    -6.706752 err:    -5.088241 %
+            pxx lmp:    35.709796 ref:     1.000000 err:  3470.979571 %
+            -10 lmp:    -4.508765 ref:    -4.975033 err:    -9.372149 %
+             -9 lmp:    -4.857776 ref:    -5.234831 err:    -7.202800 %
+             -8 lmp:    -5.152127 ref:    -5.457426 err:    -5.594197 %
+             -7 lmp:    -5.396949 ref:    -5.645024 err:    -4.394595 %
+             -6 lmp:    -5.596964 ref:    -5.800134 err:    -3.502852 %
+             -5 lmp:    -5.756514 ref:    -5.924814 err:    -2.840612 %
+             -4 lmp:    -5.879587 ref:    -6.028110 err:    -2.463842 %
+             -3 lmp:    -5.969848 ref:    -6.098735 err:    -2.113335 %
+             -2 lmp:    -6.030658 ref:    -6.145750 err:    -1.872708 %
+             -1 lmp:    -6.065100 ref:    -6.171979 err:    -1.731680 %
+              0 lmp:    -6.076000 ref:    -6.179030 err:    -1.667411 %
+              1 lmp:    -6.065826 ref:    -6.169264 err:    -1.676662 %
+              2 lmp:    -6.036410 ref:    -6.143980 err:    -1.750833 %
+              3 lmp:    -5.989396 ref:    -6.104593 err:    -1.887069 %
+              4 lmp:    -5.926374 ref:    -6.051995 err:    -2.075702 %
+              5 lmp:    -5.848873 ref:    -5.987193 err:    -2.310271 %
+              6 lmp:    -5.758354 ref:    -5.912151 err:    -2.601371 %
+              7 lmp:    -5.656214 ref:    -5.827155 err:    -2.933537 %
+              8 lmp:    -5.543777 ref:    -5.733620 err:    -3.311056 %
+              9 lmp:    -5.422298 ref:    -5.632189 err:    -3.726622 %
+             10 lmp:    -5.292963 ref:    -5.523990 err:    -4.182252 %
+            pxx lmp:   484.348940 ref:     1.000000 err: 48334.894016 %
+            -10 lmp:    -6.230267 ref:    -6.649534 err:    -6.305214 %
+             -9 lmp:    -6.690047 ref:    -7.019595 err:    -4.694683 %
+             -8 lmp:    -7.076555 ref:    -7.331806 err:    -3.481422 %
+             -7 lmp:    -7.397016 ref:    -7.591879 err:    -2.566729 %
+             -6 lmp:    -7.658034 ref:    -7.807456 err:    -1.913830 %
+             -5 lmp:    -7.865641 ref:    -7.982862 err:    -1.468405 %
+             -4 lmp:    -8.025012 ref:    -8.120125 err:    -1.171323 %
+             -3 lmp:    -8.139720 ref:    -8.221870 err:    -0.999163 %
+             -2 lmp:    -8.218336 ref:    -8.291067 err:    -0.877228 %
+             -1 lmp:    -8.262843 ref:    -8.328917 err:    -0.793305 %
+              0 lmp:    -8.277000 ref:    -8.340704 err:    -0.763781 %
+              1 lmp:    -8.264082 ref:    -8.328652 err:    -0.775274 %
+              2 lmp:    -8.226409 ref:    -8.296719 err:    -0.847442 %
+              3 lmp:    -8.166033 ref:    -8.241255 err:    -0.912745 %
+              4 lmp:    -8.084938 ref:    -8.168262 err:    -1.020088 %
+              5 lmp:    -7.985034 ref:    -8.079792 err:    -1.172775 %
+              6 lmp:    -7.868152 ref:    -7.977391 err:    -1.369356 %
+              7 lmp:    -7.736044 ref:    -7.862763 err:    -1.611632 %
+              8 lmp:    -7.590375 ref:    -7.737272 err:    -1.898560 %
+              9 lmp:    -7.432728 ref:    -7.602089 err:    -2.227819 %
+             10 lmp:    -7.264600 ref:    -7.458099 err:    -2.594476 %
+            pxx lmp:  5859.976583 ref:     1.000000 err: 585897.658258 %
+            -10 lmp:    -5.290462 ref:    -5.726201 err:    -7.609564 %
+             -9 lmp:    -5.690584 ref:    -6.014143 err:    -5.379970 %
+             -8 lmp:    -6.022802 ref:    -6.260294 err:    -3.793621 %
+             -7 lmp:    -6.294805 ref:    -6.466918 err:    -2.661439 %
+             -6 lmp:    -6.513513 ref:    -6.635926 err:    -1.844699 %
+             -5 lmp:    -6.685151 ref:    -6.776320 err:    -1.345411 %
+             -4 lmp:    -6.815308 ref:    -6.883721 err:    -0.993848 %
+             -3 lmp:    -6.909000 ref:    -6.963101 err:    -0.776963 %
+             -2 lmp:    -6.970724 ref:    -7.016228 err:    -0.648544 %
+             -1 lmp:    -7.004506 ref:    -7.045349 err:    -0.579715 %
+              0 lmp:    -7.013945 ref:    -7.052654 err:    -0.548863 %
+              1 lmp:    -7.002154 ref:    -7.040737 err:    -0.548005 %
+              2 lmp:    -6.967632 ref:    -7.011153 err:    -0.620753 %
+              3 lmp:    -6.915777 ref:    -6.966166 err:    -0.723352 %
+              4 lmp:    -6.857311 ref:    -6.906712 err:    -0.715262 %
+              5 lmp:    -6.787388 ref:    -6.834401 err:    -0.687889 %
+              6 lmp:    -6.707793 ref:    -6.750093 err:    -0.626658 %
+              7 lmp:    -6.620104 ref:    -6.655307 err:    -0.528942 %
+              8 lmp:    -6.525715 ref:    -6.539975 err:    -0.218045 %
+              9 lmp:    -6.425852 ref:    -6.427049 err:    -0.018615 %
+             10 lmp:    -6.321595 ref:    -6.307005 err:     0.231333 %
+            pxx lmp:  1425.623325 ref:     1.000000 err: 142462.332518 %
+            -10 lmp:    -5.241734 ref:    -5.409949 err:    -3.109363 %
+             -9 lmp:    -5.553289 ref:    -5.666249 err:    -1.993555 %
+             -8 lmp:    -5.814964 ref:    -5.865671 err:    -0.864469 %
+             -7 lmp:    -6.031716 ref:    -6.052551 err:    -0.344244 %
+             -6 lmp:    -6.208067 ref:    -6.205698 err:     0.038168 %
+             -5 lmp:    -6.348142 ref:    -6.329239 err:     0.298666 %
+             -4 lmp:    -6.455700 ref:    -6.430358 err:     0.394100 %
+             -3 lmp:    -6.534165 ref:    -6.505978 err:     0.433240 %
+             -2 lmp:    -6.585384 ref:    -6.558219 err:     0.414203 %
+             -1 lmp:    -6.607075 ref:    -6.588686 err:     0.279097 %
+              0 lmp:    -6.615995 ref:    -6.599094 err:     0.256101 %
+              1 lmp:    -6.606666 ref:    -6.590504 err:     0.245231 %
+              2 lmp:    -6.580441 ref:    -6.555238 err:     0.384478 %
+              3 lmp:    -6.538610 ref:    -6.523843 err:     0.226355 %
+              4 lmp:    -6.482423 ref:    -6.473611 err:     0.136121 %
+              5 lmp:    -6.413090 ref:    -6.422028 err:    -0.139172 %
+              6 lmp:    -6.331774 ref:    -6.360342 err:    -0.449145 %
+              7 lmp:    -6.239594 ref:    -6.289749 err:    -0.797407 %
+              8 lmp:    -6.137620 ref:    -6.222020 err:    -1.356477 %
+              9 lmp:    -6.026872 ref:    -6.132245 err:    -1.718343 %
+             10 lmp:    -5.908323 ref:    -6.061970 err:    -2.534616 %
+    NbMo_void10 lmp:    -6.941047 ref:    -6.966793 err:    -0.369548 %
+    NbMo_void01 lmp:    -6.953760 ref:    -7.114783 err:    -2.263219 %
+    NbMo_void11 lmp:    -6.682493 ref:    -6.820586 err:    -2.024649 %
+     NbW_void10 lmp:    -7.858037 ref:    -7.845035 err:     0.165738 %
+     NbW_void01 lmp:    -7.756595 ref:    -7.892162 err:    -1.717750 %
+     NbW_void11 lmp:    -7.520435 ref:    -7.634919 err:    -1.499477 %
+    NbTa_void10 lmp:    -7.541671 ref:    -7.524043 err:     0.234288 %
+    NbTa_void01 lmp:    -7.494950 ref:    -7.507503 err:    -0.167205 %
+    NbTa_void11 lmp:    -7.265379 ref:    -7.312372 err:    -0.642642 %
+     NbV_void10 lmp:    -6.011345 ref:    -6.065547 err:    -0.893605 %
+     NbV_void01 lmp:    -6.172200 ref:    -6.259128 err:    -1.388828 %
+     NbV_void11 lmp:    -5.896055 ref:    -5.975664 err:    -1.332224 %
+     MoW_void10 lmp:    -7.492749 ref:    -7.595378 err:    -1.351193 %
+     MoW_void01 lmp:    -7.377769 ref:    -7.484166 err:    -1.421637 %
+     MoW_void11 lmp:    -7.123364 ref:    -7.312375 err:    -2.584812 %
+    MoTa_void10 lmp:    -7.142406 ref:    -7.332998 err:    -2.599093 %
+    MoTa_void01 lmp:    -7.075719 ref:    -7.172130 err:    -1.344241 %
+    MoTa_void11 lmp:    -6.827037 ref:    -7.019347 err:    -2.739704 %
+     MoV_void10 lmp:    -5.800655 ref:    -5.913114 err:    -1.901857 %
+     MoV_void01 lmp:    -5.939828 ref:    -5.998946 err:    -0.985474 %
+     MoV_void11 lmp:    -5.652835 ref:    -5.746281 err:    -1.626191 %
+     WTa_void10 lmp:    -7.961302 ref:    -8.113736 err:    -1.878718 %
+     WTa_void01 lmp:    -8.006108 ref:    -8.050805 err:    -0.555192 %
+     WTa_void11 lmp:    -7.678398 ref:    -7.834451 err:    -1.991889 %
+      WV_void10 lmp:    -6.653687 ref:    -6.721087 err:    -1.002812 %
+      WV_void01 lmp:    -6.914696 ref:    -6.916133 err:    -0.020790 %
+      WV_void11 lmp:    -6.543150 ref:    -6.589410 err:    -0.702034 %
+     TaV_void10 lmp:    -6.301710 ref:    -6.300975 err:     0.011672 %
+     TaV_void01 lmp:    -6.514423 ref:    -6.508351 err:     0.093290 %
+     TaV_void11 lmp:    -6.187484 ref:    -6.208573 err:    -0.339674 %
+NbMo_surf100_stacking0 lmp:    -6.700866 ref:    -6.768028 err:    -0.992348 %
+NbMo_surf100_stacking1 lmp:    -6.681319 ref:    -6.746764 err:    -0.970021 %
+NbMo_surf100_stacking2 lmp:    -6.616241 ref:    -6.676213 err:    -0.898293 %
+NbMo_surf100_stacking3 lmp:    -6.515888 ref:    -6.573258 err:    -0.872779 %
+NbMo_surf100_stacking4 lmp:    -6.429574 ref:    -6.476744 err:    -0.728292 %
+NbMo_surf100_stacking5 lmp:    -6.405586 ref:    -6.434871 err:    -0.455094 %
+NbMo_surf100_stacking6 lmp:    -6.429574 ref:    -6.476776 err:    -0.728782 %
+NbMo_surf100_stacking7 lmp:    -6.515888 ref:    -6.573264 err:    -0.872866 %
+NbMo_surf100_stacking8 lmp:    -6.616242 ref:    -6.676213 err:    -0.898281 %
+NbMo_surf100_stacking9 lmp:    -6.681319 ref:    -6.746766 err:    -0.970054 %
+NbMo_surf100_stacking10 lmp:    -6.700866 ref:    -6.768027 err:    -0.992322 %
+NbMo_surf110_stacking0 lmp:    -6.541481 ref:    -6.711179 err:    -2.528587 %
+NbMo_surf110_stacking1 lmp:    -6.523546 ref:    -6.692076 err:    -2.518349 %
+NbMo_surf110_stacking2 lmp:    -6.463068 ref:    -6.619081 err:    -2.357007 %
+NbMo_surf110_stacking3 lmp:    -6.373956 ref:    -6.510980 err:    -2.104496 %
+NbMo_surf110_stacking4 lmp:    -6.301590 ref:    -6.404832 err:    -1.611948 %
+NbMo_surf110_stacking5 lmp:    -6.283114 ref:    -6.359907 err:    -1.207453 %
+NbMo_surf110_stacking6 lmp:    -6.301593 ref:    -6.404832 err:    -1.611887 %
+NbMo_surf110_stacking7 lmp:    -6.373964 ref:    -6.510980 err:    -2.104376 %
+NbMo_surf110_stacking8 lmp:    -6.463075 ref:    -6.619081 err:    -2.356907 %
+NbMo_surf110_stacking9 lmp:    -6.523549 ref:    -6.692076 err:    -2.518297 %
+NbMo_surf110_stacking10 lmp:    -6.541481 ref:    -6.711179 err:    -2.528587 %
+NbMo_surf111_stacking0 lmp:    -6.262521 ref:    -6.415781 err:    -2.388804 %
+NbMo_surf111_stacking1 lmp:    -6.203808 ref:    -6.312362 err:    -1.719702 %
+NbMo_surf111_stacking2 lmp:    -5.986111 ref:    -6.067715 err:    -1.344892 %
+NbMo_surf111_stacking3 lmp:    -5.543303 ref:    -5.642880 err:    -1.764648 %
+NbMo_surf111_stacking4 lmp:    -4.936702 ref:    -4.900879 err:     0.730937 %
+NbMo_surf111_stacking5 lmp:    -4.621788 ref:    -4.432218 err:     4.277093 %
+NbMo_surf111_stacking6 lmp:    -4.936697 ref:    -4.900119 err:     0.746467 %
+NbMo_surf111_stacking7 lmp:    -5.543297 ref:    -5.641944 err:    -1.748453 %
+NbMo_surf111_stacking8 lmp:    -5.986109 ref:    -6.066638 err:    -1.327421 %
+NbMo_surf111_stacking9 lmp:    -6.203807 ref:    -6.314634 err:    -1.755076 %
+NbMo_surf111_stacking10 lmp:    -6.262521 ref:    -6.415781 err:    -2.388808 %
+NbW_surf100_stacking0 lmp:    -7.527030 ref:    -7.559900 err:    -0.434793 %
+NbW_surf100_stacking1 lmp:    -7.498423 ref:    -7.533107 err:    -0.460412 %
+NbW_surf100_stacking2 lmp:    -7.407809 ref:    -7.446312 err:    -0.517071 %
+NbW_surf100_stacking3 lmp:    -7.271799 ref:    -7.315626 err:    -0.599084 %
+NbW_surf100_stacking4 lmp:    -7.138994 ref:    -7.194107 err:    -0.766084 %
+NbW_surf100_stacking5 lmp:    -7.091280 ref:    -7.142028 err:    -0.710546 %
+NbW_surf100_stacking6 lmp:    -7.138994 ref:    -7.194090 err:    -0.765844 %
+NbW_surf100_stacking7 lmp:    -7.271799 ref:    -7.315623 err:    -0.599048 %
+NbW_surf100_stacking8 lmp:    -7.407809 ref:    -7.446315 err:    -0.517111 %
+NbW_surf100_stacking9 lmp:    -7.498423 ref:    -7.533106 err:    -0.460400 %
+NbW_surf100_stacking10 lmp:    -7.527030 ref:    -7.559900 err:    -0.434791 %
+NbW_surf110_stacking0 lmp:    -7.373676 ref:    -7.511367 err:    -1.833110 %
+NbW_surf110_stacking1 lmp:    -7.345648 ref:    -7.482440 err:    -1.828179 %
+NbW_surf110_stacking2 lmp:    -7.257790 ref:    -7.391785 err:    -1.812760 %
+NbW_surf110_stacking3 lmp:    -7.125270 ref:    -7.255470 err:    -1.794502 %
+NbW_surf110_stacking4 lmp:    -6.988032 ref:    -7.124402 err:    -1.914115 %
+NbW_surf110_stacking5 lmp:    -6.934219 ref:    -7.067497 err:    -1.885794 %
+NbW_surf110_stacking6 lmp:    -6.988027 ref:    -7.124402 err:    -1.914194 %
+NbW_surf110_stacking7 lmp:    -7.125262 ref:    -7.255470 err:    -1.794608 %
+NbW_surf110_stacking8 lmp:    -7.257784 ref:    -7.391785 err:    -1.812838 %
+NbW_surf110_stacking9 lmp:    -7.345645 ref:    -7.482440 err:    -1.828219 %
+NbW_surf110_stacking10 lmp:    -7.373676 ref:    -7.511368 err:    -1.833124 %
+NbW_surf111_stacking0 lmp:    -7.025789 ref:    -7.170274 err:    -2.015052 %
+NbW_surf111_stacking1 lmp:    -6.941427 ref:    -7.056206 err:    -1.626643 %
+NbW_surf111_stacking2 lmp:    -6.658473 ref:    -6.755599 err:    -1.437708 %
+NbW_surf111_stacking3 lmp:    -6.116443 ref:    -6.214322 err:    -1.575052 %
+NbW_surf111_stacking4 lmp:    -5.397837 ref:    -5.301707 err:     1.813184 %
+NbW_surf111_stacking5 lmp:    -5.007539 ref:    -4.737421 err:     5.701798 %
+NbW_surf111_stacking6 lmp:    -5.397828 ref:    -5.300250 err:     1.841004 %
+NbW_surf111_stacking7 lmp:    -6.116433 ref:    -6.212917 err:    -1.552965 %
+NbW_surf111_stacking8 lmp:    -6.658466 ref:    -6.755034 err:    -1.429572 %
+NbW_surf111_stacking9 lmp:    -6.941422 ref:    -7.057973 err:    -1.651337 %
+NbW_surf111_stacking10 lmp:    -7.025789 ref:    -7.170274 err:    -2.015054 %
+NbTa_surf100_stacking0 lmp:    -7.238304 ref:    -7.280530 err:    -0.579990 %
+NbTa_surf100_stacking1 lmp:    -7.213370 ref:    -7.266326 err:    -0.728783 %
+NbTa_surf100_stacking2 lmp:    -7.141070 ref:    -7.196803 err:    -0.774412 %
+NbTa_surf100_stacking3 lmp:    -7.027906 ref:    -7.089653 err:    -0.870935 %
+NbTa_surf100_stacking4 lmp:    -6.908127 ref:    -6.974823 err:    -0.956250 %
+NbTa_surf100_stacking5 lmp:    -6.852378 ref:    -6.939566 err:    -1.256395 %
+NbTa_surf100_stacking6 lmp:    -6.908127 ref:    -6.974829 err:    -0.956326 %
+NbTa_surf100_stacking7 lmp:    -7.027906 ref:    -7.089641 err:    -0.870780 %
+NbTa_surf100_stacking8 lmp:    -7.141070 ref:    -7.191188 err:    -0.696939 %
+NbTa_surf100_stacking9 lmp:    -7.213370 ref:    -7.255954 err:    -0.586887 %
+NbTa_surf100_stacking10 lmp:    -7.238304 ref:    -7.288432 err:    -0.687777 %
+NbTa_surf110_stacking0 lmp:    -7.081395 ref:    -7.181986 err:    -1.400592 %
+NbTa_surf110_stacking1 lmp:    -7.055205 ref:    -7.154814 err:    -1.392200 %
+NbTa_surf110_stacking2 lmp:    -6.986957 ref:    -7.092385 err:    -1.486492 %
+NbTa_surf110_stacking3 lmp:    -6.878559 ref:    -6.989330 err:    -1.584858 %
+NbTa_surf110_stacking4 lmp:    -6.763817 ref:    -6.879611 err:    -1.683153 %
+NbTa_surf110_stacking5 lmp:    -6.710563 ref:    -6.821833 err:    -1.631099 %
+NbTa_surf110_stacking6 lmp:    -6.763815 ref:    -6.879611 err:    -1.683184 %
+NbTa_surf110_stacking7 lmp:    -6.878556 ref:    -6.989330 err:    -1.584902 %
+NbTa_surf110_stacking8 lmp:    -6.986955 ref:    -7.092385 err:    -1.486532 %
+NbTa_surf110_stacking9 lmp:    -7.055203 ref:    -7.154814 err:    -1.392221 %
+NbTa_surf110_stacking10 lmp:    -7.081395 ref:    -7.181984 err:    -1.400568 %
+NbTa_surf111_stacking0 lmp:    -6.792611 ref:    -6.951481 err:    -2.285415 %
+NbTa_surf111_stacking1 lmp:    -6.724976 ref:    -6.850946 err:    -1.838719 %
+NbTa_surf111_stacking2 lmp:    -6.415408 ref:    -6.580298 err:    -2.505825 %
+NbTa_surf111_stacking3 lmp:    -5.617261 ref:    -5.907016 err:    -4.905272 %
+NbTa_surf111_stacking4 lmp:    -4.420234 ref:    -4.499909 err:    -1.770600 %
+NbTa_surf111_stacking5 lmp:    -3.749290 ref:    -3.547300 err:     5.694189 %
+NbTa_surf111_stacking6 lmp:    -4.420231 ref:    -4.499130 err:    -1.753665 %
+NbTa_surf111_stacking7 lmp:    -5.617256 ref:    -5.906206 err:    -4.892320 %
+NbTa_surf111_stacking8 lmp:    -6.415405 ref:    -6.576433 err:    -2.448554 %
+NbTa_surf111_stacking9 lmp:    -6.724975 ref:    -6.850541 err:    -1.832934 %
+NbTa_surf111_stacking10 lmp:    -6.792611 ref:    -6.951477 err:    -2.285368 %
+NbV_surf100_stacking0 lmp:    -5.844496 ref:    -5.979750 err:    -2.261873 %
+NbV_surf100_stacking1 lmp:    -5.833650 ref:    -5.966238 err:    -2.222296 %
+NbV_surf100_stacking2 lmp:    -5.794562 ref:    -5.920781 err:    -2.131785 %
+NbV_surf100_stacking3 lmp:    -5.726957 ref:    -5.852001 err:    -2.136780 %
+NbV_surf100_stacking4 lmp:    -5.658498 ref:    -5.781265 err:    -2.123536 %
+NbV_surf100_stacking5 lmp:    -5.633879 ref:    -5.749827 err:    -2.016549 %
+NbV_surf100_stacking6 lmp:    -5.658498 ref:    -5.781269 err:    -2.123602 %
+NbV_surf100_stacking7 lmp:    -5.726957 ref:    -5.852001 err:    -2.136775 %
+NbV_surf100_stacking8 lmp:    -5.794562 ref:    -5.920785 err:    -2.131857 %
+NbV_surf100_stacking9 lmp:    -5.833650 ref:    -5.966231 err:    -2.222201 %
+NbV_surf100_stacking10 lmp:    -5.844496 ref:    -5.979748 err:    -2.261835 %
+NbV_surf110_stacking0 lmp:    -5.695629 ref:    -5.871380 err:    -2.993343 %
+NbV_surf110_stacking1 lmp:    -5.684471 ref:    -5.855372 err:    -2.918694 %
+NbV_surf110_stacking2 lmp:    -5.646060 ref:    -5.811044 err:    -2.839143 %
+NbV_surf110_stacking3 lmp:    -5.579190 ref:    -5.741947 err:    -2.834529 %
+NbV_surf110_stacking4 lmp:    -5.508216 ref:    -5.664090 err:    -2.751961 %
+NbV_surf110_stacking5 lmp:    -5.480339 ref:    -5.628053 err:    -2.624612 %
+NbV_surf110_stacking6 lmp:    -5.508208 ref:    -5.664085 err:    -2.752039 %
+NbV_surf110_stacking7 lmp:    -5.579178 ref:    -5.741948 err:    -2.834748 %
+NbV_surf110_stacking8 lmp:    -5.646052 ref:    -5.811045 err:    -2.839294 %
+NbV_surf110_stacking9 lmp:    -5.684468 ref:    -5.855372 err:    -2.918761 %
+NbV_surf110_stacking10 lmp:    -5.695629 ref:    -5.871381 err:    -2.993367 %
+NbV_surf111_stacking0 lmp:    -5.466228 ref:    -5.675787 err:    -3.692144 %
+NbV_surf111_stacking1 lmp:    -5.432433 ref:    -5.611059 err:    -3.183474 %
+NbV_surf111_stacking2 lmp:    -5.295900 ref:    -5.447253 err:    -2.778515 %
+NbV_surf111_stacking3 lmp:    -5.013543 ref:    -5.148609 err:    -2.623343 %
+NbV_surf111_stacking4 lmp:    -4.658369 ref:    -4.652729 err:     0.121225 %
+NbV_surf111_stacking5 lmp:    -4.487662 ref:    -4.352491 err:     3.105596 %
+NbV_surf111_stacking6 lmp:    -4.658373 ref:    -4.652800 err:     0.119791 %
+NbV_surf111_stacking7 lmp:    -5.013547 ref:    -5.148127 err:    -2.614158 %
+NbV_surf111_stacking8 lmp:    -5.295902 ref:    -5.447665 err:    -2.785842 %
+NbV_surf111_stacking9 lmp:    -5.432433 ref:    -5.609338 err:    -3.153745 %
+NbV_surf111_stacking10 lmp:    -5.466228 ref:    -5.675811 err:    -3.692566 %
+MoW_surf100_stacking0 lmp:    -7.173394 ref:    -7.180028 err:    -0.092402 %
+MoW_surf100_stacking1 lmp:    -7.146766 ref:    -7.151593 err:    -0.067492 %
+MoW_surf100_stacking2 lmp:    -7.049614 ref:    -7.063437 err:    -0.195698 %
+MoW_surf100_stacking3 lmp:    -6.886225 ref:    -6.931398 err:    -0.651715 %
+MoW_surf100_stacking4 lmp:    -6.718363 ref:    -6.800152 err:    -1.202752 %
+MoW_surf100_stacking5 lmp:    -6.643024 ref:    -6.742669 err:    -1.477825 %
+MoW_surf100_stacking6 lmp:    -6.718363 ref:    -6.800151 err:    -1.202743 %
+MoW_surf100_stacking7 lmp:    -6.886225 ref:    -6.931397 err:    -0.651704 %
+MoW_surf100_stacking8 lmp:    -7.049614 ref:    -7.063437 err:    -0.195706 %
+MoW_surf100_stacking9 lmp:    -7.146766 ref:    -7.151593 err:    -0.067500 %
+MoW_surf100_stacking10 lmp:    -7.173394 ref:    -7.180028 err:    -0.092399 %
+MoW_surf110_stacking0 lmp:    -7.015290 ref:    -7.114337 err:    -1.392218 %
+MoW_surf110_stacking1 lmp:    -6.988129 ref:    -7.078152 err:    -1.271844 %
+MoW_surf110_stacking2 lmp:    -6.894220 ref:    -6.971256 err:    -1.105053 %
+MoW_surf110_stacking3 lmp:    -6.738208 ref:    -6.825719 err:    -1.282079 %
+MoW_surf110_stacking4 lmp:    -6.574373 ref:    -6.693355 err:    -1.777609 %
+MoW_surf110_stacking5 lmp:    -6.500066 ref:    -6.644336 err:    -2.171328 %
+MoW_surf110_stacking6 lmp:    -6.574375 ref:    -6.693355 err:    -1.777581 %
+MoW_surf110_stacking7 lmp:    -6.738210 ref:    -6.825719 err:    -1.282045 %
+MoW_surf110_stacking8 lmp:    -6.894222 ref:    -6.971256 err:    -1.105028 %
+MoW_surf110_stacking9 lmp:    -6.988130 ref:    -7.078152 err:    -1.271833 %
+MoW_surf110_stacking10 lmp:    -7.015290 ref:    -7.114337 err:    -1.392218 %
+MoW_surf111_stacking0 lmp:    -6.656844 ref:    -6.801197 err:    -2.122470 %
+MoW_surf111_stacking1 lmp:    -6.554590 ref:    -6.681777 err:    -1.903481 %
+MoW_surf111_stacking2 lmp:    -6.124864 ref:    -6.339234 err:    -3.381641 %
+MoW_surf111_stacking3 lmp:    -5.066717 ref:    -5.728661 err:   -11.554949 %
+MoW_surf111_stacking4 lmp:    -3.444374 ref:    -4.716583 err:   -26.973106 %
+MoW_surf111_stacking5 lmp:    -2.542351 ref:    -4.093800 err:   -37.897524 %
+MoW_surf111_stacking6 lmp:    -3.444377 ref:    -4.716862 err:   -26.977369 %
+MoW_surf111_stacking7 lmp:    -5.066719 ref:    -5.731215 err:   -11.594331 %
+MoW_surf111_stacking8 lmp:    -6.124866 ref:    -6.340142 err:    -3.395444 %
+MoW_surf111_stacking9 lmp:    -6.554592 ref:    -6.681208 err:    -1.895107 %
+MoW_surf111_stacking10 lmp:    -6.656844 ref:    -6.801197 err:    -2.122469 %
+MoTa_surf100_stacking0 lmp:    -6.852176 ref:    -6.972542 err:    -1.726275 %
+MoTa_surf100_stacking1 lmp:    -6.813131 ref:    -6.943136 err:    -1.872436 %
+MoTa_surf100_stacking2 lmp:    -6.693352 ref:    -6.852144 err:    -2.317410 %
+MoTa_surf100_stacking3 lmp:    -6.512179 ref:    -6.717371 err:    -3.054646 %
+MoTa_surf100_stacking4 lmp:    -6.366724 ref:    -6.590169 err:    -3.390588 %
+MoTa_surf100_stacking5 lmp:    -6.318222 ref:    -6.535207 err:    -3.320255 %
+MoTa_surf100_stacking6 lmp:    -6.366723 ref:    -6.589976 err:    -3.387763 %
+MoTa_surf100_stacking7 lmp:    -6.512178 ref:    -6.717343 err:    -3.054252 %
+MoTa_surf100_stacking8 lmp:    -6.693351 ref:    -6.852158 err:    -2.317612 %
+MoTa_surf100_stacking9 lmp:    -6.813130 ref:    -6.943126 err:    -1.872289 %
+MoTa_surf100_stacking10 lmp:    -6.852176 ref:    -6.972522 err:    -1.725999 %
+MoTa_surf110_stacking0 lmp:    -6.683001 ref:    -6.894059 err:    -3.061449 %
+MoTa_surf110_stacking1 lmp:    -6.642446 ref:    -6.867737 err:    -3.280434 %
+MoTa_surf110_stacking2 lmp:    -6.521117 ref:    -6.778786 err:    -3.801109 %
+MoTa_surf110_stacking3 lmp:    -6.339255 ref:    -6.638824 err:    -4.512374 %
+MoTa_surf110_stacking4 lmp:    -6.193522 ref:    -6.503707 err:    -4.769366 %
+MoTa_surf110_stacking5 lmp:    -6.142657 ref:    -6.446058 err:    -4.706773 %
+MoTa_surf110_stacking6 lmp:    -6.193511 ref:    -6.503707 err:    -4.769519 %
+MoTa_surf110_stacking7 lmp:    -6.339236 ref:    -6.638824 err:    -4.512662 %
+MoTa_surf110_stacking8 lmp:    -6.521101 ref:    -6.778786 err:    -3.801352 %
+MoTa_surf110_stacking9 lmp:    -6.642437 ref:    -6.867710 err:    -3.280176 %
+MoTa_surf110_stacking10 lmp:    -6.683001 ref:    -6.894062 err:    -3.061495 %
+MoTa_surf111_stacking0 lmp:    -6.388750 ref:    -6.578601 err:    -2.885889 %
+MoTa_surf111_stacking1 lmp:    -6.283223 ref:    -6.464174 err:    -2.799283 %
+MoTa_surf111_stacking2 lmp:    -5.890654 ref:    -6.127778 err:    -3.869657 %
+MoTa_surf111_stacking3 lmp:    -5.032420 ref:    -5.357417 err:    -6.066291 %
+MoTa_surf111_stacking4 lmp:    -3.884900 ref:    -3.979017 err:    -2.365322 %
+MoTa_surf111_stacking5 lmp:    -3.360258 ref:    -3.152245 err:     6.598885 %
+MoTa_surf111_stacking6 lmp:    -3.884904 ref:    -3.979548 err:    -2.378247 %
+MoTa_surf111_stacking7 lmp:    -5.032427 ref:    -5.359146 err:    -6.096476 %
+MoTa_surf111_stacking8 lmp:    -5.890656 ref:    -6.128434 err:    -3.879906 %
+MoTa_surf111_stacking9 lmp:    -6.283224 ref:    -6.465108 err:    -2.813307 %
+MoTa_surf111_stacking10 lmp:    -6.388750 ref:    -6.578674 err:    -2.886960 %
+MoV_surf100_stacking0 lmp:    -5.634426 ref:    -5.724822 err:    -1.579025 %
+MoV_surf100_stacking1 lmp:    -5.616057 ref:    -5.706525 err:    -1.585351 %
+MoV_surf100_stacking2 lmp:    -5.554727 ref:    -5.648706 err:    -1.663717 %
+MoV_surf100_stacking3 lmp:    -5.458416 ref:    -5.565556 err:    -1.925063 %
+MoV_surf100_stacking4 lmp:    -5.366784 ref:    -5.485985 err:    -2.172834 %
+MoV_surf100_stacking5 lmp:    -5.330477 ref:    -5.450733 err:    -2.206224 %
+MoV_surf100_stacking6 lmp:    -5.366773 ref:    -5.485987 err:    -2.173052 %
+MoV_surf100_stacking7 lmp:    -5.458400 ref:    -5.565552 err:    -1.925269 %
+MoV_surf100_stacking8 lmp:    -5.554715 ref:    -5.648707 err:    -1.663958 %
+MoV_surf100_stacking9 lmp:    -5.616051 ref:    -5.706525 err:    -1.585444 %
+MoV_surf100_stacking10 lmp:    -5.634426 ref:    -5.724822 err:    -1.579035 %
+MoV_surf110_stacking0 lmp:    -5.486368 ref:    -5.645041 err:    -2.810841 %
+MoV_surf110_stacking1 lmp:    -5.467221 ref:    -5.627631 err:    -2.850402 %
+MoV_surf110_stacking2 lmp:    -5.405994 ref:    -5.567394 err:    -2.899018 %
+MoV_surf110_stacking3 lmp:    -5.309924 ref:    -5.474195 err:    -3.000823 %
+MoV_surf110_stacking4 lmp:    -5.215895 ref:    -5.379490 err:    -3.041084 %
+MoV_surf110_stacking5 lmp:    -5.177559 ref:    -5.339565 err:    -3.034082 %
+MoV_surf110_stacking6 lmp:    -5.215890 ref:    -5.379490 err:    -3.041186 %
+MoV_surf110_stacking7 lmp:    -5.309916 ref:    -5.474195 err:    -3.000971 %
+MoV_surf110_stacking8 lmp:    -5.405988 ref:    -5.567393 err:    -2.899126 %
+MoV_surf110_stacking9 lmp:    -5.467218 ref:    -5.627631 err:    -2.850456 %
+MoV_surf110_stacking10 lmp:    -5.486368 ref:    -5.645041 err:    -2.810838 %
+MoV_surf111_stacking0 lmp:    -5.251434 ref:    -5.390021 err:    -2.571177 %
+MoV_surf111_stacking1 lmp:    -5.189095 ref:    -5.303372 err:    -2.154787 %
+MoV_surf111_stacking2 lmp:    -4.984117 ref:    -5.099670 err:    -2.265886 %
+MoV_surf111_stacking3 lmp:    -4.607168 ref:    -4.759106 err:    -3.192577 %
+MoV_surf111_stacking4 lmp:    -4.142169 ref:    -4.164257 err:    -0.530424 %
+MoV_surf111_stacking5 lmp:    -3.907995 ref:    -3.793297 err:     3.023722 %
+MoV_surf111_stacking6 lmp:    -4.142174 ref:    -4.164259 err:    -0.530356 %
+MoV_surf111_stacking7 lmp:    -4.607172 ref:    -4.759106 err:    -3.192487 %
+MoV_surf111_stacking8 lmp:    -4.984119 ref:    -5.099669 err:    -2.265821 %
+MoV_surf111_stacking9 lmp:    -5.189097 ref:    -5.303374 err:    -2.154798 %
+MoV_surf111_stacking10 lmp:    -5.251434 ref:    -5.390022 err:    -2.571199 %
+WTa_surf100_stacking0 lmp:    -7.691241 ref:    -7.751135 err:    -0.772716 %
+WTa_surf100_stacking1 lmp:    -7.654631 ref:    -7.718238 err:    -0.824118 %
+WTa_surf100_stacking2 lmp:    -7.536827 ref:    -7.614085 err:    -1.014675 %
+WTa_surf100_stacking3 lmp:    -7.344917 ref:    -7.452486 err:    -1.443391 %
+WTa_surf100_stacking4 lmp:    -7.173769 ref:    -7.299211 err:    -1.718576 %
+WTa_surf100_stacking5 lmp:    -7.117559 ref:    -7.235867 err:    -1.635010 %
+WTa_surf100_stacking6 lmp:    -7.173768 ref:    -7.299209 err:    -1.718557 %
+WTa_surf100_stacking7 lmp:    -7.344916 ref:    -7.452483 err:    -1.443374 %
+WTa_surf100_stacking8 lmp:    -7.536826 ref:    -7.614087 err:    -1.014718 %
+WTa_surf100_stacking9 lmp:    -7.654630 ref:    -7.718234 err:    -0.824076 %
+WTa_surf100_stacking10 lmp:    -7.691241 ref:    -7.751138 err:    -0.772750 %
+WTa_surf110_stacking0 lmp:    -7.528200 ref:    -7.689010 err:    -2.091429 %
+WTa_surf110_stacking1 lmp:    -7.490139 ref:    -7.653268 err:    -2.131496 %
+WTa_surf110_stacking2 lmp:    -7.372013 ref:    -7.544588 err:    -2.287406 %
+WTa_surf110_stacking3 lmp:    -7.179944 ref:    -7.378675 err:    -2.693321 %
+WTa_surf110_stacking4 lmp:    -7.004196 ref:    -7.219512 err:    -2.982422 %
+WTa_surf110_stacking5 lmp:    -6.943417 ref:    -7.152490 err:    -2.923090 %
+WTa_surf110_stacking6 lmp:    -7.004179 ref:    -7.219513 err:    -2.982657 %
+WTa_surf110_stacking7 lmp:    -7.179914 ref:    -7.378675 err:    -2.693717 %
+WTa_surf110_stacking8 lmp:    -7.371991 ref:    -7.544588 err:    -2.287692 %
+WTa_surf110_stacking9 lmp:    -7.490128 ref:    -7.653269 err:    -2.131648 %
+WTa_surf110_stacking10 lmp:    -7.528200 ref:    -7.689010 err:    -2.091425 %
+WTa_surf111_stacking0 lmp:    -7.162725 ref:    -7.319660 err:    -2.144019 %
+WTa_surf111_stacking1 lmp:    -7.060970 ref:    -7.196030 err:    -1.876869 %
+WTa_surf111_stacking2 lmp:    -6.638985 ref:    -6.812321 err:    -2.544455 %
+WTa_surf111_stacking3 lmp:    -5.663718 ref:    -5.933051 err:    -4.539537 %
+WTa_surf111_stacking4 lmp:    -4.306644 ref:    -4.362709 err:    -1.285096 %
+WTa_surf111_stacking5 lmp:    -3.648018 ref:    -3.406260 err:     7.097448 %
+WTa_surf111_stacking6 lmp:    -4.306650 ref:    -4.363421 err:    -1.301062 %
+WTa_surf111_stacking7 lmp:    -5.663726 ref:    -5.936997 err:    -4.602836 %
+WTa_surf111_stacking8 lmp:    -6.638988 ref:    -6.813339 err:    -2.558974 %
+WTa_surf111_stacking9 lmp:    -7.060971 ref:    -7.198394 err:    -1.909083 %
+WTa_surf111_stacking10 lmp:    -7.162725 ref:    -7.319673 err:    -2.144197 %
+WV_surf100_stacking0 lmp:    -6.511381 ref:    -6.549960 err:    -0.589000 %
+WV_surf100_stacking1 lmp:    -6.495873 ref:    -6.525852 err:    -0.459389 %
+WV_surf100_stacking2 lmp:    -6.443704 ref:    -6.450967 err:    -0.112597 %
+WV_surf100_stacking3 lmp:    -6.371753 ref:    -6.340715 err:     0.489513 %
+WV_surf100_stacking4 lmp:    -6.298258 ref:    -6.239930 err:     0.934746 %
+WV_surf100_stacking5 lmp:    -6.266648 ref:    -6.196757 err:     1.127861 %
+WV_surf100_stacking6 lmp:    -6.298267 ref:    -6.239930 err:     0.934889 %
+WV_surf100_stacking7 lmp:    -6.371766 ref:    -6.340693 err:     0.490050 %
+WV_surf100_stacking8 lmp:    -6.443714 ref:    -6.450981 err:    -0.112643 %
+WV_surf100_stacking9 lmp:    -6.495877 ref:    -6.525863 err:    -0.459489 %
+WV_surf100_stacking10 lmp:    -6.511381 ref:    -6.549964 err:    -0.589061 %
+WV_surf110_stacking0 lmp:    -6.359285 ref:    -6.471032 err:    -1.726878 %
+WV_surf110_stacking1 lmp:    -6.343370 ref:    -6.445137 err:    -1.578979 %
+WV_surf110_stacking2 lmp:    -6.293547 ref:    -6.360567 err:    -1.053675 %
+WV_surf110_stacking3 lmp:    -6.229251 ref:    -6.239658 err:    -0.166793 %
+WV_surf110_stacking4 lmp:    -6.165456 ref:    -6.120486 err:     0.734743 %
+WV_surf110_stacking5 lmp:    -6.138120 ref:    -6.069903 err:     1.123857 %
+WV_surf110_stacking6 lmp:    -6.165460 ref:    -6.120486 err:     0.734812 %
+WV_surf110_stacking7 lmp:    -6.229256 ref:    -6.239658 err:    -0.166704 %
+WV_surf110_stacking8 lmp:    -6.293552 ref:    -6.360566 err:    -1.053589 %
+WV_surf110_stacking9 lmp:    -6.343372 ref:    -6.445137 err:    -1.578942 %
+WV_surf110_stacking10 lmp:    -6.359285 ref:    -6.471032 err:    -1.726878 %
+WV_surf111_stacking0 lmp:    -6.056977 ref:    -6.159931 err:    -1.671359 %
+WV_surf111_stacking1 lmp:    -5.994613 ref:    -6.062431 err:    -1.118656 %
+WV_surf111_stacking2 lmp:    -5.654745 ref:    -5.804871 err:    -2.586210 %
+WV_surf111_stacking3 lmp:    -4.665738 ref:    -5.347862 err:   -12.755082 %
+WV_surf111_stacking4 lmp:    -3.086132 ref:    -4.586859 err:   -32.717974 %
+WV_surf111_stacking5 lmp:    -2.195136 ref:    -4.118307 err:   -46.698109 %
+WV_surf111_stacking6 lmp:    -3.086132 ref:    -4.586871 err:   -32.718145 %
+WV_surf111_stacking7 lmp:    -4.665737 ref:    -5.347869 err:   -12.755208 %
+WV_surf111_stacking8 lmp:    -5.654745 ref:    -5.804873 err:    -2.586243 %
+WV_surf111_stacking9 lmp:    -5.994614 ref:    -6.062428 err:    -1.118603 %
+WV_surf111_stacking10 lmp:    -6.056977 ref:    -6.159932 err:    -1.671366 %
+TaV_surf100_stacking0 lmp:    -6.143035 ref:    -6.206476 err:    -1.022169 %
+TaV_surf100_stacking1 lmp:    -6.120236 ref:    -6.189348 err:    -1.116629 %
+TaV_surf100_stacking2 lmp:    -6.045224 ref:    -6.129010 err:    -1.367031 %
+TaV_surf100_stacking3 lmp:    -5.930567 ref:    -6.035438 err:    -1.737581 %
+TaV_surf100_stacking4 lmp:    -5.824151 ref:    -5.943712 err:    -2.011547 %
+TaV_surf100_stacking5 lmp:    -5.787672 ref:    -5.901143 err:    -1.922863 %
+TaV_surf100_stacking6 lmp:    -5.824151 ref:    -5.942342 err:    -1.988957 %
+TaV_surf100_stacking7 lmp:    -5.930567 ref:    -6.035494 err:    -1.738499 %
+TaV_surf100_stacking8 lmp:    -6.045224 ref:    -6.128960 err:    -1.366227 %
+TaV_surf100_stacking9 lmp:    -6.120236 ref:    -6.189277 err:    -1.115497 %
+TaV_surf100_stacking10 lmp:    -6.143035 ref:    -6.206648 err:    -1.024911 %
+TaV_surf110_stacking0 lmp:    -5.982017 ref:    -6.088699 err:    -1.752126 %
+TaV_surf110_stacking1 lmp:    -5.959224 ref:    -6.064953 err:    -1.743281 %
+TaV_surf110_stacking2 lmp:    -5.883537 ref:    -6.004400 err:    -2.012905 %
+TaV_surf110_stacking3 lmp:    -5.768398 ref:    -5.912781 err:    -2.441878 %
+TaV_surf110_stacking4 lmp:    -5.658417 ref:    -5.815482 err:    -2.700805 %
+TaV_surf110_stacking5 lmp:    -5.618122 ref:    -5.771612 err:    -2.659389 %
+TaV_surf110_stacking6 lmp:    -5.658406 ref:    -5.815468 err:    -2.700754 %
+TaV_surf110_stacking7 lmp:    -5.768382 ref:    -5.912780 err:    -2.442128 %
+TaV_surf110_stacking8 lmp:    -5.883524 ref:    -6.004405 err:    -2.013208 %
+TaV_surf110_stacking9 lmp:    -5.959217 ref:    -6.064950 err:    -1.743334 %
+TaV_surf110_stacking10 lmp:    -5.982017 ref:    -6.088709 err:    -1.752295 %
+TaV_surf111_stacking0 lmp:    -5.729805 ref:    -5.903490 err:    -2.942071 %
+TaV_surf111_stacking1 lmp:    -5.661802 ref:    -5.827529 err:    -2.843858 %
+TaV_surf111_stacking2 lmp:    -5.367429 ref:    -5.589076 err:    -3.965732 %
+TaV_surf111_stacking3 lmp:    -4.656853 ref:    -5.012632 err:    -7.097660 %
+TaV_surf111_stacking4 lmp:    -3.610415 ref:    -3.731939 err:    -3.256329 %
+TaV_surf111_stacking5 lmp:    -3.049682 ref:    -2.824353 err:     7.978091 %
+TaV_surf111_stacking6 lmp:    -3.610414 ref:    -3.731772 err:    -3.252018 %
+TaV_surf111_stacking7 lmp:    -4.656852 ref:    -5.012252 err:    -7.090612 %
+TaV_surf111_stacking8 lmp:    -5.367429 ref:    -5.590174 err:    -3.984596 %
+TaV_surf111_stacking9 lmp:    -5.661802 ref:    -5.827044 err:    -2.835782 %
+TaV_surf111_stacking10 lmp:    -5.729805 ref:    -5.903507 err:    -2.942345 %
+  00MC_00004_B2 lmp:    -6.721378 ref:    -7.108731 err:    -5.448972 %
+  00MC_00005_B2 lmp:    -6.751030 ref:    -7.103495 err:    -4.961855 %
+  00MC_00006_B2 lmp:    -6.722596 ref:    -7.110213 err:    -5.451549 %
+  00MC_00007_B2 lmp:    -6.747825 ref:    -7.120959 err:    -5.239946 %
+NbMo_Fine_300MD5 lmp:    -7.196322 ref:    -7.166894 err:     0.410611 %
+NbMo_Fine_300MD10 lmp:    -7.181013 ref:    -7.149520 err:     0.440493 %
+NbMo_Fine_300MD15 lmp:    -7.161522 ref:    -7.133306 err:     0.395548 %
+NbMo_Fine_300MD20 lmp:    -7.141727 ref:    -7.119524 err:     0.311858 %
+NbMo_Fine_300MD25 lmp:    -7.109555 ref:    -7.105740 err:     0.053691 %
+NbMo_Fine_300MD30 lmp:    -7.101850 ref:    -7.092821 err:     0.127285 %
+NbMo_Fine_300MD35 lmp:    -7.093556 ref:    -7.104571 err:    -0.155041 %
+NbMo_Fine_300MD40 lmp:    -7.102977 ref:    -7.094491 err:     0.119619 %
+NbMo_Fine_300MD45 lmp:    -7.120976 ref:    -7.117851 err:     0.043897 %
+NbMo_Fine_300MD50 lmp:    -7.126780 ref:    -7.126701 err:     0.001115 %
+NbMo_Fine_300MD55 lmp:    -7.158617 ref:    -7.142358 err:     0.227649 %
+NbMo_Fine_300MD60 lmp:    -7.168090 ref:    -7.160061 err:     0.112131 %
+NbMo_Fine_300MD65 lmp:    -7.174771 ref:    -7.172625 err:     0.029916 %
+NbMo_Fine_300MD70 lmp:    -7.182773 ref:    -7.161375 err:     0.298799 %
+NbMo_Fine_300MD75 lmp:    -7.169833 ref:    -7.161281 err:     0.119426 %
+NbMo_Fine_300MD80 lmp:    -7.170639 ref:    -7.149642 err:     0.293678 %
+NbMo_Fine_300MD85 lmp:    -7.149574 ref:    -7.135692 err:     0.194546 %
+NbMo_Fine_300MD90 lmp:    -7.138912 ref:    -7.125451 err:     0.188913 %
+NbMo_Fine_300MD95 lmp:    -7.138034 ref:    -7.130876 err:     0.100384 %
+NbMo_Fine_300MD100 lmp:    -7.123366 ref:    -7.116568 err:     0.095528 %
+NbMo_Fine_600MD5 lmp:    -7.192549 ref:    -7.124063 err:     0.961330 %
+NbMo_Fine_600MD10 lmp:    -7.166598 ref:    -7.090429 err:     1.074249 %
+NbMo_Fine_600MD15 lmp:    -7.130496 ref:    -7.055579 err:     1.061805 %
+NbMo_Fine_600MD20 lmp:    -7.093264 ref:    -7.018373 err:     1.067068 %
+NbMo_Fine_600MD25 lmp:    -7.052020 ref:    -7.024757 err:     0.388095 %
+NbMo_Fine_600MD30 lmp:    -7.067617 ref:    -6.993635 err:     1.057846 %
+NbMo_Fine_600MD35 lmp:    -7.074540 ref:    -7.026935 err:     0.677466 %
+NbMo_Fine_600MD40 lmp:    -7.109131 ref:    -7.058826 err:     0.712657 %
+NbMo_Fine_600MD45 lmp:    -7.126899 ref:    -7.065825 err:     0.864362 %
+NbMo_Fine_600MD50 lmp:    -7.141484 ref:    -7.082621 err:     0.831090 %
+NbMo_Fine_600MD55 lmp:    -7.162767 ref:    -7.113567 err:     0.691641 %
+NbMo_Fine_600MD60 lmp:    -7.163770 ref:    -7.113173 err:     0.711310 %
+NbMo_Fine_600MD65 lmp:    -7.172288 ref:    -7.123634 err:     0.682995 %
+NbMo_Fine_600MD70 lmp:    -7.157635 ref:    -7.097068 err:     0.853409 %
+NbMo_Fine_600MD75 lmp:    -7.141476 ref:    -7.083072 err:     0.824561 %
+NbMo_Fine_600MD80 lmp:    -7.111585 ref:    -7.049267 err:     0.884039 %
+NbMo_Fine_600MD85 lmp:    -7.061399 ref:    -7.016981 err:     0.633013 %
+NbMo_Fine_600MD90 lmp:    -7.051049 ref:    -6.995851 err:     0.789022 %
+NbMo_Fine_600MD95 lmp:    -7.034383 ref:    -7.025558 err:     0.125606 %
+NbMo_Fine_600MD100 lmp:    -7.084812 ref:    -7.051939 err:     0.466157 %
+NbMo_Fine_900MD5 lmp:    -7.188280 ref:    -7.081285 err:     1.510954 %
+NbMo_Fine_900MD10 lmp:    -7.150950 ref:    -7.030999 err:     1.706031 %
+NbMo_Fine_900MD15 lmp:    -7.082817 ref:    -6.971247 err:     1.600438 %
+NbMo_Fine_900MD20 lmp:    -7.027378 ref:    -6.902435 err:     1.810129 %
+NbMo_Fine_900MD25 lmp:    -6.974565 ref:    -6.906437 err:     0.986452 %
+NbMo_Fine_900MD30 lmp:    -6.943932 ref:    -6.885333 err:     0.851068 %
+NbMo_Fine_900MD35 lmp:    -6.956568 ref:    -6.910452 err:     0.667341 %
+NbMo_Fine_900MD40 lmp:    -6.968143 ref:    -6.882762 err:     1.240495 %
+NbMo_Fine_900MD45 lmp:    -6.946713 ref:    -6.900341 err:     0.672018 %
+NbMo_Fine_900MD50 lmp:    -6.946235 ref:    -6.857569 err:     1.292967 %
+NbMo_Fine_900MD55 lmp:    -6.980837 ref:    -6.912572 err:     0.987554 %
+NbMo_Fine_900MD60 lmp:    -7.033142 ref:    -6.959417 err:     1.059347 %
+NbMo_Fine_900MD65 lmp:    -7.093006 ref:    -6.999611 err:     1.334287 %
+NbMo_Fine_900MD70 lmp:    -7.132346 ref:    -7.011382 err:     1.725248 %
+NbMo_Fine_900MD75 lmp:    -7.147176 ref:    -7.036559 err:     1.572038 %
+NbMo_Fine_900MD80 lmp:    -7.150796 ref:    -6.999172 err:     2.166325 %
+NbMo_Fine_900MD85 lmp:    -7.154686 ref:    -7.043495 err:     1.578646 %
+NbMo_Fine_900MD90 lmp:    -7.151390 ref:    -7.020574 err:     1.863319 %
+NbMo_Fine_900MD95 lmp:    -7.115170 ref:    -7.052513 err:     0.888423 %
+NbMo_Fine_900MD100 lmp:    -7.079137 ref:    -7.008169 err:     1.012643 %
+NbW_Fine_300MD5 lmp:    -8.065415 ref:    -7.972679 err:     1.163171 %
+NbW_Fine_300MD10 lmp:    -8.060827 ref:    -7.957839 err:     1.294159 %
+NbW_Fine_300MD15 lmp:    -8.043606 ref:    -7.954674 err:     1.117986 %
+NbW_Fine_300MD20 lmp:    -7.980943 ref:    -7.950285 err:     0.385626 %
+NbW_Fine_300MD25 lmp:    -7.974993 ref:    -7.943365 err:     0.398164 %
+NbW_Fine_300MD30 lmp:    -7.959572 ref:    -7.920913 err:     0.488059 %
+NbW_Fine_300MD35 lmp:    -7.927442 ref:    -7.923696 err:     0.047277 %
+NbW_Fine_300MD40 lmp:    -7.912550 ref:    -7.917345 err:    -0.060556 %
+NbW_Fine_300MD45 lmp:    -7.916897 ref:    -7.930281 err:    -0.168762 %
+NbW_Fine_300MD50 lmp:    -7.930297 ref:    -7.928086 err:     0.027897 %
+NbW_Fine_300MD55 lmp:    -7.938025 ref:    -7.948664 err:    -0.133855 %
+NbW_Fine_300MD60 lmp:    -7.955372 ref:    -7.967714 err:    -0.154897 %
+NbW_Fine_300MD65 lmp:    -7.991045 ref:    -7.961799 err:     0.367327 %
+NbW_Fine_300MD70 lmp:    -7.997059 ref:    -7.972672 err:     0.305878 %
+NbW_Fine_300MD75 lmp:    -7.990945 ref:    -7.979457 err:     0.143973 %
+NbW_Fine_300MD80 lmp:    -8.022539 ref:    -7.967964 err:     0.684924 %
+NbW_Fine_300MD85 lmp:    -8.016696 ref:    -7.972608 err:     0.552988 %
+NbW_Fine_300MD90 lmp:    -7.983066 ref:    -7.956400 err:     0.335152 %
+NbW_Fine_300MD95 lmp:    -8.016007 ref:    -7.948157 err:     0.853660 %
+NbW_Fine_300MD100 lmp:    -8.015441 ref:    -7.954459 err:     0.766635 %
+NbW_Fine_600MD5 lmp:    -8.056687 ref:    -7.928841 err:     1.612419 %
+NbW_Fine_600MD10 lmp:    -8.044283 ref:    -7.901141 err:     1.811660 %
+NbW_Fine_600MD15 lmp:    -7.981101 ref:    -7.912032 err:     0.872961 %
+NbW_Fine_600MD20 lmp:    -7.940252 ref:    -7.880014 err:     0.764431 %
+NbW_Fine_600MD25 lmp:    -7.901873 ref:    -7.846375 err:     0.707306 %
+NbW_Fine_600MD30 lmp:    -7.885227 ref:    -7.824999 err:     0.769691 %
+NbW_Fine_600MD35 lmp:    -7.897965 ref:    -7.854414 err:     0.554468 %
+NbW_Fine_600MD40 lmp:    -7.893105 ref:    -7.835525 err:     0.734859 %
+NbW_Fine_600MD45 lmp:    -7.945367 ref:    -7.867924 err:     0.984289 %
+NbW_Fine_600MD50 lmp:    -7.946166 ref:    -7.879714 err:     0.843331 %
+NbW_Fine_600MD55 lmp:    -7.977826 ref:    -7.882292 err:     1.212004 %
+NbW_Fine_600MD60 lmp:    -7.976192 ref:    -7.906738 err:     0.878421 %
+NbW_Fine_600MD65 lmp:    -8.000376 ref:    -7.897154 err:     1.307068 %
+NbW_Fine_600MD70 lmp:    -8.003061 ref:    -7.917301 err:     1.083198 %
+NbW_Fine_600MD75 lmp:    -8.001817 ref:    -7.887891 err:     1.444317 %
+NbW_Fine_600MD80 lmp:    -8.000349 ref:    -7.921414 err:     0.996471 %
+NbW_Fine_600MD85 lmp:    -7.976022 ref:    -7.890081 err:     1.089224 %
+NbW_Fine_600MD90 lmp:    -7.998692 ref:    -7.899706 err:     1.253032 %
+NbW_Fine_600MD95 lmp:    -7.973346 ref:    -7.885203 err:     1.117826 %
+NbW_Fine_600MD100 lmp:    -7.986434 ref:    -7.879350 err:     1.359041 %
+NbW_Fine_900MD5 lmp:    -8.056349 ref:    -7.889972 err:     2.108722 %
+NbW_Fine_900MD10 lmp:    -8.024531 ref:    -7.869103 err:     1.975167 %
+NbW_Fine_900MD15 lmp:    -7.968428 ref:    -7.840339 err:     1.633720 %
+NbW_Fine_900MD20 lmp:    -7.880192 ref:    -7.813412 err:     0.854677 %
+NbW_Fine_900MD25 lmp:    -7.824481 ref:    -7.762515 err:     0.798267 %
+NbW_Fine_900MD30 lmp:    -7.746663 ref:    -7.705757 err:     0.530858 %
+NbW_Fine_900MD35 lmp:    -7.659438 ref:    -7.651532 err:     0.103323 %
+NbW_Fine_900MD40 lmp:    -7.650427 ref:    -7.616573 err:     0.444477 %
+NbW_Fine_900MD45 lmp:    -7.630980 ref:    -7.619785 err:     0.146926 %
+NbW_Fine_900MD50 lmp:    -7.653124 ref:    -7.598202 err:     0.722819 %
+NbW_Fine_900MD55 lmp:    -7.726150 ref:    -7.668892 err:     0.746622 %
+NbW_Fine_900MD60 lmp:    -7.776641 ref:    -7.725454 err:     0.662575 %
+NbW_Fine_900MD65 lmp:    -7.845955 ref:    -7.747227 err:     1.274362 %
+NbW_Fine_900MD70 lmp:    -7.916187 ref:    -7.813506 err:     1.314143 %
+NbW_Fine_900MD75 lmp:    -7.951283 ref:    -7.844128 err:     1.366060 %
+NbW_Fine_900MD80 lmp:    -7.988677 ref:    -7.877059 err:     1.417000 %
+NbW_Fine_900MD85 lmp:    -8.003061 ref:    -7.857228 err:     1.856036 %
+NbW_Fine_900MD90 lmp:    -7.989446 ref:    -7.882991 err:     1.350448 %
+NbW_Fine_900MD95 lmp:    -8.003566 ref:    -7.847817 err:     1.984621 %
+NbW_Fine_900MD100 lmp:    -7.980644 ref:    -7.887441 err:     1.181659 %
+NbTa_Fine_300MD5 lmp:    -7.751777 ref:    -7.617584 err:     1.761624 %
+NbTa_Fine_300MD10 lmp:    -7.741480 ref:    -7.604296 err:     1.804035 %
+NbTa_Fine_300MD15 lmp:    -7.728463 ref:    -7.591646 err:     1.802203 %
+NbTa_Fine_300MD20 lmp:    -7.716218 ref:    -7.581822 err:     1.772608 %
+NbTa_Fine_300MD25 lmp:    -7.692234 ref:    -7.576262 err:     1.530718 %
+NbTa_Fine_300MD30 lmp:    -7.651347 ref:    -7.562607 err:     1.173411 %
+NbTa_Fine_300MD35 lmp:    -7.663441 ref:    -7.580869 err:     1.089224 %
+NbTa_Fine_300MD40 lmp:    -7.674154 ref:    -7.571861 err:     1.350962 %
+NbTa_Fine_300MD45 lmp:    -7.652429 ref:    -7.578438 err:     0.976338 %
+NbTa_Fine_300MD50 lmp:    -7.658809 ref:    -7.577240 err:     1.076503 %
+NbTa_Fine_300MD55 lmp:    -7.688151 ref:    -7.588251 err:     1.316504 %
+NbTa_Fine_300MD60 lmp:    -7.693869 ref:    -7.585531 err:     1.428220 %
+NbTa_Fine_300MD65 lmp:    -7.678495 ref:    -7.592408 err:     1.133855 %
+NbTa_Fine_300MD70 lmp:    -7.675744 ref:    -7.592355 err:     1.098327 %
+NbTa_Fine_300MD75 lmp:    -7.685880 ref:    -7.606769 err:     1.040011 %
+NbTa_Fine_300MD80 lmp:    -7.689099 ref:    -7.595829 err:     1.227914 %
+NbTa_Fine_300MD85 lmp:    -7.681952 ref:    -7.609804 err:     0.948089 %
+NbTa_Fine_300MD90 lmp:    -7.681939 ref:    -7.588956 err:     1.225251 %
+NbTa_Fine_300MD95 lmp:    -7.696173 ref:    -7.611976 err:     1.106113 %
+NbTa_Fine_300MD100 lmp:    -7.687115 ref:    -7.602254 err:     1.116255 %
+NbTa_Fine_600MD5 lmp:    -7.735446 ref:    -7.590714 err:     1.906699 %
+NbTa_Fine_600MD10 lmp:    -7.727041 ref:    -7.587791 err:     1.835193 %
+NbTa_Fine_600MD15 lmp:    -7.694673 ref:    -7.571784 err:     1.622980 %
+NbTa_Fine_600MD20 lmp:    -7.650310 ref:    -7.555600 err:     1.253504 %
+NbTa_Fine_600MD25 lmp:    -7.623912 ref:    -7.523002 err:     1.341353 %
+NbTa_Fine_600MD30 lmp:    -7.592914 ref:    -7.495289 err:     1.302485 %
+NbTa_Fine_600MD35 lmp:    -7.590193 ref:    -7.504026 err:     1.148270 %
+NbTa_Fine_600MD40 lmp:    -7.586560 ref:    -7.523846 err:     0.833530 %
+NbTa_Fine_600MD45 lmp:    -7.590274 ref:    -7.500843 err:     1.192278 %
+NbTa_Fine_600MD50 lmp:    -7.613432 ref:    -7.524911 err:     1.176369 %
+NbTa_Fine_600MD55 lmp:    -7.618660 ref:    -7.503745 err:     1.531444 %
+NbTa_Fine_600MD60 lmp:    -7.633203 ref:    -7.560059 err:     0.967513 %
+NbTa_Fine_600MD65 lmp:    -7.628739 ref:    -7.572468 err:     0.743094 %
+NbTa_Fine_600MD70 lmp:    -7.654418 ref:    -7.553914 err:     1.330491 %
+NbTa_Fine_600MD75 lmp:    -7.680933 ref:    -7.594777 err:     1.134417 %
+NbTa_Fine_600MD80 lmp:    -7.661761 ref:    -7.558831 err:     1.361713 %
+NbTa_Fine_600MD85 lmp:    -7.642633 ref:    -7.586229 err:     0.743507 %
+NbTa_Fine_600MD90 lmp:    -7.615906 ref:    -7.551413 err:     0.854050 %
+NbTa_Fine_600MD95 lmp:    -7.650255 ref:    -7.559330 err:     1.202819 %
+NbTa_Fine_600MD100 lmp:    -7.669504 ref:    -7.581124 err:     1.165788 %
+NbTa_Fine_900MD5 lmp:    -7.730564 ref:    -7.548698 err:     2.409237 %
+NbTa_Fine_900MD10 lmp:    -7.709524 ref:    -7.523653 err:     2.470485 %
+NbTa_Fine_900MD15 lmp:    -7.668403 ref:    -7.510902 err:     2.096965 %
+NbTa_Fine_900MD20 lmp:    -7.605148 ref:    -7.470842 err:     1.797738 %
+NbTa_Fine_900MD25 lmp:    -7.554680 ref:    -7.433357 err:     1.632150 %
+NbTa_Fine_900MD30 lmp:    -7.524781 ref:    -7.423073 err:     1.370168 %
+NbTa_Fine_900MD35 lmp:    -7.513170 ref:    -7.401923 err:     1.502950 %
+NbTa_Fine_900MD40 lmp:    -7.521714 ref:    -7.430465 err:     1.228046 %
+NbTa_Fine_900MD45 lmp:    -7.515828 ref:    -7.390881 err:     1.690559 %
+NbTa_Fine_900MD50 lmp:    -7.475627 ref:    -7.393942 err:     1.104753 %
+NbTa_Fine_900MD55 lmp:    -7.494171 ref:    -7.382744 err:     1.509292 %
+NbTa_Fine_900MD60 lmp:    -7.533508 ref:    -7.438538 err:     1.276721 %
+NbTa_Fine_900MD65 lmp:    -7.543643 ref:    -7.489296 err:     0.725661 %
+NbTa_Fine_900MD70 lmp:    -7.585628 ref:    -7.470062 err:     1.547051 %
+NbTa_Fine_900MD75 lmp:    -7.622711 ref:    -7.511179 err:     1.484882 %
+NbTa_Fine_900MD80 lmp:    -7.626577 ref:    -7.536313 err:     1.197722 %
+NbTa_Fine_900MD85 lmp:    -7.646568 ref:    -7.512903 err:     1.779141 %
+NbTa_Fine_900MD90 lmp:    -7.659754 ref:    -7.535119 err:     1.654049 %
+NbTa_Fine_900MD95 lmp:    -7.659960 ref:    -7.553251 err:     1.412757 %
+NbTa_Fine_900MD100 lmp:    -7.671997 ref:    -7.546662 err:     1.660795 %
+NbV_Fine_300MD5 lmp:    -6.249539 ref:    -6.254366 err:    -0.077186 %
+NbV_Fine_300MD10 lmp:    -6.260912 ref:    -6.238303 err:     0.362416 %
+NbV_Fine_300MD15 lmp:    -6.233518 ref:    -6.219687 err:     0.222365 %
+NbV_Fine_300MD20 lmp:    -6.244011 ref:    -6.216477 err:     0.442914 %
+NbV_Fine_300MD25 lmp:    -6.223189 ref:    -6.226196 err:    -0.048296 %
+NbV_Fine_300MD30 lmp:    -6.241667 ref:    -6.218518 err:     0.372270 %
+NbV_Fine_300MD35 lmp:    -6.223308 ref:    -6.230076 err:    -0.108631 %
+NbV_Fine_300MD40 lmp:    -6.241395 ref:    -6.241089 err:     0.004900 %
+NbV_Fine_300MD45 lmp:    -6.224652 ref:    -6.225607 err:    -0.015344 %
+NbV_Fine_300MD50 lmp:    -6.241073 ref:    -6.234186 err:     0.110473 %
+NbV_Fine_300MD55 lmp:    -6.225124 ref:    -6.215450 err:     0.155650 %
+NbV_Fine_300MD60 lmp:    -6.242253 ref:    -6.227635 err:     0.234712 %
+NbV_Fine_300MD65 lmp:    -6.229097 ref:    -6.241023 err:    -0.191086 %
+NbV_Fine_300MD70 lmp:    -6.246153 ref:    -6.229522 err:     0.266974 %
+NbV_Fine_300MD75 lmp:    -6.233610 ref:    -6.235479 err:    -0.029981 %
+NbV_Fine_300MD80 lmp:    -6.243382 ref:    -6.226188 err:     0.276152 %
+NbV_Fine_300MD85 lmp:    -6.230304 ref:    -6.234086 err:    -0.060651 %
+NbV_Fine_300MD90 lmp:    -6.242429 ref:    -6.222654 err:     0.317777 %
+NbV_Fine_300MD95 lmp:    -6.235212 ref:    -6.239666 err:    -0.071386 %
+NbV_Fine_300MD100 lmp:    -6.244443 ref:    -6.252062 err:    -0.121857 %
+NbV_Fine_600MD5 lmp:    -6.248767 ref:    -6.212947 err:     0.576551 %
+NbV_Fine_600MD10 lmp:    -6.236977 ref:    -6.179363 err:     0.932356 %
+NbV_Fine_600MD15 lmp:    -6.221057 ref:    -6.165661 err:     0.898464 %
+NbV_Fine_600MD20 lmp:    -6.178794 ref:    -6.135677 err:     0.702731 %
+NbV_Fine_600MD25 lmp:    -6.139194 ref:    -6.115681 err:     0.384465 %
+NbV_Fine_600MD30 lmp:    -6.114572 ref:    -6.097088 err:     0.286770 %
+NbV_Fine_600MD35 lmp:    -6.070740 ref:    -6.060198 err:     0.173956 %
+NbV_Fine_600MD40 lmp:    -6.055008 ref:    -6.069829 err:    -0.244166 %
+NbV_Fine_600MD45 lmp:    -6.091942 ref:    -6.073436 err:     0.304695 %
+NbV_Fine_600MD50 lmp:    -6.115767 ref:    -6.093365 err:     0.367644 %
+NbV_Fine_600MD55 lmp:    -6.153124 ref:    -6.132658 err:     0.333718 %
+NbV_Fine_600MD60 lmp:    -6.188595 ref:    -6.159248 err:     0.476478 %
+NbV_Fine_600MD65 lmp:    -6.187410 ref:    -6.179422 err:     0.129264 %
+NbV_Fine_600MD70 lmp:    -6.194653 ref:    -6.163270 err:     0.509197 %
+NbV_Fine_600MD75 lmp:    -6.188466 ref:    -6.174572 err:     0.225012 %
+NbV_Fine_600MD80 lmp:    -6.180150 ref:    -6.152374 err:     0.451466 %
+NbV_Fine_600MD85 lmp:    -6.198230 ref:    -6.174829 err:     0.378978 %
+NbV_Fine_600MD90 lmp:    -6.191902 ref:    -6.166950 err:     0.404609 %
+NbV_Fine_600MD95 lmp:    -6.161009 ref:    -6.174919 err:    -0.225275 %
+NbV_Fine_600MD100 lmp:    -6.144256 ref:    -6.142236 err:     0.032890 %
+NbV_Fine_900MD5 lmp:    -6.248476 ref:    -6.172328 err:     1.233695 %
+NbV_Fine_900MD10 lmp:    -6.209796 ref:    -6.122230 err:     1.430298 %
+NbV_Fine_900MD15 lmp:    -6.185946 ref:    -6.086758 err:     1.629584 %
+NbV_Fine_900MD20 lmp:    -6.133771 ref:    -6.052184 err:     1.348074 %
+NbV_Fine_900MD25 lmp:    -6.061783 ref:    -6.026919 err:     0.578470 %
+NbV_Fine_900MD30 lmp:    -6.047107 ref:    -5.992961 err:     0.903494 %
+NbV_Fine_900MD35 lmp:    -6.075288 ref:    -6.058036 err:     0.284779 %
+NbV_Fine_900MD40 lmp:    -6.086407 ref:    -6.093615 err:    -0.118290 %
+NbV_Fine_900MD45 lmp:    -6.097312 ref:    -6.057238 err:     0.661590 %
+NbV_Fine_900MD50 lmp:    -6.161628 ref:    -6.099009 err:     1.026711 %
+NbV_Fine_900MD55 lmp:    -6.190585 ref:    -6.096803 err:     1.538216 %
+NbV_Fine_900MD60 lmp:    -6.186897 ref:    -6.127291 err:     0.972802 %
+NbV_Fine_900MD65 lmp:    -6.211604 ref:    -6.125000 err:     1.413949 %
+NbV_Fine_900MD70 lmp:    -6.215461 ref:    -6.154872 err:     0.984398 %
+NbV_Fine_900MD75 lmp:    -6.180235 ref:    -6.136823 err:     0.707397 %
+NbV_Fine_900MD80 lmp:    -6.124788 ref:    -6.111847 err:     0.211747 %
+NbV_Fine_900MD85 lmp:    -6.140297 ref:    -6.111445 err:     0.472092 %
+NbV_Fine_900MD90 lmp:    -6.142450 ref:    -6.086051 err:     0.926695 %
+NbV_Fine_900MD95 lmp:    -6.100271 ref:    -6.055265 err:     0.743245 %
+NbV_Fine_900MD100 lmp:    -6.108070 ref:    -6.044941 err:     1.044314 %
+MoW_Fine_300MD5 lmp:    -7.731639 ref:    -7.748316 err:    -0.215235 %
+MoW_Fine_300MD10 lmp:    -7.718556 ref:    -7.730955 err:    -0.160382 %
+MoW_Fine_300MD15 lmp:    -7.703720 ref:    -7.711428 err:    -0.099966 %
+MoW_Fine_300MD20 lmp:    -7.690226 ref:    -7.693209 err:    -0.038765 %
+MoW_Fine_300MD25 lmp:    -7.682311 ref:    -7.684128 err:    -0.023653 %
+MoW_Fine_300MD30 lmp:    -7.684354 ref:    -7.695834 err:    -0.149169 %
+MoW_Fine_300MD35 lmp:    -7.692530 ref:    -7.690734 err:     0.023358 %
+MoW_Fine_300MD40 lmp:    -7.702149 ref:    -7.706683 err:    -0.058841 %
+MoW_Fine_300MD45 lmp:    -7.711998 ref:    -7.719306 err:    -0.094677 %
+MoW_Fine_300MD50 lmp:    -7.718914 ref:    -7.733271 err:    -0.185650 %
+MoW_Fine_300MD55 lmp:    -7.719555 ref:    -7.725354 err:    -0.075068 %
+MoW_Fine_300MD60 lmp:    -7.716855 ref:    -7.729229 err:    -0.160091 %
+MoW_Fine_300MD65 lmp:    -7.717615 ref:    -7.717649 err:    -0.000442 %
+MoW_Fine_300MD70 lmp:    -7.717199 ref:    -7.729151 err:    -0.154627 %
+MoW_Fine_300MD75 lmp:    -7.713227 ref:    -7.715274 err:    -0.026538 %
+MoW_Fine_300MD80 lmp:    -7.709209 ref:    -7.724126 err:    -0.193117 %
+MoW_Fine_300MD85 lmp:    -7.703951 ref:    -7.710334 err:    -0.082787 %
+MoW_Fine_300MD90 lmp:    -7.699540 ref:    -7.698723 err:     0.010617 %
+MoW_Fine_300MD95 lmp:    -7.702866 ref:    -7.711246 err:    -0.108681 %
+MoW_Fine_300MD100 lmp:    -7.713538 ref:    -7.714554 err:    -0.013169 %
+MoW_Fine_600MD5 lmp:    -7.726845 ref:    -7.705530 err:     0.276615 %
+MoW_Fine_600MD10 lmp:    -7.707303 ref:    -7.672266 err:     0.456665 %
+MoW_Fine_600MD15 lmp:    -7.672759 ref:    -7.631897 err:     0.535410 %
+MoW_Fine_600MD20 lmp:    -7.646460 ref:    -7.596546 err:     0.657066 %
+MoW_Fine_600MD25 lmp:    -7.619890 ref:    -7.563974 err:     0.739246 %
+MoW_Fine_600MD30 lmp:    -7.606017 ref:    -7.548616 err:     0.760409 %
+MoW_Fine_600MD35 lmp:    -7.595311 ref:    -7.528489 err:     0.887588 %
+MoW_Fine_600MD40 lmp:    -7.605461 ref:    -7.478041 err:     1.703916 %
+MoW_Fine_600MD45 lmp:    -7.621527 ref:    -7.548998 err:     0.960777 %
+MoW_Fine_600MD50 lmp:    -7.652905 ref:    -7.591189 err:     0.812993 %
+MoW_Fine_600MD55 lmp:    -7.674163 ref:    -7.634426 err:     0.520495 %
+MoW_Fine_600MD60 lmp:    -7.693134 ref:    -7.667208 err:     0.338152 %
+MoW_Fine_600MD65 lmp:    -7.701297 ref:    -7.677966 err:     0.303859 %
+MoW_Fine_600MD70 lmp:    -7.712466 ref:    -7.662733 err:     0.649026 %
+MoW_Fine_600MD75 lmp:    -7.711694 ref:    -7.671322 err:     0.526274 %
+MoW_Fine_600MD80 lmp:    -7.707557 ref:    -7.642526 err:     0.850915 %
+MoW_Fine_600MD85 lmp:    -7.685168 ref:    -7.655284 err:     0.390371 %
+MoW_Fine_600MD90 lmp:    -7.668834 ref:    -7.620111 err:     0.639401 %
+MoW_Fine_600MD95 lmp:    -7.645798 ref:    -7.597259 err:     0.638896 %
+MoW_Fine_600MD100 lmp:    -7.648621 ref:    -7.591002 err:     0.759048 %
+MoW_Fine_900MD5 lmp:    -7.721807 ref:    -7.663442 err:     0.761605 %
+MoW_Fine_900MD10 lmp:    -7.687532 ref:    -7.613024 err:     0.978687 %
+MoW_Fine_900MD15 lmp:    -7.638853 ref:    -7.554086 err:     1.122135 %
+MoW_Fine_900MD20 lmp:    -7.592971 ref:    -7.495532 err:     1.299954 %
+MoW_Fine_900MD25 lmp:    -7.562560 ref:    -7.469667 err:     1.243606 %
+MoW_Fine_900MD30 lmp:    -7.528086 ref:    -7.423864 err:     1.403881 %
+MoW_Fine_900MD35 lmp:    -7.508653 ref:    -7.435400 err:     0.985202 %
+MoW_Fine_900MD40 lmp:    -7.520372 ref:    -7.405086 err:     1.556855 %
+MoW_Fine_900MD45 lmp:    -7.544177 ref:    -7.457284 err:     1.165207 %
+MoW_Fine_900MD50 lmp:    -7.582476 ref:    -7.507733 err:     0.995543 %
+MoW_Fine_900MD55 lmp:    -7.612294 ref:    -7.551234 err:     0.808622 %
+MoW_Fine_900MD60 lmp:    -7.645870 ref:    -7.553904 err:     1.217468 %
+MoW_Fine_900MD65 lmp:    -7.676558 ref:    -7.594172 err:     1.084858 %
+MoW_Fine_900MD70 lmp:    -7.700186 ref:    -7.628523 err:     0.939405 %
+MoW_Fine_900MD75 lmp:    -7.715693 ref:    -7.651958 err:     0.832927 %
+MoW_Fine_900MD80 lmp:    -7.709227 ref:    -7.638862 err:     0.921155 %
+MoW_Fine_900MD85 lmp:    -7.688776 ref:    -7.602853 err:     1.130134 %
+MoW_Fine_900MD90 lmp:    -7.650893 ref:    -7.575778 err:     0.991514 %
+MoW_Fine_900MD95 lmp:    -7.606072 ref:    -7.522645 err:     1.109012 %
+MoW_Fine_900MD100 lmp:    -7.578222 ref:    -7.481216 err:     1.296653 %
+MoTa_Fine_300MD5 lmp:    -7.369648 ref:    -7.377015 err:    -0.099859 %
+MoTa_Fine_300MD10 lmp:    -7.355418 ref:    -7.367115 err:    -0.158776 %
+MoTa_Fine_300MD15 lmp:    -7.337483 ref:    -7.352093 err:    -0.198720 %
+MoTa_Fine_300MD20 lmp:    -7.301293 ref:    -7.335824 err:    -0.470708 %
+MoTa_Fine_300MD25 lmp:    -7.266694 ref:    -7.324104 err:    -0.783846 %
+MoTa_Fine_300MD30 lmp:    -7.255625 ref:    -7.311481 err:    -0.763946 %
+MoTa_Fine_300MD35 lmp:    -7.242352 ref:    -7.317942 err:    -1.032941 %
+MoTa_Fine_300MD40 lmp:    -7.237012 ref:    -7.317915 err:    -1.105545 %
+MoTa_Fine_300MD45 lmp:    -7.236439 ref:    -7.328437 err:    -1.255349 %
+MoTa_Fine_300MD50 lmp:    -7.250013 ref:    -7.322272 err:    -0.986844 %
+MoTa_Fine_300MD55 lmp:    -7.283785 ref:    -7.345638 err:    -0.842043 %
+MoTa_Fine_300MD60 lmp:    -7.299113 ref:    -7.364033 err:    -0.881578 %
+MoTa_Fine_300MD65 lmp:    -7.304064 ref:    -7.374140 err:    -0.950305 %
+MoTa_Fine_300MD70 lmp:    -7.313729 ref:    -7.365817 err:    -0.707149 %
+MoTa_Fine_300MD75 lmp:    -7.320690 ref:    -7.369015 err:    -0.655777 %
+MoTa_Fine_300MD80 lmp:    -7.313776 ref:    -7.364935 err:    -0.694636 %
+MoTa_Fine_300MD85 lmp:    -7.313622 ref:    -7.360631 err:    -0.638658 %
+MoTa_Fine_300MD90 lmp:    -7.315940 ref:    -7.351879 err:    -0.488836 %
+MoTa_Fine_300MD95 lmp:    -7.300149 ref:    -7.360949 err:    -0.825981 %
+MoTa_Fine_300MD100 lmp:    -7.304105 ref:    -7.354580 err:    -0.686301 %
+MoTa_Fine_600MD5 lmp:    -7.360225 ref:    -7.333818 err:     0.360071 %
+MoTa_Fine_600MD10 lmp:    -7.337963 ref:    -7.314077 err:     0.326570 %
+MoTa_Fine_600MD15 lmp:    -7.280438 ref:    -7.285076 err:    -0.063659 %
+MoTa_Fine_600MD20 lmp:    -7.230849 ref:    -7.249952 err:    -0.263501 %
+MoTa_Fine_600MD25 lmp:    -7.181142 ref:    -7.223648 err:    -0.588427 %
+MoTa_Fine_600MD30 lmp:    -7.154113 ref:    -7.183134 err:    -0.404016 %
+MoTa_Fine_600MD35 lmp:    -7.139283 ref:    -7.211135 err:    -0.996411 %
+MoTa_Fine_600MD40 lmp:    -7.126832 ref:    -7.180186 err:    -0.743064 %
+MoTa_Fine_600MD45 lmp:    -7.133568 ref:    -7.218068 err:    -1.170680 %
+MoTa_Fine_600MD50 lmp:    -7.146593 ref:    -7.204000 err:    -0.796876 %
+MoTa_Fine_600MD55 lmp:    -7.191281 ref:    -7.251435 err:    -0.829546 %
+MoTa_Fine_600MD60 lmp:    -7.223381 ref:    -7.283279 err:    -0.822402 %
+MoTa_Fine_600MD65 lmp:    -7.257603 ref:    -7.306111 err:    -0.663937 %
+MoTa_Fine_600MD70 lmp:    -7.280385 ref:    -7.295878 err:    -0.212349 %
+MoTa_Fine_600MD75 lmp:    -7.294673 ref:    -7.309727 err:    -0.205950 %
+MoTa_Fine_600MD80 lmp:    -7.296218 ref:    -7.294658 err:     0.021379 %
+MoTa_Fine_600MD85 lmp:    -7.289529 ref:    -7.318635 err:    -0.397700 %
+MoTa_Fine_600MD90 lmp:    -7.285398 ref:    -7.294431 err:    -0.123832 %
+MoTa_Fine_600MD95 lmp:    -7.276874 ref:    -7.307329 err:    -0.416762 %
+MoTa_Fine_600MD100 lmp:    -7.283923 ref:    -7.295686 err:    -0.161232 %
+MoTa_Fine_900MD5 lmp:    -7.357844 ref:    -7.294004 err:     0.875239 %
+MoTa_Fine_900MD10 lmp:    -7.315043 ref:    -7.263735 err:     0.706363 %
+MoTa_Fine_900MD15 lmp:    -7.242413 ref:    -7.223506 err:     0.261748 %
+MoTa_Fine_900MD20 lmp:    -7.145923 ref:    -7.161200 err:    -0.213336 %
+MoTa_Fine_900MD25 lmp:    -7.093169 ref:    -7.117916 err:    -0.347660 %
+MoTa_Fine_900MD30 lmp:    -7.036063 ref:    -7.085811 err:    -0.702073 %
+MoTa_Fine_900MD35 lmp:    -6.991127 ref:    -7.053702 err:    -0.887129 %
+MoTa_Fine_900MD40 lmp:    -6.997753 ref:    -7.077174 err:    -1.122216 %
+MoTa_Fine_900MD45 lmp:    -6.995397 ref:    -7.068361 err:    -1.032256 %
+MoTa_Fine_900MD50 lmp:    -7.018489 ref:    -7.111250 err:    -1.304417 %
+MoTa_Fine_900MD55 lmp:    -7.075884 ref:    -7.105190 err:    -0.412459 %
+MoTa_Fine_900MD60 lmp:    -7.120133 ref:    -7.158936 err:    -0.542023 %
+MoTa_Fine_900MD65 lmp:    -7.201930 ref:    -7.212208 err:    -0.142514 %
+MoTa_Fine_900MD70 lmp:    -7.232731 ref:    -7.257150 err:    -0.336485 %
+MoTa_Fine_900MD75 lmp:    -7.236426 ref:    -7.230240 err:     0.085547 %
+MoTa_Fine_900MD80 lmp:    -7.272374 ref:    -7.274584 err:    -0.030377 %
+MoTa_Fine_900MD85 lmp:    -7.286828 ref:    -7.249774 err:     0.511117 %
+MoTa_Fine_900MD90 lmp:    -7.289876 ref:    -7.264204 err:     0.353411 %
+MoTa_Fine_900MD95 lmp:    -7.290399 ref:    -7.240975 err:     0.682549 %
+MoTa_Fine_900MD100 lmp:    -7.252044 ref:    -7.238670 err:     0.184762 %
+MoV_Fine_300MD5 lmp:    -6.070381 ref:    -6.034877 err:     0.588306 %
+MoV_Fine_300MD10 lmp:    -6.052368 ref:    -6.021672 err:     0.509756 %
+MoV_Fine_300MD15 lmp:    -6.020398 ref:    -6.008995 err:     0.189770 %
+MoV_Fine_300MD20 lmp:    -5.981511 ref:    -5.992239 err:    -0.179026 %
+MoV_Fine_300MD25 lmp:    -5.963454 ref:    -5.978911 err:    -0.258522 %
+MoV_Fine_300MD30 lmp:    -5.953026 ref:    -5.968443 err:    -0.258314 %
+MoV_Fine_300MD35 lmp:    -5.953347 ref:    -5.961480 err:    -0.136427 %
+MoV_Fine_300MD40 lmp:    -5.967663 ref:    -5.978576 err:    -0.182540 %
+MoV_Fine_300MD45 lmp:    -5.961269 ref:    -5.991312 err:    -0.501440 %
+MoV_Fine_300MD50 lmp:    -6.006574 ref:    -6.016784 err:    -0.169687 %
+MoV_Fine_300MD55 lmp:    -6.032117 ref:    -6.024423 err:     0.127711 %
+MoV_Fine_300MD60 lmp:    -6.024899 ref:    -6.022789 err:     0.035046 %
+MoV_Fine_300MD65 lmp:    -6.008642 ref:    -6.030172 err:    -0.357029 %
+MoV_Fine_300MD70 lmp:    -6.024159 ref:    -6.019038 err:     0.085073 %
+MoV_Fine_300MD75 lmp:    -6.034871 ref:    -6.031193 err:     0.060977 %
+MoV_Fine_300MD80 lmp:    -6.031893 ref:    -6.015241 err:     0.276838 %
+MoV_Fine_300MD85 lmp:    -6.015614 ref:    -6.000881 err:     0.245522 %
+MoV_Fine_300MD90 lmp:    -6.001523 ref:    -6.008619 err:    -0.118101 %
+MoV_Fine_300MD95 lmp:    -6.002556 ref:    -6.000135 err:     0.040343 %
+MoV_Fine_300MD100 lmp:    -5.996050 ref:    -6.001099 err:    -0.084123 %
+MoV_Fine_600MD5 lmp:    -6.064481 ref:    -5.992884 err:     1.194692 %
+MoV_Fine_600MD10 lmp:    -6.028527 ref:    -5.963358 err:     1.092834 %
+MoV_Fine_600MD15 lmp:    -5.979038 ref:    -5.932157 err:     0.790297 %
+MoV_Fine_600MD20 lmp:    -5.937760 ref:    -5.899374 err:     0.650676 %
+MoV_Fine_600MD25 lmp:    -5.920768 ref:    -5.883572 err:     0.632206 %
+MoV_Fine_600MD30 lmp:    -5.925403 ref:    -5.905615 err:     0.335068 %
+MoV_Fine_600MD35 lmp:    -5.942589 ref:    -5.903462 err:     0.662780 %
+MoV_Fine_600MD40 lmp:    -5.964391 ref:    -5.931733 err:     0.550562 %
+MoV_Fine_600MD45 lmp:    -5.985019 ref:    -5.954347 err:     0.515133 %
+MoV_Fine_600MD50 lmp:    -6.001326 ref:    -5.955443 err:     0.770429 %
+MoV_Fine_600MD55 lmp:    -6.016188 ref:    -5.981068 err:     0.587186 %
+MoV_Fine_600MD60 lmp:    -6.028165 ref:    -5.989562 err:     0.644498 %
+MoV_Fine_600MD65 lmp:    -6.031547 ref:    -5.966708 err:     1.086674 %
+MoV_Fine_600MD70 lmp:    -6.020949 ref:    -5.978624 err:     0.707938 %
+MoV_Fine_600MD75 lmp:    -6.001713 ref:    -5.947515 err:     0.911276 %
+MoV_Fine_600MD80 lmp:    -5.976164 ref:    -5.911225 err:     1.098564 %
+MoV_Fine_600MD85 lmp:    -5.963048 ref:    -5.929494 err:     0.565889 %
+MoV_Fine_600MD90 lmp:    -5.968035 ref:    -5.923046 err:     0.759549 %
+MoV_Fine_600MD95 lmp:    -5.975022 ref:    -5.945615 err:     0.494608 %
+MoV_Fine_600MD100 lmp:    -5.969714 ref:    -5.936774 err:     0.554847 %
+MoV_Fine_900MD5 lmp:    -6.059798 ref:    -5.951125 err:     1.826089 %
+MoV_Fine_900MD10 lmp:    -6.007277 ref:    -5.907450 err:     1.689845 %
+MoV_Fine_900MD15 lmp:    -5.933607 ref:    -5.861589 err:     1.228653 %
+MoV_Fine_900MD20 lmp:    -5.863634 ref:    -5.810111 err:     0.921194 %
+MoV_Fine_900MD25 lmp:    -5.813331 ref:    -5.751691 err:     1.071684 %
+MoV_Fine_900MD30 lmp:    -5.788133 ref:    -5.722517 err:     1.146624 %
+MoV_Fine_900MD35 lmp:    -5.775639 ref:    -5.742071 err:     0.584590 %
+MoV_Fine_900MD40 lmp:    -5.774838 ref:    -5.703034 err:     1.259044 %
+MoV_Fine_900MD45 lmp:    -5.786259 ref:    -5.746341 err:     0.694657 %
+MoV_Fine_900MD50 lmp:    -5.816517 ref:    -5.783483 err:     0.571185 %
+MoV_Fine_900MD55 lmp:    -5.853487 ref:    -5.768611 err:     1.471357 %
+MoV_Fine_900MD60 lmp:    -5.889765 ref:    -5.832107 err:     0.988622 %
+MoV_Fine_900MD65 lmp:    -5.936841 ref:    -5.875507 err:     1.043882 %
+MoV_Fine_900MD70 lmp:    -5.991474 ref:    -5.930919 err:     1.020999 %
+MoV_Fine_900MD75 lmp:    -6.021304 ref:    -5.912885 err:     1.833605 %
+MoV_Fine_900MD80 lmp:    -6.017135 ref:    -5.948653 err:     1.151225 %
+MoV_Fine_900MD85 lmp:    -5.984064 ref:    -5.902442 err:     1.382843 %
+MoV_Fine_900MD90 lmp:    -5.942612 ref:    -5.872837 err:     1.188101 %
+MoV_Fine_900MD95 lmp:    -5.942098 ref:    -5.829515 err:     1.931259 %
+MoV_Fine_900MD100 lmp:    -5.945660 ref:    -5.867609 err:     1.330185 %
+WTa_Fine_300MD5 lmp:    -8.263124 ref:    -8.227602 err:     0.431738 %
+WTa_Fine_300MD10 lmp:    -8.242980 ref:    -8.222211 err:     0.252598 %
+WTa_Fine_300MD15 lmp:    -8.244290 ref:    -8.206747 err:     0.457476 %
+WTa_Fine_300MD20 lmp:    -8.218743 ref:    -8.217371 err:     0.016697 %
+WTa_Fine_300MD25 lmp:    -8.171456 ref:    -8.193019 err:    -0.263197 %
+WTa_Fine_300MD30 lmp:    -8.175742 ref:    -8.199500 err:    -0.289746 %
+WTa_Fine_300MD35 lmp:    -8.158883 ref:    -8.191747 err:    -0.401185 %
+WTa_Fine_300MD40 lmp:    -8.122029 ref:    -8.180765 err:    -0.717972 %
+WTa_Fine_300MD45 lmp:    -8.146961 ref:    -8.195258 err:    -0.589329 %
+WTa_Fine_300MD50 lmp:    -8.158608 ref:    -8.193175 err:    -0.421900 %
+WTa_Fine_300MD55 lmp:    -8.160744 ref:    -8.197739 err:    -0.451292 %
+WTa_Fine_300MD60 lmp:    -8.201492 ref:    -8.219508 err:    -0.219191 %
+WTa_Fine_300MD65 lmp:    -8.229695 ref:    -8.212395 err:     0.210659 %
+WTa_Fine_300MD70 lmp:    -8.236490 ref:    -8.235614 err:     0.010639 %
+WTa_Fine_300MD75 lmp:    -8.232126 ref:    -8.219892 err:     0.148835 %
+WTa_Fine_300MD80 lmp:    -8.260954 ref:    -8.214269 err:     0.568337 %
+WTa_Fine_300MD85 lmp:    -8.256912 ref:    -8.220575 err:     0.442023 %
+WTa_Fine_300MD90 lmp:    -8.206588 ref:    -8.200305 err:     0.076609 %
+WTa_Fine_300MD95 lmp:    -8.242985 ref:    -8.204292 err:     0.471627 %
+WTa_Fine_300MD100 lmp:    -8.230324 ref:    -8.206219 err:     0.293746 %
+WTa_Fine_600MD5 lmp:    -8.243990 ref:    -8.179218 err:     0.791907 %
+WTa_Fine_600MD10 lmp:    -8.252152 ref:    -8.171790 err:     0.983406 %
+WTa_Fine_600MD15 lmp:    -8.193661 ref:    -8.139671 err:     0.663295 %
+WTa_Fine_600MD20 lmp:    -8.182493 ref:    -8.107542 err:     0.924458 %
+WTa_Fine_600MD25 lmp:    -8.118457 ref:    -8.067805 err:     0.627830 %
+WTa_Fine_600MD30 lmp:    -8.116671 ref:    -8.070554 err:     0.571424 %
+WTa_Fine_600MD35 lmp:    -8.076487 ref:    -8.052133 err:     0.302461 %
+WTa_Fine_600MD40 lmp:    -8.093916 ref:    -8.057971 err:     0.446076 %
+WTa_Fine_600MD45 lmp:    -8.082515 ref:    -8.061533 err:     0.260273 %
+WTa_Fine_600MD50 lmp:    -8.115315 ref:    -8.088823 err:     0.327508 %
+WTa_Fine_600MD55 lmp:    -8.131383 ref:    -8.106351 err:     0.308797 %
+WTa_Fine_600MD60 lmp:    -8.174394 ref:    -8.131049 err:     0.533079 %
+WTa_Fine_600MD65 lmp:    -8.207326 ref:    -8.162495 err:     0.549227 %
+WTa_Fine_600MD70 lmp:    -8.230296 ref:    -8.165506 err:     0.793461 %
+WTa_Fine_600MD75 lmp:    -8.251187 ref:    -8.193170 err:     0.708123 %
+WTa_Fine_600MD80 lmp:    -8.246695 ref:    -8.176819 err:     0.854569 %
+WTa_Fine_600MD85 lmp:    -8.255983 ref:    -8.200420 err:     0.677558 %
+WTa_Fine_600MD90 lmp:    -8.228656 ref:    -8.165352 err:     0.775276 %
+WTa_Fine_600MD95 lmp:    -8.230784 ref:    -8.122644 err:     1.331340 %
+WTa_Fine_600MD100 lmp:    -8.175142 ref:    -8.133912 err:     0.506899 %
+WTa_Fine_900MD5 lmp:    -8.245105 ref:    -8.140259 err:     1.287996 %
+WTa_Fine_900MD10 lmp:    -8.235382 ref:    -8.127296 err:     1.329912 %
+WTa_Fine_900MD15 lmp:    -8.187088 ref:    -8.083074 err:     1.286811 %
+WTa_Fine_900MD20 lmp:    -8.101679 ref:    -8.029246 err:     0.902112 %
+WTa_Fine_900MD25 lmp:    -8.067969 ref:    -7.988581 err:     0.993764 %
+WTa_Fine_900MD30 lmp:    -8.004115 ref:    -7.965048 err:     0.490486 %
+WTa_Fine_900MD35 lmp:    -7.989809 ref:    -7.954363 err:     0.445628 %
+WTa_Fine_900MD40 lmp:    -8.004926 ref:    -7.991052 err:     0.173618 %
+WTa_Fine_900MD45 lmp:    -7.998221 ref:    -7.947614 err:     0.636750 %
+WTa_Fine_900MD50 lmp:    -8.064939 ref:    -8.032283 err:     0.406551 %
+WTa_Fine_900MD55 lmp:    -8.096216 ref:    -8.079925 err:     0.201631 %
+WTa_Fine_900MD60 lmp:    -8.122652 ref:    -8.057399 err:     0.809854 %
+WTa_Fine_900MD65 lmp:    -8.178401 ref:    -8.101718 err:     0.946507 %
+WTa_Fine_900MD70 lmp:    -8.179588 ref:    -8.105433 err:     0.914876 %
+WTa_Fine_900MD75 lmp:    -8.217243 ref:    -8.145813 err:     0.876897 %
+WTa_Fine_900MD80 lmp:    -8.225974 ref:    -8.111334 err:     1.413328 %
+WTa_Fine_900MD85 lmp:    -8.197532 ref:    -8.119962 err:     0.955292 %
+WTa_Fine_900MD90 lmp:    -8.213412 ref:    -8.100783 err:     1.390349 %
+WTa_Fine_900MD95 lmp:    -8.169452 ref:    -8.117762 err:     0.636753 %
+WTa_Fine_900MD100 lmp:    -8.168255 ref:    -8.068670 err:     1.234217 %
+ WV_Fine_300MD5 lmp:    -6.993631 ref:    -6.910566 err:     1.201993 %
+WV_Fine_300MD10 lmp:    -6.996998 ref:    -6.903599 err:     1.352909 %
+WV_Fine_300MD15 lmp:    -6.988858 ref:    -6.890437 err:     1.428366 %
+WV_Fine_300MD20 lmp:    -6.961623 ref:    -6.868451 err:     1.356511 %
+WV_Fine_300MD25 lmp:    -6.968626 ref:    -6.884259 err:     1.225508 %
+WV_Fine_300MD30 lmp:    -6.958776 ref:    -6.870470 err:     1.285305 %
+WV_Fine_300MD35 lmp:    -6.946999 ref:    -6.880846 err:     0.961413 %
+WV_Fine_300MD40 lmp:    -6.939814 ref:    -6.860296 err:     1.159098 %
+WV_Fine_300MD45 lmp:    -6.927495 ref:    -6.873218 err:     0.789691 %
+WV_Fine_300MD50 lmp:    -6.941639 ref:    -6.876849 err:     0.942149 %
+WV_Fine_300MD55 lmp:    -6.944668 ref:    -6.898119 err:     0.674806 %
+WV_Fine_300MD60 lmp:    -6.939141 ref:    -6.908580 err:     0.442376 %
+WV_Fine_300MD65 lmp:    -6.957859 ref:    -6.897093 err:     0.881036 %
+WV_Fine_300MD70 lmp:    -6.961395 ref:    -6.912343 err:     0.709632 %
+WV_Fine_300MD75 lmp:    -6.970659 ref:    -6.902023 err:     0.994432 %
+WV_Fine_300MD80 lmp:    -6.986273 ref:    -6.912941 err:     1.060794 %
+WV_Fine_300MD85 lmp:    -6.975478 ref:    -6.897998 err:     1.123214 %
+WV_Fine_300MD90 lmp:    -6.996958 ref:    -6.909975 err:     1.258805 %
+WV_Fine_300MD95 lmp:    -6.993250 ref:    -6.899459 err:     1.359404 %
+WV_Fine_300MD100 lmp:    -6.977675 ref:    -6.898648 err:     1.145540 %
+ WV_Fine_600MD5 lmp:    -6.982567 ref:    -6.865866 err:     1.699720 %
+WV_Fine_600MD10 lmp:    -6.982087 ref:    -6.839278 err:     2.088081 %
+WV_Fine_600MD15 lmp:    -6.947802 ref:    -6.810998 err:     2.008576 %
+WV_Fine_600MD20 lmp:    -6.934041 ref:    -6.781836 err:     2.244306 %
+WV_Fine_600MD25 lmp:    -6.934114 ref:    -6.805616 err:     1.888114 %
+WV_Fine_600MD30 lmp:    -6.922116 ref:    -6.781136 err:     2.079005 %
+WV_Fine_600MD35 lmp:    -6.930630 ref:    -6.795916 err:     1.982290 %
+WV_Fine_600MD40 lmp:    -6.920154 ref:    -6.774750 err:     2.146275 %
+WV_Fine_600MD45 lmp:    -6.943374 ref:    -6.796733 err:     2.157522 %
+WV_Fine_600MD50 lmp:    -6.952699 ref:    -6.828623 err:     1.816989 %
+WV_Fine_600MD55 lmp:    -6.960359 ref:    -6.838951 err:     1.775245 %
+WV_Fine_600MD60 lmp:    -6.962827 ref:    -6.840712 err:     1.785129 %
+WV_Fine_600MD65 lmp:    -6.947541 ref:    -6.829140 err:     1.733767 %
+WV_Fine_600MD70 lmp:    -6.964064 ref:    -6.805385 err:     2.331677 %
+WV_Fine_600MD75 lmp:    -6.950096 ref:    -6.833287 err:     1.709423 %
+WV_Fine_600MD80 lmp:    -6.970907 ref:    -6.818394 err:     2.236782 %
+WV_Fine_600MD85 lmp:    -6.965017 ref:    -6.838601 err:     1.848576 %
+WV_Fine_600MD90 lmp:    -6.967384 ref:    -6.820239 err:     2.157466 %
+WV_Fine_600MD95 lmp:    -6.962706 ref:    -6.827023 err:     1.987430 %
+WV_Fine_600MD100 lmp:    -6.940492 ref:    -6.805562 err:     1.982643 %
+ WV_Fine_900MD5 lmp:    -6.985689 ref:    -6.827268 err:     2.320418 %
+WV_Fine_900MD10 lmp:    -6.960466 ref:    -6.784813 err:     2.588920 %
+WV_Fine_900MD15 lmp:    -6.924986 ref:    -6.743924 err:     2.684830 %
+WV_Fine_900MD20 lmp:    -6.879761 ref:    -6.703734 err:     2.625809 %
+WV_Fine_900MD25 lmp:    -6.859468 ref:    -6.727203 err:     1.966117 %
+WV_Fine_900MD30 lmp:    -6.830812 ref:    -6.698373 err:     1.977171 %
+WV_Fine_900MD35 lmp:    -6.806227 ref:    -6.645897 err:     2.412469 %
+WV_Fine_900MD40 lmp:    -6.813743 ref:    -6.646941 err:     2.509457 %
+WV_Fine_900MD45 lmp:    -6.836020 ref:    -6.656363 err:     2.699023 %
+WV_Fine_900MD50 lmp:    -6.854438 ref:    -6.704412 err:     2.237725 %
+WV_Fine_900MD55 lmp:    -6.897431 ref:    -6.743933 err:     2.276095 %
+WV_Fine_900MD60 lmp:    -6.925012 ref:    -6.784174 err:     2.075974 %
+WV_Fine_900MD65 lmp:    -6.931032 ref:    -6.749783 err:     2.685266 %
+WV_Fine_900MD70 lmp:    -6.968375 ref:    -6.788339 err:     2.652139 %
+WV_Fine_900MD75 lmp:    -6.973387 ref:    -6.786137 err:     2.759312 %
+WV_Fine_900MD80 lmp:    -6.956430 ref:    -6.784462 err:     2.534737 %
+WV_Fine_900MD85 lmp:    -6.967081 ref:    -6.816445 err:     2.209882 %
+WV_Fine_900MD90 lmp:    -6.943189 ref:    -6.784074 err:     2.345418 %
+WV_Fine_900MD95 lmp:    -6.895389 ref:    -6.723298 err:     2.559619 %
+WV_Fine_900MD100 lmp:    -6.866312 ref:    -6.705420 err:     2.399422 %
+TaV_Fine_300MD5 lmp:    -6.598598 ref:    -6.530319 err:     1.045582 %
+TaV_Fine_300MD10 lmp:    -6.592397 ref:    -6.516756 err:     1.160715 %
+TaV_Fine_300MD15 lmp:    -6.567048 ref:    -6.499806 err:     1.034517 %
+TaV_Fine_300MD20 lmp:    -6.555040 ref:    -6.481620 err:     1.132743 %
+TaV_Fine_300MD25 lmp:    -6.555058 ref:    -6.489127 err:     1.016032 %
+TaV_Fine_300MD30 lmp:    -6.545410 ref:    -6.474838 err:     1.089944 %
+TaV_Fine_300MD35 lmp:    -6.549292 ref:    -6.486277 err:     0.971522 %
+TaV_Fine_300MD40 lmp:    -6.524975 ref:    -6.471791 err:     0.821783 %
+TaV_Fine_300MD45 lmp:    -6.532869 ref:    -6.456239 err:     1.186922 %
+TaV_Fine_300MD50 lmp:    -6.510413 ref:    -6.458182 err:     0.808747 %
+TaV_Fine_300MD55 lmp:    -6.523512 ref:    -6.453499 err:     1.084891 %
+TaV_Fine_300MD60 lmp:    -6.504491 ref:    -6.471503 err:     0.509755 %
+TaV_Fine_300MD65 lmp:    -6.485273 ref:    -6.459673 err:     0.396301 %
+TaV_Fine_300MD70 lmp:    -6.503247 ref:    -6.479922 err:     0.359967 %
+TaV_Fine_300MD75 lmp:    -6.536474 ref:    -6.492238 err:     0.681362 %
+TaV_Fine_300MD80 lmp:    -6.553424 ref:    -6.475088 err:     1.209807 %
+TaV_Fine_300MD85 lmp:    -6.548749 ref:    -6.494315 err:     0.838179 %
+TaV_Fine_300MD90 lmp:    -6.566530 ref:    -6.481086 err:     1.318364 %
+TaV_Fine_300MD95 lmp:    -6.552418 ref:    -6.498925 err:     0.823103 %
+TaV_Fine_300MD100 lmp:    -6.574841 ref:    -6.487961 err:     1.339098 %
+TaV_Fine_600MD5 lmp:    -6.593550 ref:    -6.488616 err:     1.617203 %
+TaV_Fine_600MD10 lmp:    -6.572715 ref:    -6.459180 err:     1.757732 %
+TaV_Fine_600MD15 lmp:    -6.541218 ref:    -6.435434 err:     1.643774 %
+TaV_Fine_600MD20 lmp:    -6.500977 ref:    -6.412287 err:     1.383132 %
+TaV_Fine_600MD25 lmp:    -6.483221 ref:    -6.400539 err:     1.291800 %
+TaV_Fine_600MD30 lmp:    -6.451857 ref:    -6.388702 err:     0.988545 %
+TaV_Fine_600MD35 lmp:    -6.437332 ref:    -6.374006 err:     0.993508 %
+TaV_Fine_600MD40 lmp:    -6.444110 ref:    -6.370024 err:     1.163030 %
+TaV_Fine_600MD45 lmp:    -6.414853 ref:    -6.341880 err:     1.150663 %
+TaV_Fine_600MD50 lmp:    -6.391539 ref:    -6.315412 err:     1.205407 %
+TaV_Fine_600MD55 lmp:    -6.357604 ref:    -6.333014 err:     0.388292 %
+TaV_Fine_600MD60 lmp:    -6.360469 ref:    -6.312868 err:     0.754043 %
+TaV_Fine_600MD65 lmp:    -6.406685 ref:    -6.343954 err:     0.988830 %
+TaV_Fine_600MD70 lmp:    -6.414136 ref:    -6.373129 err:     0.643438 %
+TaV_Fine_600MD75 lmp:    -6.435559 ref:    -6.391499 err:     0.689355 %
+TaV_Fine_600MD80 lmp:    -6.489373 ref:    -6.402183 err:     1.361875 %
+TaV_Fine_600MD85 lmp:    -6.511551 ref:    -6.436924 err:     1.159361 %
+TaV_Fine_600MD90 lmp:    -6.547882 ref:    -6.460278 err:     1.356038 %
+TaV_Fine_600MD95 lmp:    -6.549851 ref:    -6.437534 err:     1.744715 %
+TaV_Fine_600MD100 lmp:    -6.520277 ref:    -6.461701 err:     0.906512 %
+TaV_Fine_900MD5 lmp:    -6.588372 ref:    -6.447802 err:     2.180129 %
+TaV_Fine_900MD10 lmp:    -6.530384 ref:    -6.397269 err:     2.080809 %
+TaV_Fine_900MD15 lmp:    -6.472615 ref:    -6.364375 err:     1.700725 %
+TaV_Fine_900MD20 lmp:    -6.401484 ref:    -6.314862 err:     1.371715 %
+TaV_Fine_900MD25 lmp:    -6.341768 ref:    -6.266097 err:     1.207618 %
+TaV_Fine_900MD30 lmp:    -6.342509 ref:    -6.234180 err:     1.737651 %
+TaV_Fine_900MD35 lmp:    -6.331732 ref:    -6.267689 err:     1.021801 %
+TaV_Fine_900MD40 lmp:    -6.313863 ref:    -6.225407 err:     1.420890 %
+TaV_Fine_900MD45 lmp:    -6.342808 ref:    -6.258531 err:     1.346586 %
+TaV_Fine_900MD50 lmp:    -6.388525 ref:    -6.230745 err:     2.532272 %
+TaV_Fine_900MD55 lmp:    -6.385607 ref:    -6.291234 err:     1.500068 %
+TaV_Fine_900MD60 lmp:    -6.380809 ref:    -6.264262 err:     1.860515 %
+TaV_Fine_900MD65 lmp:    -6.399662 ref:    -6.315086 err:     1.339275 %
+TaV_Fine_900MD70 lmp:    -6.407520 ref:    -6.363681 err:     0.688890 %
+TaV_Fine_900MD75 lmp:    -6.424066 ref:    -6.329349 err:     1.496482 %
+TaV_Fine_900MD80 lmp:    -6.471744 ref:    -6.380190 err:     1.434974 %
+TaV_Fine_900MD85 lmp:    -6.513190 ref:    -6.393283 err:     1.875518 %
+TaV_Fine_900MD90 lmp:    -6.519029 ref:    -6.398775 err:     1.879322 %
+TaV_Fine_900MD95 lmp:    -6.531218 ref:    -6.412056 err:     1.858401 %
+TaV_Fine_900MD100 lmp:    -6.537513 ref:    -6.379047 err:     2.484151 %
+L12Mo3Ta_900MD5 lmp:    -6.683023 ref:    -5.591391 err:    19.523442 %
+L12Mo3Ta_900MD10 lmp:    -6.692215 ref:    -5.579917 err:    19.933963 %
+L12Mo3Ta_900MD15 lmp:    -6.741122 ref:    -5.606513 err:    20.237334 %
+L12Mo3Ta_900MD20 lmp:    -6.483629 ref:    -5.497110 err:    17.946140 %
+L12Mo3Ta_900MD25 lmp:    -6.477998 ref:    -5.540146 err:    16.928282 %
+L12Mo3Ta_900MD30 lmp:    -6.385573 ref:    -5.554867 err:    14.954573 %
+L12Mo3Ta_900MD35 lmp:    -6.150758 ref:    -5.447400 err:    12.911813 %
+L12Mo3Ta_900MD40 lmp:    -6.339329 ref:    -5.587965 err:    13.446114 %
+L12Mo3Ta_900MD45 lmp:    -6.445244 ref:    -5.584022 err:    15.422961 %
+L12Mo3Ta_900MD50 lmp:    -6.291183 ref:    -5.511299 err:    14.150641 %
+L12Mo3Ta_900MD55 lmp:    -6.435965 ref:    -5.606654 err:    14.791541 %
+L12Mo3Ta_900MD60 lmp:    -6.558560 ref:    -5.705473 err:    14.952084 %
+L12Mo3Ta_900MD65 lmp:    -6.520862 ref:    -5.713193 err:    14.136926 %
+L12Mo3Ta_900MD70 lmp:    -6.592522 ref:    -5.774716 err:    14.161835 %
+L12Mo3Ta_900MD75 lmp:    -6.615578 ref:    -5.814575 err:    13.775766 %
+L12Mo3Ta_900MD80 lmp:    -6.662176 ref:    -5.886223 err:    13.182535 %
+L12Mo3Ta_900MD85 lmp:    -6.708798 ref:    -5.935327 err:    13.031641 %
+L12Mo3Ta_900MD90 lmp:    -6.658129 ref:    -5.927618 err:    12.323853 %
+L12Mo3Ta_900MD95 lmp:    -6.786989 ref:    -5.994712 err:    13.216260 %
+L12Mo3Ta_900MD100 lmp:    -6.820290 ref:    -5.985813 err:    13.940907 %
+L12Ta3Mo_900MD5 lmp:    -7.321165 ref:    -5.878453 err:    24.542377 %
+L12Ta3Mo_900MD10 lmp:    -7.337944 ref:    -5.877879 err:    24.840012 %
+L12Ta3Mo_900MD15 lmp:    -7.418993 ref:    -5.904487 err:    25.650085 %
+L12Ta3Mo_900MD20 lmp:    -7.118818 ref:    -5.860371 err:    21.473841 %
+L12Ta3Mo_900MD25 lmp:    -7.025100 ref:    -5.858776 err:    19.907288 %
+L12Ta3Mo_900MD30 lmp:    -6.945473 ref:    -5.827917 err:    19.175900 %
+L12Ta3Mo_900MD35 lmp:    -6.906960 ref:    -5.837491 err:    18.320703 %
+L12Ta3Mo_900MD40 lmp:    -7.222636 ref:    -5.983780 err:    20.703573 %
+L12Ta3Mo_900MD45 lmp:    -7.181520 ref:    -5.995646 err:    19.778920 %
+L12Ta3Mo_900MD50 lmp:    -6.952173 ref:    -5.877096 err:    18.292644 %
+L12Ta3Mo_900MD55 lmp:    -7.136866 ref:    -5.996064 err:    19.025850 %
+L12Ta3Mo_900MD60 lmp:    -7.179344 ref:    -6.037620 err:    18.910156 %
+L12Ta3Mo_900MD65 lmp:    -7.069896 ref:    -5.983997 err:    18.146713 %
+L12Ta3Mo_900MD70 lmp:    -7.268377 ref:    -6.047722 err:    20.183716 %
+L12Ta3Mo_900MD75 lmp:    -7.323941 ref:    -6.120502 err:    19.662422 %
+L12Ta3Mo_900MD80 lmp:    -7.259118 ref:    -6.125034 err:    18.515551 %
+L12Ta3Mo_900MD85 lmp:    -7.311542 ref:    -6.138397 err:    19.111574 %
+L12Ta3Mo_900MD90 lmp:    -7.309324 ref:    -6.174689 err:    18.375573 %
+L12Ta3Mo_900MD95 lmp:    -7.399509 ref:    -6.153287 err:    20.252934 %
+L12Ta3Mo_900MD100 lmp:    -7.389273 ref:    -6.166420 err:    19.830839 %
+ L12Mo3W_900MD5 lmp:    -6.600595 ref:    -5.450330 err:    21.104504 %
+L12Mo3W_900MD10 lmp:    -6.666162 ref:    -5.499037 err:    21.224183 %
+L12Mo3W_900MD15 lmp:    -6.890315 ref:    -5.722280 err:    20.412070 %
+L12Mo3W_900MD20 lmp:    -6.469705 ref:    -5.343256 err:    21.081692 %
+L12Mo3W_900MD25 lmp:    -6.641132 ref:    -5.563592 err:    19.367708 %
+L12Mo3W_900MD30 lmp:    -6.829667 ref:    -5.676217 err:    20.320747 %
+L12Mo3W_900MD35 lmp:    -6.512643 ref:    -5.410893 err:    20.361695 %
+L12Mo3W_900MD40 lmp:    -6.723716 ref:    -5.580853 err:    20.478289 %
+L12Mo3W_900MD45 lmp:    -6.805175 ref:    -5.601812 err:    21.481666 %
+L12Mo3W_900MD50 lmp:    -6.419589 ref:    -5.315280 err:    20.776121 %
+L12Mo3W_900MD55 lmp:    -6.629882 ref:    -5.511444 err:    20.293025 %
+L12Mo3W_900MD60 lmp:    -6.784439 ref:    -5.626656 err:    20.576746 %
+L12Mo3W_900MD65 lmp:    -6.509733 ref:    -5.430876 err:    19.865243 %
+L12Mo3W_900MD70 lmp:    -6.681384 ref:    -5.557937 err:    20.213378 %
+L12Mo3W_900MD75 lmp:    -6.782052 ref:    -5.642355 err:    20.198967 %
+L12Mo3W_900MD80 lmp:    -6.624334 ref:    -5.539684 err:    19.579635 %
+L12Mo3W_900MD85 lmp:    -6.914311 ref:    -5.781628 err:    19.591073 %
+L12Mo3W_900MD90 lmp:    -6.944331 ref:    -5.788398 err:    19.969833 %
+L12Mo3W_900MD95 lmp:    -6.716747 ref:    -5.613581 err:    19.651730 %
+L12Mo3W_900MD100 lmp:    -7.024920 ref:    -5.884404 err:    19.382012 %
+ L12W3Mo_900MD5 lmp:    -7.642459 ref:    -6.747431 err:    13.264716 %
+L12W3Mo_900MD10 lmp:    -7.757897 ref:    -6.831443 err:    13.561626 %
+L12W3Mo_900MD15 lmp:    -7.776502 ref:    -6.835480 err:    13.766736 %
+L12W3Mo_900MD20 lmp:    -7.515598 ref:    -6.634199 err:    13.285692 %
+L12W3Mo_900MD25 lmp:    -7.736755 ref:    -6.825690 err:    13.347584 %
+L12W3Mo_900MD30 lmp:    -7.753899 ref:    -6.871695 err:    12.838220 %
+L12W3Mo_900MD35 lmp:    -7.655563 ref:    -6.713425 err:    14.033640 %
+L12W3Mo_900MD40 lmp:    -7.761587 ref:    -6.788590 err:    14.332832 %
+L12W3Mo_900MD45 lmp:    -7.710673 ref:    -6.841493 err:    12.704545 %
+L12W3Mo_900MD50 lmp:    -7.780295 ref:    -6.891898 err:    12.890459 %
+L12W3Mo_900MD55 lmp:    -7.726755 ref:    -6.859515 err:    12.642885 %
+L12W3Mo_900MD60 lmp:    -7.722737 ref:    -6.869266 err:    12.424486 %
+L12W3Mo_900MD65 lmp:    -8.001139 ref:    -7.080045 err:    13.009714 %
+L12W3Mo_900MD70 lmp:    -7.884235 ref:    -6.972224 err:    13.080634 %
+L12W3Mo_900MD75 lmp:    -7.980985 ref:    -7.118809 err:    12.111234 %
+L12W3Mo_900MD80 lmp:    -8.070730 ref:    -7.185556 err:    12.318798 %
+L12W3Mo_900MD85 lmp:    -7.916258 ref:    -7.094837 err:    11.577720 %
+L12W3Mo_900MD90 lmp:    -8.103157 ref:    -7.212982 err:    12.341290 %
+L12W3Mo_900MD95 lmp:    -8.059611 ref:    -7.199962 err:    11.939622 %
+L12W3Mo_900MD100 lmp:    -7.945755 ref:    -7.096681 err:    11.964391 %
+L12Nb3Mo_900MD5 lmp:    -7.068052 ref:    -6.660644 err:     6.116633 %
+L12Nb3Mo_900MD10 lmp:    -7.043085 ref:    -6.617913 err:     6.424564 %
+L12Nb3Mo_900MD15 lmp:    -7.090207 ref:    -6.683629 err:     6.083193 %
+L12Nb3Mo_900MD20 lmp:    -6.858833 ref:    -6.648282 err:     3.167007 %
+L12Nb3Mo_900MD25 lmp:    -6.781055 ref:    -6.645947 err:     2.032951 %
+L12Nb3Mo_900MD30 lmp:    -6.828585 ref:    -6.616734 err:     3.201753 %
+L12Nb3Mo_900MD35 lmp:    -6.803460 ref:    -6.703493 err:     1.491261 %
+L12Nb3Mo_900MD40 lmp:    -6.875337 ref:    -6.707728 err:     2.498745 %
+L12Nb3Mo_900MD45 lmp:    -6.942158 ref:    -6.704824 err:     3.539742 %
+L12Nb3Mo_900MD50 lmp:    -6.855369 ref:    -6.715143 err:     2.088198 %
+L12Nb3Mo_900MD55 lmp:    -6.926752 ref:    -6.807417 err:     1.753011 %
+L12Nb3Mo_900MD60 lmp:    -7.096338 ref:    -6.834819 err:     3.826266 %
+L12Nb3Mo_900MD65 lmp:    -7.053418 ref:    -6.859509 err:     2.826873 %
+L12Nb3Mo_900MD70 lmp:    -7.038128 ref:    -6.901310 err:     1.982494 %
+L12Nb3Mo_900MD75 lmp:    -7.112380 ref:    -6.918395 err:     2.803903 %
+L12Nb3Mo_900MD80 lmp:    -7.093131 ref:    -6.944617 err:     2.138550 %
+L12Nb3Mo_900MD85 lmp:    -7.086426 ref:    -6.965905 err:     1.730158 %
+L12Nb3Mo_900MD90 lmp:    -7.134632 ref:    -6.975765 err:     2.277406 %
+L12Nb3Mo_900MD95 lmp:    -7.099603 ref:    -7.006396 err:     1.330309 %
+L12Nb3Mo_900MD100 lmp:    -7.128832 ref:    -7.007824 err:     1.726758 %
+L12Mo3Nb_900MD5 lmp:    -6.688979 ref:    -5.882756 err:    13.704852 %
+L12Mo3Nb_900MD10 lmp:    -6.691606 ref:    -5.860385 err:    14.183744 %
+L12Mo3Nb_900MD15 lmp:    -6.746482 ref:    -5.929548 err:    13.777337 %
+L12Mo3Nb_900MD20 lmp:    -6.498075 ref:    -6.000880 err:     8.285375 %
+L12Mo3Nb_900MD25 lmp:    -6.439343 ref:    -6.021255 err:     6.943532 %
+L12Mo3Nb_900MD30 lmp:    -6.383785 ref:    -5.857954 err:     8.976347 %
+L12Mo3Nb_900MD35 lmp:    -6.294897 ref:    -5.903607 err:     6.627974 %
+L12Mo3Nb_900MD40 lmp:    -6.601495 ref:    -6.048012 err:     9.151482 %
+L12Mo3Nb_900MD45 lmp:    -6.620045 ref:    -5.985394 err:    10.603313 %
+L12Mo3Nb_900MD50 lmp:    -6.451332 ref:    -5.951231 err:     8.403333 %
+L12Mo3Nb_900MD55 lmp:    -6.686788 ref:    -6.197177 err:     7.900549 %
+L12Mo3Nb_900MD60 lmp:    -6.602168 ref:    -6.151448 err:     7.327046 %
+L12Mo3Nb_900MD65 lmp:    -6.477554 ref:    -6.085315 err:     6.445678 %
+L12Mo3Nb_900MD70 lmp:    -6.798812 ref:    -6.272868 err:     8.384425 %
+L12Mo3Nb_900MD75 lmp:    -6.785309 ref:    -6.232029 err:     8.878016 %
+L12Mo3Nb_900MD80 lmp:    -6.640933 ref:    -6.148138 err:     8.015359 %
+L12Mo3Nb_900MD85 lmp:    -6.754496 ref:    -6.283189 err:     7.501080 %
+L12Mo3Nb_900MD90 lmp:    -6.609618 ref:    -6.194422 err:     6.702730 %
+L12Mo3Nb_900MD95 lmp:    -6.562085 ref:    -6.143559 err:     6.812442 %
+L12Mo3Nb_900MD100 lmp:    -6.748692 ref:    -6.167428 err:     9.424733 %
+L12Nb3Ta_900MD5 lmp:    -7.412252 ref:    -7.210813 err:     2.793555 %
+L12Nb3Ta_900MD10 lmp:    -7.412208 ref:    -7.168998 err:     3.392524 %
+L12Nb3Ta_900MD15 lmp:    -7.455756 ref:    -7.136380 err:     4.475314 %
+L12Nb3Ta_900MD20 lmp:    -7.337483 ref:    -7.166587 err:     2.384622 %
+L12Nb3Ta_900MD25 lmp:    -7.331324 ref:    -7.188907 err:     1.981066 %
+L12Nb3Ta_900MD30 lmp:    -7.372547 ref:    -7.210910 err:     2.241556 %
+L12Nb3Ta_900MD35 lmp:    -7.304223 ref:    -7.253395 err:     0.700750 %
+L12Nb3Ta_900MD40 lmp:    -7.252672 ref:    -7.170364 err:     1.147890 %
+L12Nb3Ta_900MD45 lmp:    -7.285438 ref:    -7.196863 err:     1.230741 %
+L12Nb3Ta_900MD50 lmp:    -7.307256 ref:    -7.238459 err:     0.950445 %
+L12Nb3Ta_900MD55 lmp:    -7.355156 ref:    -7.248616 err:     1.469803 %
+L12Nb3Ta_900MD60 lmp:    -7.378775 ref:    -7.257383 err:     1.672671 %
+L12Nb3Ta_900MD65 lmp:    -7.348866 ref:    -7.300680 err:     0.660021 %
+L12Nb3Ta_900MD70 lmp:    -7.365045 ref:    -7.277916 err:     1.197171 %
+L12Nb3Ta_900MD75 lmp:    -7.380171 ref:    -7.304984 err:     1.029253 %
+L12Nb3Ta_900MD80 lmp:    -7.356605 ref:    -7.321168 err:     0.484030 %
+L12Nb3Ta_900MD85 lmp:    -7.404985 ref:    -7.306903 err:     1.342330 %
+L12Nb3Ta_900MD90 lmp:    -7.468011 ref:    -7.350302 err:     1.601418 %
+L12Nb3Ta_900MD95 lmp:    -7.450565 ref:    -7.353440 err:     1.320806 %
+L12Nb3Ta_900MD100 lmp:    -7.448113 ref:    -7.403349 err:     0.604639 %
+L12Ta3Nb_900MD5 lmp:    -7.747791 ref:    -7.415579 err:     4.479911 %
+L12Ta3Nb_900MD10 lmp:    -7.747107 ref:    -7.385041 err:     4.902686 %
+L12Ta3Nb_900MD15 lmp:    -7.743229 ref:    -7.373653 err:     5.012119 %
+L12Ta3Nb_900MD20 lmp:    -7.650798 ref:    -7.342625 err:     4.197044 %
+L12Ta3Nb_900MD25 lmp:    -7.665204 ref:    -7.333990 err:     4.516159 %
+L12Ta3Nb_900MD30 lmp:    -7.641952 ref:    -7.376843 err:     3.593795 %
+L12Ta3Nb_900MD35 lmp:    -7.569703 ref:    -7.340386 err:     3.124048 %
+L12Ta3Nb_900MD40 lmp:    -7.589791 ref:    -7.359321 err:     3.131686 %
+L12Ta3Nb_900MD45 lmp:    -7.653727 ref:    -7.379989 err:     3.709201 %
+L12Ta3Nb_900MD50 lmp:    -7.645895 ref:    -7.397641 err:     3.355853 %
+L12Ta3Nb_900MD55 lmp:    -7.630191 ref:    -7.346435 err:     3.862504 %
+L12Ta3Nb_900MD60 lmp:    -7.674761 ref:    -7.432865 err:     3.254408 %
+L12Ta3Nb_900MD65 lmp:    -7.720284 ref:    -7.482441 err:     3.178686 %
+L12Ta3Nb_900MD70 lmp:    -7.703570 ref:    -7.437525 err:     3.577068 %
+L12Ta3Nb_900MD75 lmp:    -7.696185 ref:    -7.471188 err:     3.011528 %
+L12Ta3Nb_900MD80 lmp:    -7.760196 ref:    -7.524981 err:     3.125785 %
+L12Ta3Nb_900MD85 lmp:    -7.768442 ref:    -7.493902 err:     3.663508 %
+L12Ta3Nb_900MD90 lmp:    -7.749541 ref:    -7.530132 err:     2.913751 %
+L12Ta3Nb_900MD95 lmp:    -7.791360 ref:    -7.563919 err:     3.006921 %
+L12Ta3Nb_900MD100 lmp:    -7.797157 ref:    -7.555206 err:     3.202443 %
+ L12Nb3W_900MD5 lmp:    -7.464630 ref:    -7.183289 err:     3.916614 %
+L12Nb3W_900MD10 lmp:    -7.461212 ref:    -7.144056 err:     4.439441 %
+L12Nb3W_900MD15 lmp:    -7.496559 ref:    -7.156165 err:     4.756649 %
+L12Nb3W_900MD20 lmp:    -7.335797 ref:    -7.227350 err:     1.500510 %
+L12Nb3W_900MD25 lmp:    -7.398949 ref:    -7.304647 err:     1.290992 %
+L12Nb3W_900MD30 lmp:    -7.339570 ref:    -7.198969 err:     1.953075 %
+L12Nb3W_900MD35 lmp:    -7.205743 ref:    -7.198170 err:     0.105210 %
+L12Nb3W_900MD40 lmp:    -7.376261 ref:    -7.310602 err:     0.898136 %
+L12Nb3W_900MD45 lmp:    -7.460466 ref:    -7.277176 err:     2.518702 %
+L12Nb3W_900MD50 lmp:    -7.326228 ref:    -7.266109 err:     0.827393 %
+L12Nb3W_900MD55 lmp:    -7.457213 ref:    -7.392594 err:     0.874114 %
+L12Nb3W_900MD60 lmp:    -7.535752 ref:    -7.420559 err:     1.552357 %
+L12Nb3W_900MD65 lmp:    -7.397745 ref:    -7.373549 err:     0.328142 %
+L12Nb3W_900MD70 lmp:    -7.496186 ref:    -7.446167 err:     0.671742 %
+L12Nb3W_900MD75 lmp:    -7.606309 ref:    -7.436777 err:     2.279651 %
+L12Nb3W_900MD80 lmp:    -7.483385 ref:    -7.414807 err:     0.924872 %
+L12Nb3W_900MD85 lmp:    -7.541579 ref:    -7.492977 err:     0.648634 %
+L12Nb3W_900MD90 lmp:    -7.588543 ref:    -7.448273 err:     1.883253 %
+L12Nb3W_900MD95 lmp:    -7.470753 ref:    -7.439156 err:     0.424746 %
+L12Nb3W_900MD100 lmp:    -7.560374 ref:    -7.483572 err:     1.026266 %
+ L12W3Nb_900MD5 lmp:    -7.991891 ref:    -7.484024 err:     6.786021 %
+L12W3Nb_900MD10 lmp:    -8.022083 ref:    -7.471853 err:     7.364026 %
+L12W3Nb_900MD15 lmp:    -7.986859 ref:    -7.501253 err:     6.473663 %
+L12W3Nb_900MD20 lmp:    -7.743091 ref:    -7.435231 err:     4.140559 %
+L12W3Nb_900MD25 lmp:    -7.935663 ref:    -7.600476 err:     4.410074 %
+L12W3Nb_900MD30 lmp:    -7.979670 ref:    -7.608731 err:     4.875176 %
+L12W3Nb_900MD35 lmp:    -7.703198 ref:    -7.411569 err:     3.934786 %
+L12W3Nb_900MD40 lmp:    -7.880911 ref:    -7.520991 err:     4.785538 %
+L12W3Nb_900MD45 lmp:    -8.039646 ref:    -7.631735 err:     5.344930 %
+L12W3Nb_900MD50 lmp:    -7.862285 ref:    -7.534545 err:     4.349838 %
+L12W3Nb_900MD55 lmp:    -7.986427 ref:    -7.588951 err:     5.237571 %
+L12W3Nb_900MD60 lmp:    -8.113028 ref:    -7.740286 err:     4.815611 %
+L12W3Nb_900MD65 lmp:    -7.959417 ref:    -7.663122 err:     3.866506 %
+L12W3Nb_900MD70 lmp:    -8.089919 ref:    -7.744509 err:     4.460064 %
+L12W3Nb_900MD75 lmp:    -8.206317 ref:    -7.834367 err:     4.747669 %
+L12W3Nb_900MD80 lmp:    -8.092956 ref:    -7.773558 err:     4.108777 %
+L12W3Nb_900MD85 lmp:    -8.208302 ref:    -7.844259 err:     4.640889 %
+L12W3Nb_900MD90 lmp:    -8.215864 ref:    -7.876300 err:     4.311218 %
+L12W3Nb_900MD95 lmp:    -8.115080 ref:    -7.770614 err:     4.432935 %
+L12W3Nb_900MD100 lmp:    -8.196433 ref:    -7.852099 err:     4.385249 %
+ L12W3Ta_900MD5 lmp:    -7.995684 ref:    -6.975243 err:    14.629461 %
+L12W3Ta_900MD10 lmp:    -8.085551 ref:    -7.004660 err:    15.431020 %
+L12W3Ta_900MD15 lmp:    -8.072533 ref:    -7.003277 err:    15.267941 %
+L12W3Ta_900MD20 lmp:    -7.819475 ref:    -6.901940 err:    13.293874 %
+L12W3Ta_900MD25 lmp:    -7.826079 ref:    -6.946368 err:    12.664330 %
+L12W3Ta_900MD30 lmp:    -7.775607 ref:    -7.012988 err:    10.874381 %
+L12W3Ta_900MD35 lmp:    -7.763704 ref:    -6.999329 err:    10.920686 %
+L12W3Ta_900MD40 lmp:    -7.692591 ref:    -6.924201 err:    11.097158 %
+L12W3Ta_900MD45 lmp:    -7.687977 ref:    -6.970058 err:    10.300042 %
+L12W3Ta_900MD50 lmp:    -7.937541 ref:    -7.109911 err:    11.640510 %
+L12W3Ta_900MD55 lmp:    -7.905137 ref:    -7.085738 err:    11.564060 %
+L12W3Ta_900MD60 lmp:    -7.975290 ref:    -7.112883 err:    12.124569 %
+L12W3Ta_900MD65 lmp:    -8.102973 ref:    -7.215579 err:    12.298303 %
+L12W3Ta_900MD70 lmp:    -7.981202 ref:    -7.202256 err:    10.815311 %
+L12W3Ta_900MD75 lmp:    -8.078643 ref:    -7.274522 err:    11.053934 %
+L12W3Ta_900MD80 lmp:    -8.097432 ref:    -7.318981 err:    10.636065 %
+L12W3Ta_900MD85 lmp:    -8.174734 ref:    -7.362379 err:    11.033863 %
+L12W3Ta_900MD90 lmp:    -8.212204 ref:    -7.356311 err:    11.634821 %
+L12W3Ta_900MD95 lmp:    -8.121443 ref:    -7.359296 err:    10.356256 %
+L12W3Ta_900MD100 lmp:    -8.154480 ref:    -7.377377 err:    10.533594 %
+ L12Ta3W_900MD5 lmp:    -7.928965 ref:    -7.209156 err:     9.984660 %
+L12Ta3W_900MD10 lmp:    -7.921632 ref:    -7.200077 err:    10.021482 %
+L12Ta3W_900MD15 lmp:    -7.910476 ref:    -7.176000 err:    10.235161 %
+L12Ta3W_900MD20 lmp:    -7.770477 ref:    -7.178100 err:     8.252564 %
+L12Ta3W_900MD25 lmp:    -7.734853 ref:    -7.240684 err:     6.824899 %
+L12Ta3W_900MD30 lmp:    -7.684396 ref:    -7.323030 err:     4.934660 %
+L12Ta3W_900MD35 lmp:    -7.536547 ref:    -7.182209 err:     4.933546 %
+L12Ta3W_900MD40 lmp:    -7.462054 ref:    -7.126129 err:     4.713996 %
+L12Ta3W_900MD45 lmp:    -7.610555 ref:    -7.233821 err:     5.207961 %
+L12Ta3W_900MD50 lmp:    -7.721741 ref:    -7.312690 err:     5.593707 %
+L12Ta3W_900MD55 lmp:    -7.669028 ref:    -7.247770 err:     5.812243 %
+L12Ta3W_900MD60 lmp:    -7.731212 ref:    -7.233803 err:     6.876180 %
+L12Ta3W_900MD65 lmp:    -7.771500 ref:    -7.332891 err:     5.981390 %
+L12Ta3W_900MD70 lmp:    -7.704012 ref:    -7.362645 err:     4.636461 %
+L12Ta3W_900MD75 lmp:    -7.718973 ref:    -7.314388 err:     5.531361 %
+L12Ta3W_900MD80 lmp:    -7.747356 ref:    -7.358829 err:     5.279735 %
+L12Ta3W_900MD85 lmp:    -7.835244 ref:    -7.453186 err:     5.126097 %
+L12Ta3W_900MD90 lmp:    -7.891600 ref:    -7.384729 err:     6.863766 %
+L12Ta3W_900MD95 lmp:    -7.868495 ref:    -7.423532 err:     5.993957 %
+L12Ta3W_900MD100 lmp:    -7.920387 ref:    -7.468107 err:     6.056147 %
+ L12Mo3V_900MD5 lmp:    -5.618208 ref:    -4.601539 err:    22.094113 %
+L12Mo3V_900MD10 lmp:    -5.415106 ref:    -4.448555 err:    21.727302 %
+L12Mo3V_900MD15 lmp:    -6.007106 ref:    -4.843443 err:    24.025550 %
+L12Mo3V_900MD20 lmp:    -5.771643 ref:    -4.726775 err:    22.105325 %
+L12Mo3V_900MD25 lmp:    -5.240625 ref:    -4.378561 err:    19.688288 %
+L12Mo3V_900MD30 lmp:    -5.739422 ref:    -4.732863 err:    21.267434 %
+L12Mo3V_900MD35 lmp:    -5.816420 ref:    -4.766069 err:    22.038104 %
+L12Mo3V_900MD40 lmp:    -5.328678 ref:    -4.463917 err:    19.372257 %
+L12Mo3V_900MD45 lmp:    -5.487096 ref:    -4.603858 err:    19.184734 %
+L12Mo3V_900MD50 lmp:    -5.830089 ref:    -4.757036 err:    22.557159 %
+L12Mo3V_900MD55 lmp:    -5.582252 ref:    -4.683754 err:    19.183285 %
+L12Mo3V_900MD60 lmp:    -5.335105 ref:    -4.475344 err:    19.211066 %
+L12Mo3V_900MD65 lmp:    -5.738529 ref:    -4.742603 err:    20.999562 %
+L12Mo3V_900MD70 lmp:    -5.787048 ref:    -4.806516 err:    20.400052 %
+L12Mo3V_900MD75 lmp:    -5.502344 ref:    -4.625240 err:    18.963436 %
+L12Mo3V_900MD80 lmp:    -5.793228 ref:    -4.812643 err:    20.375180 %
+L12Mo3V_900MD85 lmp:    -5.962760 ref:    -4.904849 err:    21.568677 %
+L12Mo3V_900MD90 lmp:    -5.670709 ref:    -4.765078 err:    19.005598 %
+L12Mo3V_900MD95 lmp:    -5.721505 ref:    -4.802751 err:    19.129739 %
+L12Mo3V_900MD100 lmp:    -5.987861 ref:    -4.933708 err:    21.366330 %
+ L12Nb3V_900MD2 lmp:    -6.636562 ref:    -6.473210 err:     2.523512 %
+ L12Nb3V_900MD4 lmp:    -6.563847 ref:    -6.360881 err:     3.190850 %
+ L12Nb3V_900MD6 lmp:    -6.469612 ref:    -6.322149 err:     2.332479 %
+ L12Nb3V_900MD8 lmp:    -6.419716 ref:    -6.288656 err:     2.084082 %
+L12Nb3V_900MD10 lmp:    -6.445787 ref:    -6.284745 err:     2.562428 %
+L12Nb3V_900MD12 lmp:    -6.517429 ref:    -6.295376 err:     3.527242 %
+L12Nb3V_900MD14 lmp:    -6.573050 ref:    -6.377344 err:     3.068773 %
+L12Nb3V_900MD16 lmp:    -6.576405 ref:    -6.359893 err:     3.404348 %
+L12Nb3V_900MD18 lmp:    -6.531796 ref:    -6.326655 err:     3.242489 %
+L12Nb3V_900MD20 lmp:    -6.440400 ref:    -6.256599 err:     2.937712 %
+L12Nb3V_900MD22 lmp:    -6.340256 ref:    -6.236648 err:     1.661263 %
+L12Nb3V_900MD24 lmp:    -6.289758 ref:    -6.197307 err:     1.491798 %
+L12Nb3V_900MD26 lmp:    -6.316843 ref:    -6.200279 err:     1.879977 %
+L12Nb3V_900MD28 lmp:    -6.388027 ref:    -6.241438 err:     2.348634 %
+L12Nb3V_900MD30 lmp:    -6.444788 ref:    -6.230146 err:     3.445228 %
+L12Nb3V_900MD32 lmp:    -6.469089 ref:    -6.213620 err:     4.111441 %
+L12Nb3V_900MD34 lmp:    -6.465263 ref:    -6.244386 err:     3.537222 %
+L12Nb3V_900MD36 lmp:    -6.436521 ref:    -6.259018 err:     2.835954 %
+L12Nb3V_900MD38 lmp:    -6.388974 ref:    -6.255680 err:     2.130762 %
+L12Nb3V_900MD40 lmp:    -6.344778 ref:    -6.233105 err:     1.791618 %
+ L12V3Nb_900MD5 lmp:    -5.504137 ref:    -4.967337 err:    10.806605 %
+L12V3Nb_900MD10 lmp:    -5.144131 ref:    -4.687242 err:     9.747487 %
+L12V3Nb_900MD15 lmp:    -5.177105 ref:    -4.715497 err:     9.789182 %
+L12V3Nb_900MD20 lmp:    -5.378897 ref:    -4.845443 err:    11.009404 %
+L12V3Nb_900MD25 lmp:    -5.354614 ref:    -4.836464 err:    10.713393 %
+L12V3Nb_900MD30 lmp:    -5.142325 ref:    -4.724755 err:     8.837903 %
+L12V3Nb_900MD35 lmp:    -5.009447 ref:    -4.672789 err:     7.204630 %
+L12V3Nb_900MD40 lmp:    -5.167955 ref:    -4.762851 err:     8.505491 %
+L12V3Nb_900MD45 lmp:    -5.352373 ref:    -4.806928 err:    11.347062 %
+L12V3Nb_900MD50 lmp:    -5.364058 ref:    -4.867580 err:    10.199683 %
+L12V3Nb_900MD55 lmp:    -5.206045 ref:    -4.814149 err:     8.140505 %
+L12V3Nb_900MD60 lmp:    -5.162386 ref:    -4.804387 err:     7.451488 %
+L12V3Nb_900MD65 lmp:    -5.369192 ref:    -4.926496 err:     8.986036 %
+L12V3Nb_900MD70 lmp:    -5.489575 ref:    -4.978285 err:    10.270417 %
+L12V3Nb_900MD75 lmp:    -5.457887 ref:    -4.925748 err:    10.803220 %
+L12V3Nb_900MD80 lmp:    -5.302807 ref:    -4.898535 err:     8.252921 %
+L12V3Nb_900MD85 lmp:    -5.315144 ref:    -4.904913 err:     8.363689 %
+L12V3Nb_900MD90 lmp:    -5.495626 ref:    -5.036767 err:     9.110197 %
+L12V3Nb_900MD95 lmp:    -5.546044 ref:    -5.033231 err:    10.188530 %
+L12V3Nb_900MD100 lmp:    -5.457118 ref:    -5.030570 err:     8.479119 %
+ L12Ta3V_900MD1 lmp:    -7.101589 ref:    -6.361547 err:    11.633063 %
+ L12Ta3V_900MD3 lmp:    -7.054597 ref:    -6.354295 err:    11.020928 %
+ L12Ta3V_900MD6 lmp:    -6.928541 ref:    -6.304106 err:     9.905216 %
+ L12Ta3V_900MD9 lmp:    -6.868023 ref:    -6.282324 err:     9.322966 %
+L12Ta3V_900MD12 lmp:    -6.937575 ref:    -6.307968 err:     9.981141 %
+L12Ta3V_900MD13 lmp:    -6.967080 ref:    -6.311048 err:    10.394980 %
+L12Ta3V_900MD15 lmp:    -7.004489 ref:    -6.296083 err:    11.251533 %
+L12Ta3V_900MD18 lmp:    -6.975125 ref:    -6.293554 err:    10.829657 %
+L12Ta3V_900MD20 lmp:    -6.902449 ref:    -6.264976 err:    10.175193 %
+L12Ta3V_900MD21 lmp:    -6.856506 ref:    -6.245625 err:     9.780952 %
+L12Ta3V_900MD24 lmp:    -6.744130 ref:    -6.200148 err:     8.773702 %
+L12Ta3V_900MD26 lmp:    -6.738445 ref:    -6.189114 err:     8.875749 %
+L12Ta3V_900MD27 lmp:    -6.758851 ref:    -6.189530 err:     9.198117 %
+L12Ta3V_900MD30 lmp:    -6.857043 ref:    -6.213051 err:    10.365152 %
+L12Ta3V_900MD33 lmp:    -6.910096 ref:    -6.256530 err:    10.446140 %
+L12Ta3V_900MD36 lmp:    -6.883878 ref:    -6.233621 err:    10.431448 %
+L12Ta3V_900MD39 lmp:    -6.807695 ref:    -6.225117 err:     9.358510 %
+L12Ta3V_900MD42 lmp:    -6.775654 ref:    -6.237336 err:     8.630573 %
+L12Ta3V_900MD45 lmp:    -6.835220 ref:    -6.277731 err:     8.880420 %
+L12Ta3V_900MD48 lmp:    -6.904480 ref:    -6.271396 err:    10.094788 %
+  L12W3V_900MD5 lmp:    -7.205309 ref:    -5.955810 err:    20.979506 %
+ L12W3V_900MD10 lmp:    -7.239071 ref:    -5.948593 err:    21.693831 %
+ L12W3V_900MD15 lmp:    -7.459679 ref:    -6.068404 err:    22.926540 %
+ L12W3V_900MD20 lmp:    -7.169098 ref:    -5.841659 err:    22.723664 %
+ L12W3V_900MD25 lmp:    -7.201629 ref:    -5.875002 err:    22.580880 %
+ L12W3V_900MD30 lmp:    -7.386416 ref:    -6.011453 err:    22.872383 %
+ L12W3V_900MD35 lmp:    -7.286616 ref:    -5.948642 err:    22.492096 %
+ L12W3V_900MD40 lmp:    -7.543071 ref:    -6.106717 err:    23.520890 %
+ L12W3V_900MD45 lmp:    -7.648005 ref:    -6.099687 err:    25.383559 %
+ L12W3V_900MD50 lmp:    -7.370276 ref:    -5.925821 err:    24.375612 %
+ L12W3V_900MD55 lmp:    -7.579298 ref:    -6.180983 err:    22.622859 %
+ L12W3V_900MD60 lmp:    -7.614492 ref:    -6.234434 err:    22.136052 %
+ L12W3V_900MD65 lmp:    -7.407779 ref:    -6.093744 err:    21.563678 %
+ L12W3V_900MD70 lmp:    -7.716107 ref:    -6.364949 err:    21.228101 %
+ L12W3V_900MD75 lmp:    -7.822688 ref:    -6.425094 err:    21.752127 %
+ L12W3V_900MD80 lmp:    -7.565692 ref:    -6.255653 err:    20.941686 %
+ L12W3V_900MD85 lmp:    -7.761582 ref:    -6.408388 err:    21.115985 %
+ L12W3V_900MD90 lmp:    -7.707779 ref:    -6.427670 err:    19.915595 %
+ L12W3V_900MD95 lmp:    -7.524608 ref:    -6.239227 err:    20.601609 %
+L12W3V_900MD100 lmp:    -7.778655 ref:    -6.416920 err:    21.221002 %
+ L12V3Mo_900MD5 lmp:    -5.440211 ref:    -5.199429 err:     4.630935 %
+L12V3Mo_900MD10 lmp:    -5.387577 ref:    -5.216803 err:     3.273531 %
+L12V3Mo_900MD15 lmp:    -5.354104 ref:    -5.227047 err:     2.430773 %
+L12V3Mo_900MD20 lmp:    -5.295836 ref:    -5.161337 err:     2.605883 %
+L12V3Mo_900MD25 lmp:    -5.198126 ref:    -5.021583 err:     3.515696 %
+L12V3Mo_900MD30 lmp:    -5.148650 ref:    -5.115503 err:     0.647979 %
+L12V3Mo_900MD35 lmp:    -5.213700 ref:    -5.061315 err:     3.010782 %
+L12V3Mo_900MD40 lmp:    -5.295316 ref:    -5.230502 err:     1.239151 %
+L12V3Mo_900MD45 lmp:    -5.345215 ref:    -5.298653 err:     0.878749 %
+L12V3Mo_900MD50 lmp:    -5.438744 ref:    -5.455981 err:    -0.315921 %
+L12V3Mo_900MD55 lmp:    -5.449880 ref:    -5.484059 err:    -0.623241 %
+L12V3Mo_900MD60 lmp:    -5.351169 ref:    -5.380473 err:    -0.544633 %
+L12V3Mo_900MD65 lmp:    -5.273878 ref:    -5.309456 err:    -0.670098 %
+L12V3Mo_900MD70 lmp:    -5.292209 ref:    -5.321773 err:    -0.555528 %
+L12V3Mo_900MD75 lmp:    -5.287074 ref:    -5.240287 err:     0.892831 %
+L12V3Mo_900MD80 lmp:    -5.300559 ref:    -5.281227 err:     0.366041 %
+L12V3Mo_900MD85 lmp:    -5.353028 ref:    -5.312913 err:     0.755066 %
+L12V3Mo_900MD90 lmp:    -5.369917 ref:    -5.354259 err:     0.292444 %
+L12V3Mo_900MD95 lmp:    -5.361798 ref:    -5.452817 err:    -1.669208 %
+L12V3Mo_900MD100 lmp:    -5.341654 ref:    -5.374473 err:    -0.610636 %
+ L12V3Ta_900MD5 lmp:    -5.806805 ref:    -5.530912 err:     4.988197 %
+L12V3Ta_900MD10 lmp:    -5.761672 ref:    -5.561521 err:     3.598863 %
+L12V3Ta_900MD15 lmp:    -5.726918 ref:    -5.480505 err:     4.496168 %
+L12V3Ta_900MD20 lmp:    -5.703942 ref:    -5.480634 err:     4.074505 %
+L12V3Ta_900MD25 lmp:    -5.703428 ref:    -5.498442 err:     3.728062 %
+L12V3Ta_900MD30 lmp:    -5.709594 ref:    -5.667894 err:     0.735733 %
+L12V3Ta_900MD35 lmp:    -5.671905 ref:    -5.602071 err:     1.246571 %
+L12V3Ta_900MD40 lmp:    -5.591658 ref:    -5.548371 err:     0.780159 %
+L12V3Ta_900MD45 lmp:    -5.567378 ref:    -5.500126 err:     1.222736 %
+L12V3Ta_900MD50 lmp:    -5.624285 ref:    -5.571506 err:     0.947296 %
+L12V3Ta_900MD55 lmp:    -5.696279 ref:    -5.632114 err:     1.139275 %
+L12V3Ta_900MD60 lmp:    -5.740247 ref:    -5.645949 err:     1.670190 %
+L12V3Ta_900MD65 lmp:    -5.782449 ref:    -5.650624 err:     2.332939 %
+L12V3Ta_900MD70 lmp:    -5.781546 ref:    -5.579957 err:     3.612734 %
+L12V3Ta_900MD75 lmp:    -5.725840 ref:    -5.669984 err:     0.985114 %
+L12V3Ta_900MD80 lmp:    -5.703438 ref:    -5.633930 err:     1.233752 %
+L12V3Ta_900MD85 lmp:    -5.709571 ref:    -5.650285 err:     1.049266 %
+L12V3Ta_900MD90 lmp:    -5.696009 ref:    -5.627396 err:     1.219256 %
+L12V3Ta_900MD95 lmp:    -5.710836 ref:    -5.666661 err:     0.779571 %
+L12V3Ta_900MD100 lmp:    -5.717956 ref:    -5.640089 err:     1.380605 %
+  L12V3W_900MD5 lmp:    -5.999184 ref:    -5.611765 err:     6.903693 %
+ L12V3W_900MD10 lmp:    -5.972735 ref:    -5.645677 err:     5.793063 %
+ L12V3W_900MD15 lmp:    -5.969981 ref:    -5.571699 err:     7.148290 %
+ L12V3W_900MD20 lmp:    -5.961857 ref:    -5.665091 err:     5.238509 %
+ L12V3W_900MD25 lmp:    -6.003523 ref:    -5.690493 err:     5.500939 %
+ L12V3W_900MD30 lmp:    -6.149153 ref:    -5.874885 err:     4.668478 %
+ L12V3W_900MD35 lmp:    -6.196288 ref:    -5.767394 err:     7.436529 %
+ L12V3W_900MD40 lmp:    -6.157306 ref:    -5.724977 err:     7.551635 %
+ L12V3W_900MD45 lmp:    -6.134800 ref:    -5.651383 err:     8.553969 %
+ L12V3W_900MD50 lmp:    -6.180179 ref:    -5.881351 err:     5.080956 %
+ L12V3W_900MD55 lmp:    -6.079430 ref:    -5.785297 err:     5.084149 %
+ L12V3W_900MD60 lmp:    -5.985622 ref:    -5.704297 err:     4.931803 %
+ L12V3W_900MD65 lmp:    -6.009816 ref:    -5.624160 err:     6.857132 %
+ L12V3W_900MD70 lmp:    -6.135028 ref:    -5.834564 err:     5.149733 %
+ L12V3W_900MD75 lmp:    -6.192576 ref:    -5.844095 err:     5.962961 %
+ L12V3W_900MD80 lmp:    -6.155706 ref:    -5.733153 err:     7.370344 %
+ L12V3W_900MD85 lmp:    -6.177880 ref:    -5.760549 err:     7.244636 %
+ L12V3W_900MD90 lmp:    -6.175909 ref:    -5.847999 err:     5.607216 %
+ L12V3W_900MD95 lmp:    -6.103263 ref:    -5.889023 err:     3.637945 %
+L12V3W_900MD100 lmp:    -6.042786 ref:    -5.723230 err:     5.583505 %
+00MC_00004_B2_300MD5 lmp:    -6.613963 ref:    -6.581223 err:     0.497469 %
+00MC_00004_B2_300MD10 lmp:    -6.673748 ref:    -6.619630 err:     0.817543 %
+00MC_00004_B2_300MD15 lmp:    -6.631879 ref:    -6.588420 err:     0.659617 %
+00MC_00004_B2_300MD20 lmp:    -6.603320 ref:    -6.568163 err:     0.535251 %
+00MC_00004_B2_300MD25 lmp:    -6.660797 ref:    -6.576835 err:     1.276634 %
+00MC_00004_B2_300MD30 lmp:    -6.592778 ref:    -6.555681 err:     0.565866 %
+00MC_00004_B2_300MD35 lmp:    -6.641979 ref:    -6.580250 err:     0.938101 %
+00MC_00004_B2_300MD40 lmp:    -6.632562 ref:    -6.569969 err:     0.952718 %
+00MC_00004_B2_300MD45 lmp:    -6.615420 ref:    -6.569691 err:     0.696065 %
+00MC_00004_B2_300MD50 lmp:    -6.636099 ref:    -6.586020 err:     0.760371 %
+00MC_00004_B2_300MD55 lmp:    -6.617380 ref:    -6.574336 err:     0.654723 %
+00MC_00004_B2_300MD60 lmp:    -6.631976 ref:    -6.588040 err:     0.666905 %
+00MC_00004_B2_300MD65 lmp:    -6.633402 ref:    -6.580328 err:     0.806556 %
+00MC_00004_B2_300MD70 lmp:    -6.622497 ref:    -6.561572 err:     0.928521 %
+00MC_00004_B2_300MD75 lmp:    -6.656117 ref:    -6.585104 err:     1.078377 %
+00MC_00004_B2_300MD80 lmp:    -6.650860 ref:    -6.585339 err:     0.994947 %
+00MC_00004_B2_300MD85 lmp:    -6.643223 ref:    -6.583301 err:     0.910205 %
+00MC_00004_B2_300MD90 lmp:    -6.650686 ref:    -6.581164 err:     1.056368 %
+00MC_00004_B2_300MD95 lmp:    -6.651987 ref:    -6.586886 err:     0.988345 %
+00MC_00004_B2_300MD100 lmp:    -6.635389 ref:    -6.573411 err:     0.942862 %
+00MC_00004_B2_900MD5 lmp:    -6.620869 ref:    -6.513346 err:     1.650798 %
+00MC_00004_B2_900MD10 lmp:    -6.558680 ref:    -6.466841 err:     1.420144 %
+00MC_00004_B2_900MD15 lmp:    -6.592550 ref:    -6.457377 err:     2.093314 %
+00MC_00004_B2_900MD20 lmp:    -6.508519 ref:    -6.398642 err:     1.717198 %
+00MC_00004_B2_900MD25 lmp:    -6.470768 ref:    -6.355175 err:     1.818891 %
+00MC_00004_B2_900MD30 lmp:    -6.539140 ref:    -6.396097 err:     2.236415 %
+00MC_00004_B2_900MD35 lmp:    -6.489663 ref:    -6.355305 err:     2.114107 %
+00MC_00004_B2_900MD40 lmp:    -6.448047 ref:    -6.330031 err:     1.864383 %
+00MC_00004_B2_900MD45 lmp:    -6.464443 ref:    -6.328012 err:     2.155996 %
+00MC_00004_B2_900MD50 lmp:    -6.416897 ref:    -6.311858 err:     1.664152 %
+00MC_00004_B2_900MD55 lmp:    -6.408651 ref:    -6.330514 err:     1.234289 %
+00MC_00004_B2_900MD60 lmp:    -6.448494 ref:    -6.315925 err:     2.098954 %
+00MC_00004_B2_900MD65 lmp:    -6.400417 ref:    -6.319989 err:     1.272600 %
+00MC_00004_B2_900MD70 lmp:    -6.419536 ref:    -6.347854 err:     1.129228 %
+00MC_00004_B2_900MD75 lmp:    -6.482290 ref:    -6.362440 err:     1.883701 %
+00MC_00004_B2_900MD80 lmp:    -6.448998 ref:    -6.353779 err:     1.498634 %
+00MC_00004_B2_900MD85 lmp:    -6.485444 ref:    -6.382342 err:     1.615429 %
+00MC_00004_B2_900MD90 lmp:    -6.554997 ref:    -6.419911 err:     2.104174 %
+00MC_00004_B2_900MD95 lmp:    -6.508685 ref:    -6.390207 err:     1.854058 %
+00MC_00004_B2_900MD100 lmp:    -6.507733 ref:    -6.403647 err:     1.625427 %
+00MC_00005_B2_300MD5 lmp:    -6.639532 ref:    -6.578117 err:     0.933638 %
+00MC_00005_B2_300MD10 lmp:    -6.676714 ref:    -6.597373 err:     1.202620 %
+00MC_00005_B2_300MD15 lmp:    -6.651642 ref:    -6.578130 err:     1.117518 %
+00MC_00005_B2_300MD20 lmp:    -6.597012 ref:    -6.550801 err:     0.705423 %
+00MC_00005_B2_300MD25 lmp:    -6.671516 ref:    -6.562223 err:     1.665480 %
+00MC_00005_B2_300MD30 lmp:    -6.613966 ref:    -6.553816 err:     0.917775 %
+00MC_00005_B2_300MD35 lmp:    -6.666480 ref:    -6.573354 err:     1.416726 %
+00MC_00005_B2_300MD40 lmp:    -6.679882 ref:    -6.563322 err:     1.775937 %
+00MC_00005_B2_300MD45 lmp:    -6.645368 ref:    -6.557890 err:     1.333943 %
+00MC_00005_B2_300MD50 lmp:    -6.679677 ref:    -6.573064 err:     1.621962 %
+00MC_00005_B2_300MD55 lmp:    -6.674169 ref:    -6.569324 err:     1.595982 %
+00MC_00005_B2_300MD60 lmp:    -6.673365 ref:    -6.574705 err:     1.500611 %
+00MC_00005_B2_300MD65 lmp:    -6.692135 ref:    -6.578062 err:     1.734138 %
+00MC_00005_B2_300MD70 lmp:    -6.671053 ref:    -6.571299 err:     1.518028 %
+00MC_00005_B2_300MD75 lmp:    -6.681755 ref:    -6.583018 err:     1.499875 %
+00MC_00005_B2_300MD80 lmp:    -6.675577 ref:    -6.572820 err:     1.563363 %
+00MC_00005_B2_300MD85 lmp:    -6.666168 ref:    -6.570579 err:     1.454797 %
+00MC_00005_B2_300MD90 lmp:    -6.675210 ref:    -6.578876 err:     1.464282 %
+00MC_00005_B2_300MD95 lmp:    -6.673737 ref:    -6.580767 err:     1.412743 %
+00MC_00005_B2_300MD100 lmp:    -6.670157 ref:    -6.580580 err:     1.361238 %
+00MC_00005_B2_900MD5 lmp:    -6.651898 ref:    -6.503686 err:     2.278904 %
+00MC_00005_B2_900MD10 lmp:    -6.601140 ref:    -6.465289 err:     2.101232 %
+00MC_00005_B2_900MD15 lmp:    -6.617042 ref:    -6.443594 err:     2.691783 %
+00MC_00005_B2_900MD20 lmp:    -6.505749 ref:    -6.382964 err:     1.923622 %
+00MC_00005_B2_900MD25 lmp:    -6.497921 ref:    -6.347620 err:     2.367829 %
+00MC_00005_B2_900MD30 lmp:    -6.536793 ref:    -6.375734 err:     2.526126 %
+00MC_00005_B2_900MD35 lmp:    -6.454425 ref:    -6.332070 err:     1.932307 %
+00MC_00005_B2_900MD40 lmp:    -6.469350 ref:    -6.339739 err:     2.044416 %
+00MC_00005_B2_900MD45 lmp:    -6.527320 ref:    -6.349853 err:     2.794818 %
+00MC_00005_B2_900MD50 lmp:    -6.522530 ref:    -6.355195 err:     2.633040 %
+00MC_00005_B2_900MD55 lmp:    -6.563029 ref:    -6.353041 err:     3.305316 %
+00MC_00005_B2_900MD60 lmp:    -6.602749 ref:    -6.376163 err:     3.553652 %
+00MC_00005_B2_900MD65 lmp:    -6.555826 ref:    -6.366433 err:     2.974873 %
+00MC_00005_B2_900MD70 lmp:    -6.567261 ref:    -6.374146 err:     3.029670 %
+00MC_00005_B2_900MD75 lmp:    -6.604076 ref:    -6.376718 err:     3.565448 %
+00MC_00005_B2_900MD80 lmp:    -6.580090 ref:    -6.384679 err:     3.060611 %
+00MC_00005_B2_900MD85 lmp:    -6.608248 ref:    -6.414052 err:     3.027675 %
+00MC_00005_B2_900MD90 lmp:    -6.625431 ref:    -6.401179 err:     3.503290 %
+00MC_00005_B2_900MD95 lmp:    -6.594179 ref:    -6.403778 err:     2.973261 %
+00MC_00005_B2_900MD100 lmp:    -6.613308 ref:    -6.385801 err:     3.562692 %
+00MC_00006_B2_300MD5 lmp:    -6.571321 ref:    -6.577092 err:    -0.087751 %
+00MC_00006_B2_300MD10 lmp:    -6.649815 ref:    -6.606683 err:     0.652844 %
+00MC_00006_B2_300MD15 lmp:    -6.611542 ref:    -6.581169 err:     0.461511 %
+00MC_00006_B2_300MD20 lmp:    -6.592681 ref:    -6.567562 err:     0.382466 %
+00MC_00006_B2_300MD25 lmp:    -6.600713 ref:    -6.563412 err:     0.568320 %
+00MC_00006_B2_300MD30 lmp:    -6.558433 ref:    -6.549146 err:     0.141799 %
+00MC_00006_B2_300MD35 lmp:    -6.632245 ref:    -6.570660 err:     0.937265 %
+00MC_00006_B2_300MD40 lmp:    -6.570338 ref:    -6.560313 err:     0.152819 %
+00MC_00006_B2_300MD45 lmp:    -6.620374 ref:    -6.578036 err:     0.643625 %
+00MC_00006_B2_300MD50 lmp:    -6.634290 ref:    -6.578085 err:     0.854431 %
+00MC_00006_B2_300MD55 lmp:    -6.608541 ref:    -6.566872 err:     0.634537 %
+00MC_00006_B2_300MD60 lmp:    -6.626553 ref:    -6.578972 err:     0.723221 %
+00MC_00006_B2_300MD65 lmp:    -6.619138 ref:    -6.578743 err:     0.614034 %
+00MC_00006_B2_300MD70 lmp:    -6.608544 ref:    -6.569228 err:     0.598486 %
+00MC_00006_B2_300MD75 lmp:    -6.616426 ref:    -6.576846 err:     0.601798 %
+00MC_00006_B2_300MD80 lmp:    -6.619353 ref:    -6.571961 err:     0.721134 %
+00MC_00006_B2_300MD85 lmp:    -6.620551 ref:    -6.573923 err:     0.709286 %
+00MC_00006_B2_300MD90 lmp:    -6.615659 ref:    -6.561358 err:     0.827592 %
+00MC_00006_B2_300MD95 lmp:    -6.623093 ref:    -6.562676 err:     0.920607 %
+00MC_00006_B2_300MD100 lmp:    -6.591706 ref:    -6.559930 err:     0.484388 %
+00MC_00006_B2_900MD5 lmp:    -6.594129 ref:    -6.507584 err:     1.329919 %
+00MC_00006_B2_900MD10 lmp:    -6.525410 ref:    -6.464942 err:     0.935310 %
+00MC_00006_B2_900MD15 lmp:    -6.582203 ref:    -6.462475 err:     1.852677 %
+00MC_00006_B2_900MD20 lmp:    -6.475464 ref:    -6.396127 err:     1.240403 %
+00MC_00006_B2_900MD25 lmp:    -6.425783 ref:    -6.333578 err:     1.455818 %
+00MC_00006_B2_900MD30 lmp:    -6.528592 ref:    -6.348630 err:     2.834651 %
+00MC_00006_B2_900MD35 lmp:    -6.466945 ref:    -6.331035 err:     2.146722 %
+00MC_00006_B2_900MD40 lmp:    -6.463047 ref:    -6.340844 err:     1.927229 %
+00MC_00006_B2_900MD45 lmp:    -6.548653 ref:    -6.355128 err:     3.045181 %
+00MC_00006_B2_900MD50 lmp:    -6.501219 ref:    -6.365728 err:     2.128448 %
+00MC_00006_B2_900MD55 lmp:    -6.506275 ref:    -6.339540 err:     2.630076 %
+00MC_00006_B2_900MD60 lmp:    -6.585304 ref:    -6.398022 err:     2.927196 %
+00MC_00006_B2_900MD65 lmp:    -6.546410 ref:    -6.396771 err:     2.339295 %
+00MC_00006_B2_900MD70 lmp:    -6.520740 ref:    -6.380532 err:     2.197435 %
+00MC_00006_B2_900MD75 lmp:    -6.557839 ref:    -6.415718 err:     2.215195 %
+00MC_00006_B2_900MD80 lmp:    -6.529891 ref:    -6.386245 err:     2.249313 %
+00MC_00006_B2_900MD85 lmp:    -6.501292 ref:    -6.389451 err:     1.750409 %
+00MC_00006_B2_900MD90 lmp:    -6.536203 ref:    -6.386510 err:     2.343884 %
+00MC_00006_B2_900MD95 lmp:    -6.519958 ref:    -6.390981 err:     2.018115 %
+00MC_00006_B2_900MD100 lmp:    -6.505597 ref:    -6.389324 err:     1.819795 %
+00MC_00007_B2_300MD5 lmp:    -6.626151 ref:    -6.582012 err:     0.670586 %
+00MC_00007_B2_300MD10 lmp:    -6.701083 ref:    -6.625352 err:     1.143052 %
+00MC_00007_B2_300MD15 lmp:    -6.639107 ref:    -6.587342 err:     0.785815 %
+00MC_00007_B2_300MD20 lmp:    -6.647210 ref:    -6.582799 err:     0.978474 %
+00MC_00007_B2_300MD25 lmp:    -6.633242 ref:    -6.570040 err:     0.961973 %
+00MC_00007_B2_300MD30 lmp:    -6.613362 ref:    -6.557184 err:     0.856727 %
+00MC_00007_B2_300MD35 lmp:    -6.667145 ref:    -6.581509 err:     1.301157 %
+00MC_00007_B2_300MD40 lmp:    -6.617759 ref:    -6.551936 err:     1.004631 %
+00MC_00007_B2_300MD45 lmp:    -6.681512 ref:    -6.584573 err:     1.472204 %
+00MC_00007_B2_300MD50 lmp:    -6.637950 ref:    -6.574229 err:     0.969259 %
+00MC_00007_B2_300MD55 lmp:    -6.663740 ref:    -6.585531 err:     1.187591 %
+00MC_00007_B2_300MD60 lmp:    -6.663149 ref:    -6.591314 err:     1.089852 %
+00MC_00007_B2_300MD65 lmp:    -6.656869 ref:    -6.577135 err:     1.212291 %
+00MC_00007_B2_300MD70 lmp:    -6.663215 ref:    -6.586086 err:     1.171083 %
+00MC_00007_B2_300MD75 lmp:    -6.663250 ref:    -6.580429 err:     1.258584 %
+00MC_00007_B2_300MD80 lmp:    -6.671173 ref:    -6.586926 err:     1.278996 %
+00MC_00007_B2_300MD85 lmp:    -6.664035 ref:    -6.584207 err:     1.212415 %
+00MC_00007_B2_300MD90 lmp:    -6.651256 ref:    -6.582616 err:     1.042748 %
+00MC_00007_B2_300MD95 lmp:    -6.661604 ref:    -6.584640 err:     1.168843 %
+00MC_00007_B2_300MD100 lmp:    -6.653424 ref:    -6.584883 err:     1.040890 %
+00MC_00007_B2_900MD5 lmp:    -6.641470 ref:    -6.515363 err:     1.935540 %
+00MC_00007_B2_900MD10 lmp:    -6.564315 ref:    -6.468191 err:     1.486099 %
+00MC_00007_B2_900MD15 lmp:    -6.600065 ref:    -6.460866 err:     2.154495 %
+00MC_00007_B2_900MD20 lmp:    -6.519319 ref:    -6.402317 err:     1.827498 %
+00MC_00007_B2_900MD25 lmp:    -6.465237 ref:    -6.352237 err:     1.778911 %
+00MC_00007_B2_900MD30 lmp:    -6.549439 ref:    -6.353119 err:     3.090132 %
+00MC_00007_B2_900MD35 lmp:    -6.472381 ref:    -6.345163 err:     2.004955 %
+00MC_00007_B2_900MD40 lmp:    -6.437644 ref:    -6.316749 err:     1.913881 %
+00MC_00007_B2_900MD45 lmp:    -6.484616 ref:    -6.338629 err:     2.303140 %
+00MC_00007_B2_900MD50 lmp:    -6.427862 ref:    -6.298760 err:     2.049646 %
+00MC_00007_B2_900MD55 lmp:    -6.447528 ref:    -6.326325 err:     1.915865 %
+00MC_00007_B2_900MD60 lmp:    -6.504617 ref:    -6.343929 err:     2.532942 %
+00MC_00007_B2_900MD65 lmp:    -6.466263 ref:    -6.333264 err:     2.100004 %
+00MC_00007_B2_900MD70 lmp:    -6.502333 ref:    -6.364954 err:     2.158368 %
+00MC_00007_B2_900MD75 lmp:    -6.566590 ref:    -6.403819 err:     2.541770 %
+00MC_00007_B2_900MD80 lmp:    -6.530749 ref:    -6.402406 err:     2.004614 %
+00MC_00007_B2_900MD85 lmp:    -6.581952 ref:    -6.416114 err:     2.584715 %
+00MC_00007_B2_900MD90 lmp:    -6.583091 ref:    -6.437148 err:     2.267200 %
+00MC_00007_B2_900MD95 lmp:    -6.545269 ref:    -6.410637 err:     2.100132 %
+00MC_00007_B2_900MD100 lmp:    -6.595757 ref:    -6.447763 err:     2.295274 %
+    NbMo_GSFE_0 lmp:    -6.810903 ref:    -6.926211 err:    -1.664804 %
+    NbMo_GSFE_1 lmp:    -6.793164 ref:    -6.875827 err:    -1.202218 %
+    NbMo_GSFE_2 lmp:    -6.751986 ref:    -6.822750 err:    -1.037171 %
+    NbMo_GSFE_3 lmp:    -6.742380 ref:    -6.828519 err:    -1.261451 %
+    NbMo_GSFE_4 lmp:    -6.756937 ref:    -6.874673 err:    -1.712598 %
+    NbMo_GSFE_5 lmp:    -6.775888 ref:    -6.920827 err:    -2.094234 %
+    NbMo_GSFE_6 lmp:    -6.756613 ref:    -6.872365 err:    -1.684312 %
+     NbW_GSFE_0 lmp:    -7.652320 ref:    -7.734730 err:    -1.065449 %
+     NbW_GSFE_1 lmp:    -7.619056 ref:    -7.682422 err:    -0.824823 %
+     NbW_GSFE_2 lmp:    -7.571319 ref:    -7.627037 err:    -0.730535 %
+     NbW_GSFE_3 lmp:    -7.569063 ref:    -7.635884 err:    -0.875089 %
+     NbW_GSFE_4 lmp:    -7.597310 ref:    -7.686268 err:    -1.157361 %
+     NbW_GSFE_5 lmp:    -7.634216 ref:    -7.735114 err:    -1.304425 %
+     NbW_GSFE_6 lmp:    -7.596574 ref:    -7.683191 err:    -1.127360 %
+    NbTa_GSFE_0 lmp:    -7.356837 ref:    -7.385122 err:    -0.382990 %
+    NbTa_GSFE_1 lmp:    -7.340050 ref:    -7.360122 err:    -0.272713 %
+    NbTa_GSFE_2 lmp:    -7.315535 ref:    -7.333198 err:    -0.240866 %
+    NbTa_GSFE_3 lmp:    -7.296746 ref:    -7.335506 err:    -0.528392 %
+    NbTa_GSFE_4 lmp:    -7.322021 ref:    -7.363968 err:    -0.569616 %
+    NbTa_GSFE_5 lmp:    -7.352362 ref:    -7.385506 err:    -0.448769 %
+    NbTa_GSFE_6 lmp:    -7.322399 ref:    -7.360891 err:    -0.522927 %
+     NbV_GSFE_0 lmp:    -5.935930 ref:    -5.766103 err:     2.945278 %
+     NbV_GSFE_1 lmp:    -5.920702 ref:    -5.728410 err:     3.356808 %
+     NbV_GSFE_2 lmp:    -5.891428 ref:    -5.709564 err:     3.185243 %
+     NbV_GSFE_3 lmp:    -5.892413 ref:    -5.713795 err:     3.126079 %
+     NbV_GSFE_4 lmp:    -5.904745 ref:    -5.724949 err:     3.140581 %
+     NbV_GSFE_5 lmp:    -5.919334 ref:    -5.762256 err:     2.725980 %
+     NbV_GSFE_6 lmp:    -5.904897 ref:    -5.723410 err:     3.170949 %
+     MoW_GSFE_0 lmp:    -7.298866 ref:    -7.331425 err:    -0.444097 %
+     MoW_GSFE_1 lmp:    -7.298866 ref:    -7.269117 err:     0.409253 %
+     MoW_GSFE_2 lmp:    -7.256519 ref:    -7.214886 err:     0.577049 %
+     MoW_GSFE_3 lmp:    -7.211166 ref:    -7.228732 err:    -0.243011 %
+     MoW_GSFE_4 lmp:    -7.247009 ref:    -7.278732 err:    -0.435833 %
+     MoW_GSFE_5 lmp:    -7.279095 ref:    -7.329501 err:    -0.687724 %
+     MoW_GSFE_6 lmp:    -7.297344 ref:    -7.267578 err:     0.409573 %
+    MoTa_GSFE_0 lmp:    -6.968214 ref:    -7.107201 err:    -1.955583 %
+    MoTa_GSFE_1 lmp:    -6.930995 ref:    -7.054124 err:    -1.745483 %
+    MoTa_GSFE_2 lmp:    -6.866180 ref:    -6.996432 err:    -1.861694 %
+    MoTa_GSFE_3 lmp:    -6.887951 ref:    -7.002586 err:    -1.637038 %
+    MoTa_GSFE_4 lmp:    -6.911712 ref:    -7.052970 err:    -2.002811 %
+    MoTa_GSFE_5 lmp:    -6.918465 ref:    -7.100662 err:    -2.565918 %
+    MoTa_GSFE_6 lmp:    -6.911318 ref:    -7.050278 err:    -1.970983 %
+     MoV_GSFE_0 lmp:    -5.731728 ref:    -5.799720 err:    -1.172331 %
+     MoV_GSFE_1 lmp:    -5.702059 ref:    -5.754720 err:    -0.915107 %
+     MoV_GSFE_2 lmp:    -5.659423 ref:    -5.707797 err:    -0.847512 %
+     MoV_GSFE_3 lmp:    -5.665169 ref:    -5.712413 err:    -0.827041 %
+     MoV_GSFE_4 lmp:    -5.679696 ref:    -5.755490 err:    -1.316892 %
+     MoV_GSFE_5 lmp:    -5.694128 ref:    -5.798567 err:    -1.801111 %
+     MoV_GSFE_6 lmp:    -5.678921 ref:    -5.752413 err:    -1.277574 %
+     WTa_GSFE_0 lmp:    -7.823700 ref:    -7.920335 err:    -1.220088 %
+     WTa_GSFE_1 lmp:    -7.788957 ref:    -7.863796 err:    -0.951693 %
+     WTa_GSFE_2 lmp:    -7.719609 ref:    -7.806489 err:    -1.112918 %
+     WTa_GSFE_3 lmp:    -7.730747 ref:    -7.817643 err:    -1.111532 %
+     WTa_GSFE_4 lmp:    -7.761224 ref:    -7.869181 err:    -1.371902 %
+     WTa_GSFE_5 lmp:    -7.783853 ref:    -7.919950 err:    -1.718409 %
+     WTa_GSFE_6 lmp:    -7.759833 ref:    -7.865335 err:    -1.341348 %
+      WV_GSFE_0 lmp:    -6.621774 ref:    -6.616316 err:     0.082491 %
+      WV_GSFE_1 lmp:    -6.601599 ref:    -6.568239 err:     0.507902 %
+      WV_GSFE_2 lmp:    -6.593054 ref:    -6.518239 err:     1.147784 %
+      WV_GSFE_3 lmp:    -6.627089 ref:    -6.525162 err:     1.562058 %
+      WV_GSFE_4 lmp:    -6.643863 ref:    -6.571701 err:     1.098081 %
+      WV_GSFE_5 lmp:    -6.641954 ref:    -6.617470 err:     0.369993 %
+      WV_GSFE_6 lmp:    -6.646577 ref:    -6.566316 err:     1.222308 %
+     TaV_GSFE_0 lmp:    -6.245368 ref:    -6.269785 err:    -0.389439 %
+     TaV_GSFE_1 lmp:    -6.224295 ref:    -6.252092 err:    -0.444606 %
+     TaV_GSFE_2 lmp:    -6.193307 ref:    -6.222477 err:    -0.468781 %
+     TaV_GSFE_3 lmp:    -6.188457 ref:    -6.212862 err:    -0.392805 %
+     TaV_GSFE_4 lmp:    -6.207978 ref:    -6.238246 err:    -0.485202 %
+     TaV_GSFE_5 lmp:    -6.230880 ref:    -6.265169 err:    -0.547293 %
+     TaV_GSFE_6 lmp:    -6.208043 ref:    -6.237092 err:    -0.465756 %
+     HEA_GSFE_0 lmp:    -5.868573 ref:    -6.001269 err:    -2.211132 %
+     HEA_GSFE_1 lmp:    -2.891568 ref:    -3.577658 err:   -19.177071 %
+pxx     HEA_GSFE_2 lmp:    11.451416 ref:    13.355676 err:   -14.258057 %
+pxx     HEA_GSFE_3 lmp:    12.998137 ref:    16.051509 err:   -19.022339 %
+     HEA_GSFE_4 lmp:    -3.602896 ref:    -4.399880 err:   -18.113770 %
+ HEA_100_GSFE_0 lmp:    -6.473926 ref:    -6.230716 err:     3.903400 %
+ HEA_100_GSFE_1 lmp:    -4.495642 ref:    -4.454050 err:     0.933804 %
+ HEA_100_GSFE_2 lmp:    -3.559638 ref:    -3.669050 err:    -2.982015 %
+ HEA_100_GSFE_3 lmp:    -6.252325 ref:    -6.013772 err:     3.966770 %
+ HEA_100_GSFE_4 lmp:    -5.487144 ref:    -5.345161 err:     2.656300 %
+ HEA_100_GSFE_5 lmp:    -3.033820 ref:    -3.253772 err:    -6.759897 %
+ HEA_100_GSFE_6 lmp:    -5.490781 ref:    -5.372383 err:     2.203826 %
+ HEA_100_GSFE_7 lmp:    -6.219359 ref:    -5.989328 err:     3.840689 %
+ HEA_100_GSFE_8 lmp:    -3.743980 ref:    -3.696828 err:     1.275485 %
+ HEA_100_GSFE_9 lmp:    -4.703685 ref:    -4.553772 err:     3.292064 %
+HEA_100_GSFE_10 lmp:    -6.473926 ref:    -6.230716 err:     3.903400 %
+ HEA_110_GSFE_0 lmp:    -3.952208 ref:    -3.937968 err:     0.361609 %
+ HEA_110_GSFE_3 lmp:    -3.679989 ref:    -3.825292 err:    -3.798483 %
+ HEA_110_GSFE_4 lmp:    -3.393944 ref:    -2.942193 err:    15.354212 %
+ HEA_110_GSFE_6 lmp:    -3.116990 ref:    -2.766137 err:    12.683874 %
+ HEA_110_GSFE_7 lmp:    -3.749660 ref:    -3.836559 err:    -2.265032 %
+HEA_110_GSFE_10 lmp:    -3.952208 ref:    -3.937968 err:     0.361609 %
+ HEA_111_GSFE_0 lmp:    -6.847364 ref:    -6.740885 err:     1.579603 %
+ HEA_111_GSFE_1 lmp:    -4.568460 ref:    -4.708292 err:    -2.969919 %
+ HEA_111_GSFE_2 lmp:    -2.237680 ref:    -2.439403 err:    -8.269348 %
+ HEA_111_GSFE_5 lmp:    -1.660123 ref:    -1.689033 err:    -1.711626 %
+ HEA_111_GSFE_8 lmp:    -2.527082 ref:    -2.490144 err:     1.483385 %
+ HEA_111_GSFE_9 lmp:    -4.588047 ref:    -4.677922 err:    -1.921250 %
+HEA_111_GSFE_10 lmp:    -6.847364 ref:    -6.740885 err:     1.579603 %
