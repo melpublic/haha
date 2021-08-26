@@ -1,0 +1,45 @@
+# MEAM C, Ta alloy potential system (This file should be combined 
+# developed by Prof. Shin-Pon Ju at NSYSU 2016/06/24
+#	modified by Cheng-Chia Yang at 2016/12/19
+# The MEAM form is from "https://openkim.org/f/all-posts", so you may refer to the instruction how to set lammps parameters
+# The following terms have No default settings (need to be provided for cross-element system): 
+#1. Ec(I,J) or delta(I,J)
+#2. alpha(I,J)
+#3. re(I,J)
+#4. lattce(I,J)
+
+#This part keeps the known parameters
+
+  erose_form = 2
+  rc = 4.5
+  ialloy=2 
+  augt1=0
+  delr=0.1
+  emb_lin_neg=0
+  bkgd_dyn=0
+  mixture_ref_t =0  
+ 
+  nn2(1,1)=1   
+  nn2(2,2)=1 
+  nn2(3,3)=1   
+  nn2(4,4)=1 
+  nn2(5,5)=1   
+  zbl(1,1)=1
+  zbl(2,2)=1  
+  zbl(3,3)=1
+  zbl(4,4)=1 
+  zbl(5,5)=1
+
+attrac(1,1) = 0.05
+repuls(1,1) = 0.05
+  
+Cmin(1,1,1) = 0.36
+Cmin(2,2,2) = 0.64
+Cmin(3,3,3) = 0.49
+Cmin(4,4,4) = 0.25
+Cmin(5,5,5) = 0.49
+Cmax(1,1,1) = 2.80
+Cmax(2,2,2) = 2.80
+Cmax(3,3,3) = 2.80
+Cmax(4,4,4) = 2.80
+Cmax(5,5,5) = 2.80

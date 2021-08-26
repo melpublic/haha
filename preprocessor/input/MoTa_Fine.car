@@ -1,0 +1,9 @@
+!BIOSYM archive 3
+PBC=ON
+Materials Studio Generated CAR File
+!DATE Sun Jan 12 23:20:44 2020
+PBC    3.2695    3.2695    3.2695   90.0000   90.0000   90.0000 (PM-3M)
+CS1      1.634750000    1.634750000    1.634750000 XXXX 1      xx      Mo  0.000
+CL1      0.000000000    0.000000000    0.000000000 XXXX 1      xx      Ta  0.000
+end
+end

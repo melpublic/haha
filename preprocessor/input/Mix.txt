@@ -1,0 +1,3 @@
+refdata MoTa_void10 -7.33299783338593
+refdata MoTa_void01 -7.17212962084203
+refdata MoTa_void11 -7.01934657399662

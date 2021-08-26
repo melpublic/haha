@@ -1,0 +1,291 @@
+LAMMPS (19 Sep 2019)
+OMP_NUM_THREADS environment is not set. Defaulting to 1 thread. (../comm.cpp:93)
+  using 1 OpenMP thread(s) per MPI task
+echo none
+OMP_NUM_THREADS environment is not set. Defaulting to 1 thread. (../comm.cpp:93)
+  using 1 OpenMP thread(s) per MPI task
+  triclinic box = (0 0 0) to (3.2695 3.2695 3.2695) with tilt (2.00193e-16 2.00193e-16 2.00193e-16)
+  1 by 1 by 1 MPI processor grid
+  reading atoms ...
+  2 atoms
+  read_data CPU = 0.000975132 secs
+replicate 3
+replicate 3
+replicate 3
+  triclinic box = (0 0 0) to (9.8085 9.8085 9.8085) with tilt (6.00578e-16 6.00578e-16 6.00578e-16)
+  1 by 1 by 1 MPI processor grid
+  54 atoms
+  replicate CPU = 0 secs
+Neighbor list info ...
+  update every 1 steps, delay 10 steps, check yes
+  max neighbors/atom: 2000, page size: 100000
+  master list distance cutoff = 0
+  ghost atom cutoff = 0
+  binsize = 9.8085, bins = 1 1 1
+  0 neighbor lists, perpetual/occasional/extra = 0 0 0
+WARNING: Communication cutoff is 0.0. No ghost atoms will be generated. Atoms may get lost. (../comm_brick.cpp:166)
+OMP_NUM_THREADS environment is not set. Defaulting to 1 thread. (../comm.cpp:93)
+  using 1 OpenMP thread(s) per MPI task
+  triclinic box = (0 0 0) to (6.5389 6.5389 6.5389) with tilt (4.00379e-16 4.00379e-16 4.00379e-16)
+  1 by 1 by 1 MPI processor grid
+  reading atoms ...
+  15 atoms
+  read_data CPU = 0 secs
+replicate 2
+replicate 2
+replicate 2
+  triclinic box = (0 0 0) to (13.0778 13.0778 13.0778) with tilt (8.00758e-16 8.00758e-16 8.00758e-16)
+  1 by 1 by 1 MPI processor grid
+  120 atoms
+  replicate CPU = 0 secs
+Neighbor list info ...
+  update every 1 steps, delay 10 steps, check yes
+  max neighbors/atom: 2000, page size: 100000
+  master list distance cutoff = 0
+  ghost atom cutoff = 0
+  binsize = 13.0778, bins = 1 1 1
+  0 neighbor lists, perpetual/occasional/extra = 0 0 0
+WARNING: Communication cutoff is 0.0. No ghost atoms will be generated. Atoms may get lost. (../comm_brick.cpp:166)
+OMP_NUM_THREADS environment is not set. Defaulting to 1 thread. (../comm.cpp:93)
+  using 1 OpenMP thread(s) per MPI task
+  triclinic box = (0 0 0) to (6.5389 6.5389 6.5389) with tilt (4.00379e-16 4.00379e-16 4.00379e-16)
+  1 by 1 by 1 MPI processor grid
+  reading atoms ...
+  15 atoms
+  read_data CPU = 0 secs
+replicate 2
+replicate 2
+replicate 2
+  triclinic box = (0 0 0) to (13.0778 13.0778 13.0778) with tilt (8.00758e-16 8.00758e-16 8.00758e-16)
+  1 by 1 by 1 MPI processor grid
+  120 atoms
+  replicate CPU = 0 secs
+Neighbor list info ...
+  update every 1 steps, delay 10 steps, check yes
+  max neighbors/atom: 2000, page size: 100000
+  master list distance cutoff = 0
+  ghost atom cutoff = 0
+  binsize = 13.0778, bins = 1 1 1
+  0 neighbor lists, perpetual/occasional/extra = 0 0 0
+WARNING: Communication cutoff is 0.0. No ghost atoms will be generated. Atoms may get lost. (../comm_brick.cpp:166)
+OMP_NUM_THREADS environment is not set. Defaulting to 1 thread. (../comm.cpp:93)
+  using 1 OpenMP thread(s) per MPI task
+  triclinic box = (0 0 0) to (6.5389 6.5389 6.5389) with tilt (4.00379e-16 4.00379e-16 4.00379e-16)
+  1 by 1 by 1 MPI processor grid
+  reading atoms ...
+  14 atoms
+  read_data CPU = 0 secs
+replicate 2
+replicate 2
+replicate 2
+  triclinic box = (0 0 0) to (13.0778 13.0778 13.0778) with tilt (8.00758e-16 8.00758e-16 8.00758e-16)
+  1 by 1 by 1 MPI processor grid
+  112 atoms
+  replicate CPU = 0 secs
+Neighbor list info ...
+  update every 1 steps, delay 10 steps, check yes
+  max neighbors/atom: 2000, page size: 100000
+  master list distance cutoff = 0
+  ghost atom cutoff = 0
+  binsize = 13.0778, bins = 1 1 1
+  0 neighbor lists, perpetual/occasional/extra = 0 0 0
+WARNING: Communication cutoff is 0.0. No ghost atoms will be generated. Atoms may get lost. (../comm_brick.cpp:166)
+OMP_NUM_THREADS environment is not set. Defaulting to 1 thread. (../comm.cpp:93)
+  using 1 OpenMP thread(s) per MPI task
+  triclinic box = (0 0 0) to (3.0865 3.0865 3.0865) with tilt (1.88987e-16 1.88987e-16 1.88987e-16)
+  1 by 1 by 1 MPI processor grid
+  reading atoms ...
+  2 atoms
+  read_data CPU = 0 secs
+replicate 3
+replicate 3
+replicate 3
+  triclinic box = (0 0 0) to (9.2595 9.2595 9.2595) with tilt (5.66962e-16 5.66962e-16 5.66962e-16)
+  1 by 1 by 1 MPI processor grid
+  54 atoms
+  replicate CPU = 0 secs
+Neighbor list info ...
+  update every 1 steps, delay 10 steps, check yes
+  max neighbors/atom: 2000, page size: 100000
+  master list distance cutoff = 0
+  ghost atom cutoff = 0
+  binsize = 9.2595, bins = 1 1 1
+  0 neighbor lists, perpetual/occasional/extra = 0 0 0
+WARNING: Communication cutoff is 0.0. No ghost atoms will be generated. Atoms may get lost. (../comm_brick.cpp:166)
+OMP_NUM_THREADS environment is not set. Defaulting to 1 thread. (../comm.cpp:93)
+  using 1 OpenMP thread(s) per MPI task
+  triclinic box = (0 0 0) to (3.1793 3.1793 3.1793) with tilt (1.9467e-16 1.9467e-16 1.9467e-16)
+  1 by 1 by 1 MPI processor grid
+  reading atoms ...
+  2 atoms
+  read_data CPU = 0.00099802 secs
+replicate 3
+replicate 3
+replicate 3
+  triclinic box = (0 0 0) to (9.5379 9.5379 9.5379) with tilt (5.84009e-16 5.84009e-16 5.84009e-16)
+  1 by 1 by 1 MPI processor grid
+  54 atoms
+  replicate CPU = 0 secs
+Neighbor list info ...
+  update every 1 steps, delay 10 steps, check yes
+  max neighbors/atom: 2000, page size: 100000
+  master list distance cutoff = 0
+  ghost atom cutoff = 0
+  binsize = 9.5379, bins = 1 1 1
+  0 neighbor lists, perpetual/occasional/extra = 0 0 0
+WARNING: Communication cutoff is 0.0. No ghost atoms will be generated. Atoms may get lost. (../comm_brick.cpp:166)
+OMP_NUM_THREADS environment is not set. Defaulting to 1 thread. (../comm.cpp:93)
+  using 1 OpenMP thread(s) per MPI task
+  triclinic box = (0 0 0) to (3.2402 3.2402 3.2402) with tilt (1.98398e-16 1.98398e-16 1.98398e-16)
+  1 by 1 by 1 MPI processor grid
+  reading atoms ...
+  2 atoms
+  read_data CPU = 0.000999928 secs
+replicate 3
+replicate 3
+replicate 3
+  triclinic box = (0 0 0) to (9.7206 9.7206 9.7206) with tilt (5.95195e-16 5.95195e-16 5.95195e-16)
+  1 by 1 by 1 MPI processor grid
+  54 atoms
+  replicate CPU = 0 secs
+Neighbor list info ...
+  update every 1 steps, delay 10 steps, check yes
+  max neighbors/atom: 2000, page size: 100000
+  master list distance cutoff = 0
+  ghost atom cutoff = 0
+  binsize = 9.7206, bins = 1 1 1
+  0 neighbor lists, perpetual/occasional/extra = 0 0 0
+WARNING: Communication cutoff is 0.0. No ghost atoms will be generated. Atoms may get lost. (../comm_brick.cpp:166)
+OMP_NUM_THREADS environment is not set. Defaulting to 1 thread. (../comm.cpp:93)
+  using 1 OpenMP thread(s) per MPI task
+  triclinic box = (0 0 0) to (3.354 3.354 3.354) with tilt (2.05366e-16 2.05366e-16 2.05366e-16)
+  1 by 1 by 1 MPI processor grid
+  reading atoms ...
+  2 atoms
+  read_data CPU = 0 secs
+replicate 3
+replicate 3
+replicate 3
+  triclinic box = (0 0 0) to (10.062 10.062 10.062) with tilt (6.16099e-16 6.16099e-16 6.16099e-16)
+  1 by 1 by 1 MPI processor grid
+  54 atoms
+  replicate CPU = 0 secs
+Neighbor list info ...
+  update every 1 steps, delay 10 steps, check yes
+  max neighbors/atom: 2000, page size: 100000
+  master list distance cutoff = 0
+  ghost atom cutoff = 0
+  binsize = 10.062, bins = 1 1 1
+  0 neighbor lists, perpetual/occasional/extra = 0 0 0
+WARNING: Communication cutoff is 0.0. No ghost atoms will be generated. Atoms may get lost. (../comm_brick.cpp:166)
+OMP_NUM_THREADS environment is not set. Defaulting to 1 thread. (../comm.cpp:93)
+  using 1 OpenMP thread(s) per MPI task
+  triclinic box = (0 0 0) to (3.1887 3.1887 3.1887) with tilt (1.95245e-16 1.95245e-16 1.95245e-16)
+  1 by 1 by 1 MPI processor grid
+  reading atoms ...
+  2 atoms
+  read_data CPU = 0 secs
+replicate 3
+replicate 3
+replicate 3
+  triclinic box = (0 0 0) to (9.5661 9.5661 9.5661) with tilt (5.85735e-16 5.85735e-16 5.85735e-16)
+  1 by 1 by 1 MPI processor grid
+  54 atoms
+  replicate CPU = 0 secs
+Neighbor list info ...
+  update every 1 steps, delay 10 steps, check yes
+  max neighbors/atom: 2000, page size: 100000
+  master list distance cutoff = 0
+  ghost atom cutoff = 0
+  binsize = 9.5661, bins = 1 1 1
+  0 neighbor lists, perpetual/occasional/extra = 0 0 0
+WARNING: Communication cutoff is 0.0. No ghost atoms will be generated. Atoms may get lost. (../comm_brick.cpp:166)
+OMP_NUM_THREADS environment is not set. Defaulting to 1 thread. (../comm.cpp:93)
+  using 1 OpenMP thread(s) per MPI task
+  triclinic box = (0 0 0) to (3.2514 3.2514 3.2514) with tilt (1.99084e-16 1.99084e-16 1.99084e-16)
+  1 by 1 by 1 MPI processor grid
+  reading atoms ...
+  2 atoms
+  read_data CPU = 0 secs
+replicate 3
+replicate 3
+replicate 3
+  triclinic box = (0 0 0) to (9.7542 9.7542 9.7542) with tilt (5.97253e-16 5.97253e-16 5.97253e-16)
+  1 by 1 by 1 MPI processor grid
+  54 atoms
+  replicate CPU = 0 secs
+Neighbor list info ...
+  update every 1 steps, delay 10 steps, check yes
+  max neighbors/atom: 2000, page size: 100000
+  master list distance cutoff = 0
+  ghost atom cutoff = 0
+  binsize = 9.7542, bins = 1 1 1
+  0 neighbor lists, perpetual/occasional/extra = 0 0 0
+WARNING: Communication cutoff is 0.0. No ghost atoms will be generated. Atoms may get lost. (../comm_brick.cpp:166)
+OMP_NUM_THREADS environment is not set. Defaulting to 1 thread. (../comm.cpp:93)
+  using 1 OpenMP thread(s) per MPI task
+  triclinic box = (0 0 0) to (3.212 3.212 3.212) with tilt (1.96672e-16 1.96672e-16 1.96672e-16)
+  1 by 1 by 1 MPI processor grid
+  reading atoms ...
+  2 atoms
+  read_data CPU = 0 secs
+replicate 3
+replicate 3
+replicate 3
+  triclinic box = (0 0 0) to (9.636 9.636 9.636) with tilt (5.90015e-16 5.90015e-16 5.90015e-16)
+  1 by 1 by 1 MPI processor grid
+  54 atoms
+  replicate CPU = 0 secs
+Neighbor list info ...
+  update every 1 steps, delay 10 steps, check yes
+  max neighbors/atom: 2000, page size: 100000
+  master list distance cutoff = 0
+  ghost atom cutoff = 0
+  binsize = 9.636, bins = 1 1 1
+  0 neighbor lists, perpetual/occasional/extra = 0 0 0
+WARNING: Communication cutoff is 0.0. No ghost atoms will be generated. Atoms may get lost. (../comm_brick.cpp:166)
+OMP_NUM_THREADS environment is not set. Defaulting to 1 thread. (../comm.cpp:93)
+  using 1 OpenMP thread(s) per MPI task
+  triclinic box = (0 0 0) to (3.278 3.278 3.278) with tilt (2.00713e-16 2.00713e-16 2.00713e-16)
+  1 by 1 by 1 MPI processor grid
+  reading atoms ...
+  2 atoms
+  read_data CPU = 0 secs
+replicate 3
+replicate 3
+replicate 3
+  triclinic box = (0 0 0) to (9.834 9.834 9.834) with tilt (6.02139e-16 6.02139e-16 6.02139e-16)
+  1 by 1 by 1 MPI processor grid
+  54 atoms
+  replicate CPU = 0 secs
+Neighbor list info ...
+  update every 1 steps, delay 10 steps, check yes
+  max neighbors/atom: 2000, page size: 100000
+  master list distance cutoff = 0
+  ghost atom cutoff = 0
+  binsize = 9.834, bins = 1 1 1
+  0 neighbor lists, perpetual/occasional/extra = 0 0 0
+WARNING: Communication cutoff is 0.0. No ghost atoms will be generated. Atoms may get lost. (../comm_brick.cpp:166)
+OMP_NUM_THREADS environment is not set. Defaulting to 1 thread. (../comm.cpp:93)
+  using 1 OpenMP thread(s) per MPI task
+  triclinic box = (0 0 0) to (3.0982 3.0982 3.0982) with tilt (1.89704e-16 1.89704e-16 1.89704e-16)
+  1 by 1 by 1 MPI processor grid
+  reading atoms ...
+  2 atoms
+  read_data CPU = 0 secs
+replicate 3
+replicate 3
+replicate 3
+  triclinic box = (0 0 0) to (9.2946 9.2946 9.2946) with tilt (5.69111e-16 5.69111e-16 5.69111e-16)
+  1 by 1 by 1 MPI processor grid
+  54 atoms
+  replicate CPU = 0 secs
+Neighbor list info ...
+  update every 1 steps, delay 10 steps, check yes
+  max neighbors/atom: 2000, page size: 100000
+  master list distance cutoff = 0
+  ghost atom cutoff = 0
+  binsize = 9.2946, bins = 1 1 1
+  0 neighbor lists, perpetual/occasional/extra = 0 0 0
+WARNING: Communication cutoff is 0.0. No ghost atoms will be generated. Atoms may get lost. (../comm_brick.cpp:166)
+Total wall time: 0:00:00

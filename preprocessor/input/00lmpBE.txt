@@ -1,0 +1,7 @@
+#lammps binding energy
+Nb -7.47
+Mo -6.81
+W  -8.66
+Ta -8.09
+V  -5.30
+ 
