@@ -1,0 +1,190 @@
+
+#####***The following data is used to be fitted by randomly generating values within ranges***######
+
+rho0(1)= 1
+
+##For NbMo, Lammps types: 1,2
+
+attrac(1,2)= %12.3f
+repuls(1,2)= %12.3f
+Cmin(1,2,1)= %12.3f
+Cmax(1,2,1)= %12.3f
+Cmin(1,2,2)= %12.3f
+Cmax(1,2,2)= %12.3f
+Cmin(1,2,3)= %12.3f
+Cmax(1,2,3)= %12.3f
+Cmin(1,2,4)= %12.3f
+Cmax(1,2,4)= %12.3f
+Cmin(1,2,5)= %12.3f
+Cmax(1,2,5)= %12.3f
+##For NbW, Lammps types: 1,3
+
+attrac(1,3)= %12.3f
+repuls(1,3)= %12.3f
+Cmin(1,3,1)= %12.3f
+Cmax(1,3,1)= %12.3f
+Cmin(1,3,2)= %12.3f
+Cmax(1,3,2)= %12.3f
+Cmin(1,3,3)= %12.3f
+Cmax(1,3,3)= %12.3f
+Cmin(1,3,4)= %12.3f
+Cmax(1,3,4)= %12.3f
+Cmin(1,3,5)= %12.3f
+Cmax(1,3,5)= %12.3f
+##For NbTa, Lammps types: 1,4
+
+attrac(1,4)= %12.3f
+repuls(1,4)= %12.3f
+Cmin(1,4,1)= %12.3f
+Cmax(1,4,1)= %12.3f
+Cmin(1,4,2)= %12.3f
+Cmax(1,4,2)= %12.3f
+Cmin(1,4,3)= %12.3f
+Cmax(1,4,3)= %12.3f
+Cmin(1,4,4)= %12.3f
+Cmax(1,4,4)= %12.3f
+Cmin(1,4,5)= %12.3f
+Cmax(1,4,5)= %12.3f
+##For NbV, Lammps types: 1,5
+
+attrac(1,5)= %12.3f
+repuls(1,5)= %12.3f
+Cmin(1,5,1)= %12.3f
+Cmax(1,5,1)= %12.3f
+Cmin(1,5,2)= %12.3f
+Cmax(1,5,2)= %12.3f
+Cmin(1,5,3)= %12.3f
+Cmax(1,5,3)= %12.3f
+Cmin(1,5,4)= %12.3f
+Cmax(1,5,4)= %12.3f
+Cmin(1,5,5)= %12.3f
+Cmax(1,5,5)= %12.3f
+Cmin(1,1,2)= %12.3f
+Cmax(1,1,2)= %12.3f
+Cmin(1,1,3)= %12.3f
+Cmax(1,1,3)= %12.3f
+Cmin(1,1,4)= %12.3f
+Cmax(1,1,4)= %12.3f
+Cmin(1,1,5)= %12.3f
+Cmax(1,1,5)= %12.3f
+##For MoW, Lammps types: 2,3
+
+attrac(2,3)= %12.3f
+repuls(2,3)= %12.3f
+Cmin(2,3,1)= %12.3f
+Cmax(2,3,1)= %12.3f
+Cmin(2,3,2)= %12.3f
+Cmax(2,3,2)= %12.3f
+Cmin(2,3,3)= %12.3f
+Cmax(2,3,3)= %12.3f
+Cmin(2,3,4)= %12.3f
+Cmax(2,3,4)= %12.3f
+Cmin(2,3,5)= %12.3f
+Cmax(2,3,5)= %12.3f
+##For MoTa, Lammps types: 2,4
+
+attrac(2,4)= %12.3f
+repuls(2,4)= %12.3f
+Cmin(2,4,1)= %12.3f
+Cmax(2,4,1)= %12.3f
+Cmin(2,4,2)= %12.3f
+Cmax(2,4,2)= %12.3f
+Cmin(2,4,3)= %12.3f
+Cmax(2,4,3)= %12.3f
+Cmin(2,4,4)= %12.3f
+Cmax(2,4,4)= %12.3f
+Cmin(2,4,5)= %12.3f
+Cmax(2,4,5)= %12.3f
+##For MoV, Lammps types: 2,5
+
+attrac(2,5)= %12.3f
+repuls(2,5)= %12.3f
+Cmin(2,5,1)= %12.3f
+Cmax(2,5,1)= %12.3f
+Cmin(2,5,2)= %12.3f
+Cmax(2,5,2)= %12.3f
+Cmin(2,5,3)= %12.3f
+Cmax(2,5,3)= %12.3f
+Cmin(2,5,4)= %12.3f
+Cmax(2,5,4)= %12.3f
+Cmin(2,5,5)= %12.3f
+Cmax(2,5,5)= %12.3f
+Cmin(2,2,1)= %12.3f
+Cmax(2,2,1)= %12.3f
+Cmin(2,2,3)= %12.3f
+Cmax(2,2,3)= %12.3f
+Cmin(2,2,4)= %12.3f
+Cmax(2,2,4)= %12.3f
+Cmin(2,2,5)= %12.3f
+Cmax(2,2,5)= %12.3f
+rho0(2)= %12.3f
+##For WTa, Lammps types: 3,4
+
+attrac(3,4)= %12.3f
+repuls(3,4)= %12.3f
+Cmin(3,4,1)= %12.3f
+Cmax(3,4,1)= %12.3f
+Cmin(3,4,2)= %12.3f
+Cmax(3,4,2)= %12.3f
+Cmin(3,4,3)= %12.3f
+Cmax(3,4,3)= %12.3f
+Cmin(3,4,4)= %12.3f
+Cmax(3,4,4)= %12.3f
+Cmin(3,4,5)= %12.3f
+Cmax(3,4,5)= %12.3f
+##For WV, Lammps types: 3,5
+
+attrac(3,5)= %12.3f
+repuls(3,5)= %12.3f
+Cmin(3,5,1)= %12.3f
+Cmax(3,5,1)= %12.3f
+Cmin(3,5,2)= %12.3f
+Cmax(3,5,2)= %12.3f
+Cmin(3,5,3)= %12.3f
+Cmax(3,5,3)= %12.3f
+Cmin(3,5,4)= %12.3f
+Cmax(3,5,4)= %12.3f
+Cmin(3,5,5)= %12.3f
+Cmax(3,5,5)= %12.3f
+Cmin(3,3,1)= %12.3f
+Cmax(3,3,1)= %12.3f
+Cmin(3,3,2)= %12.3f
+Cmax(3,3,2)= %12.3f
+Cmin(3,3,4)= %12.3f
+Cmax(3,3,4)= %12.3f
+Cmin(3,3,5)= %12.3f
+Cmax(3,3,5)= %12.3f
+rho0(3)= %12.3f
+##For TaV, Lammps types: 4,5
+
+attrac(4,5)= %12.3f
+repuls(4,5)= %12.3f
+Cmin(4,5,1)= %12.3f
+Cmax(4,5,1)= %12.3f
+Cmin(4,5,2)= %12.3f
+Cmax(4,5,2)= %12.3f
+Cmin(4,5,3)= %12.3f
+Cmax(4,5,3)= %12.3f
+Cmin(4,5,4)= %12.3f
+Cmax(4,5,4)= %12.3f
+Cmin(4,5,5)= %12.3f
+Cmax(4,5,5)= %12.3f
+Cmin(4,4,1)= %12.3f
+Cmax(4,4,1)= %12.3f
+Cmin(4,4,2)= %12.3f
+Cmax(4,4,2)= %12.3f
+Cmin(4,4,3)= %12.3f
+Cmax(4,4,3)= %12.3f
+Cmin(4,4,5)= %12.3f
+Cmax(4,4,5)= %12.3f
+rho0(4)= %12.3f
+Cmin(5,5,1)= %12.3f
+Cmax(5,5,1)= %12.3f
+Cmin(5,5,2)= %12.3f
+Cmax(5,5,2)= %12.3f
+Cmin(5,5,3)= %12.3f
+Cmax(5,5,3)= %12.3f
+Cmin(5,5,4)= %12.3f
+Cmax(5,5,4)= %12.3f
+rho0(5)= %12.3f
+

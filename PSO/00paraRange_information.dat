@@ -1,0 +1,196 @@
+ParaID LowerBound UpperBound ParaName 
+
+0: 7.21307324020589 7.35879189152319 Ec(1,2) -> Ec(Nb,Mo)
+1: 2.77805819323082 2.83418058097286 re(1,2) -> re(Nb,Mo)
+2: 4.97057668710074 5.49379528574292 alpha(1,2) -> alpha(Nb,Mo)
+3: 8.03458921414427 8.19690414776335 Ec(1,3) -> Ec(Nb,W)
+4: 2.78762255821001 2.84393816544657 re(1,3) -> re(Nb,W)
+5: 4.86839555319397 5.38085824300386 alpha(1,3) -> alpha(Nb,W)
+6: 7.64900070724567 7.80352597405871 Ec(1,4) -> Ec(Nb,Ta)
+7: 2.87559509941311 2.93368792970429 re(1,4) -> re(Nb,Ta)
+8: 4.74953966924519 5.24949121337626 alpha(1,4) -> alpha(Nb,Ta)
+9: 6.27752569756403 6.40434439852491 Ec(1,5) -> Ec(Nb,V)
+10: 2.73383864655957 2.78906771012643 re(1,5) -> re(Nb,V)
+11: 4.53823932224807 5.01594872458998 alpha(1,5) -> alpha(Nb,V)
+12: 7.69285287684869 7.84826404607795 Ec(2,3) -> Ec(Mo,W)
+13: 2.72582468457528 2.78089184992024 re(2,3) -> re(Mo,W)
+14: 5.27548370647003 5.8307977808353 alpha(2,3) -> alpha(Mo,W)
+15: 7.43470307963715 7.58489910144801 Ec(2,4) -> Ec(Mo,Ta)
+16: 2.80312646241068 2.85975527983312 re(2,4) -> re(Mo,Ta)
+17: 5.2453325682589 5.79747283860195 alpha(2,4) -> alpha(Mo,Ta)
+18: 6.11421076221836 6.2377301715561 Ec(2,5) -> Ec(Mo,V)
+19: 2.64623719218858 2.69969652940452 re(2,5) -> re(Mo,V)
+20: 5.05775773481137 5.59015328584415 alpha(2,5) -> alpha(Mo,V)
+21: 8.26061959218618 8.42750079606873 Ec(3,4) -> Ec(W,Ta)
+22: 2.81040404855772 2.86717988792252 re(3,4) -> re(W,Ta)
+23: 5.0457464507077 5.57687765604535 alpha(3,4) -> alpha(W,Ta)
+24: 6.97729816172812 7.11825368014687 Ec(3,5) -> Ec(W,V)
+25: 2.65630874932685 2.70997155234355 re(3,5) -> re(W,V)
+26: 4.96881525693887 5.49184844187981 alpha(3,5) -> alpha(W,V)
+27: 6.53342377514329 6.66541213423709 Ec(4,5) -> Ec(Ta,V)
+28: 2.75382138031722 2.80945413547514 re(4,5) -> re(Ta,V)
+29: 4.88196777074631 5.39585911503539 alpha(4,5) -> alpha(Ta,V)
+30: -0.1 0.1 attrac(1,2) -> attrac(Nb,Mo)
+31: -0.1 0.1 repuls(1,2) -> repuls(Nb,Mo)
+32: 0.01 2 Cmin(1,2,1) -> Cmin(Nb,Mo,Nb)
+33: 1 2.8 Cmax(1,2,1) -> Cmax(Nb,Mo,Nb)
+34: 0.01 2 Cmin(1,2,2) -> Cmin(Nb,Mo,Mo)
+35: 1 2.8 Cmax(1,2,2) -> Cmax(Nb,Mo,Mo)
+36: 0.01 2 Cmin(1,2,3) -> Cmin(Nb,Mo,W)
+37: 1 2.8 Cmax(1,2,3) -> Cmax(Nb,Mo,W)
+38: 0.01 2 Cmin(1,2,4) -> Cmin(Nb,Mo,Ta)
+39: 1 2.8 Cmax(1,2,4) -> Cmax(Nb,Mo,Ta)
+40: 0.01 2 Cmin(1,2,5) -> Cmin(Nb,Mo,V)
+41: 1 2.8 Cmax(1,2,5) -> Cmax(Nb,Mo,V)
+42: -0.1 0.1 attrac(1,3) -> attrac(Nb,W)
+43: -0.1 0.1 repuls(1,3) -> repuls(Nb,W)
+44: 0.01 2 Cmin(1,3,1) -> Cmin(Nb,W,Nb)
+45: 1 2.8 Cmax(1,3,1) -> Cmax(Nb,W,Nb)
+46: 0.01 2 Cmin(1,3,2) -> Cmin(Nb,W,Mo)
+47: 1 2.8 Cmax(1,3,2) -> Cmax(Nb,W,Mo)
+48: 0.01 2 Cmin(1,3,3) -> Cmin(Nb,W,W)
+49: 1 2.8 Cmax(1,3,3) -> Cmax(Nb,W,W)
+50: 0.01 2 Cmin(1,3,4) -> Cmin(Nb,W,Ta)
+51: 1 2.8 Cmax(1,3,4) -> Cmax(Nb,W,Ta)
+52: 0.01 2 Cmin(1,3,5) -> Cmin(Nb,W,V)
+53: 1 2.8 Cmax(1,3,5) -> Cmax(Nb,W,V)
+54: -0.1 0.1 attrac(1,4) -> attrac(Nb,Ta)
+55: -0.1 0.1 repuls(1,4) -> repuls(Nb,Ta)
+56: 0.01 2 Cmin(1,4,1) -> Cmin(Nb,Ta,Nb)
+57: 1 2.8 Cmax(1,4,1) -> Cmax(Nb,Ta,Nb)
+58: 0.01 2 Cmin(1,4,2) -> Cmin(Nb,Ta,Mo)
+59: 1 2.8 Cmax(1,4,2) -> Cmax(Nb,Ta,Mo)
+60: 0.01 2 Cmin(1,4,3) -> Cmin(Nb,Ta,W)
+61: 1 2.8 Cmax(1,4,3) -> Cmax(Nb,Ta,W)
+62: 0.01 2 Cmin(1,4,4) -> Cmin(Nb,Ta,Ta)
+63: 1 2.8 Cmax(1,4,4) -> Cmax(Nb,Ta,Ta)
+64: 0.01 2 Cmin(1,4,5) -> Cmin(Nb,Ta,V)
+65: 1 2.8 Cmax(1,4,5) -> Cmax(Nb,Ta,V)
+66: -0.1 0.1 attrac(1,5) -> attrac(Nb,V)
+67: -0.1 0.1 repuls(1,5) -> repuls(Nb,V)
+68: 0.01 2 Cmin(1,5,1) -> Cmin(Nb,V,Nb)
+69: 1 2.8 Cmax(1,5,1) -> Cmax(Nb,V,Nb)
+70: 0.01 2 Cmin(1,5,2) -> Cmin(Nb,V,Mo)
+71: 1 2.8 Cmax(1,5,2) -> Cmax(Nb,V,Mo)
+72: 0.01 2 Cmin(1,5,3) -> Cmin(Nb,V,W)
+73: 1 2.8 Cmax(1,5,3) -> Cmax(Nb,V,W)
+74: 0.01 2 Cmin(1,5,4) -> Cmin(Nb,V,Ta)
+75: 1 2.8 Cmax(1,5,4) -> Cmax(Nb,V,Ta)
+76: 0.01 2 Cmin(1,5,5) -> Cmin(Nb,V,V)
+77: 1 2.8 Cmax(1,5,5) -> Cmax(Nb,V,V)
+78: 0.01 2 Cmin(1,1,2) -> Cmin(Nb,Nb,Mo)
+79: 1 2.8 Cmax(1,1,2) -> Cmax(Nb,Nb,Mo)
+80: 0.01 2 Cmin(1,1,3) -> Cmin(Nb,Nb,W)
+81: 1 2.8 Cmax(1,1,3) -> Cmax(Nb,Nb,W)
+82: 0.01 2 Cmin(1,1,4) -> Cmin(Nb,Nb,Ta)
+83: 1 2.8 Cmax(1,1,4) -> Cmax(Nb,Nb,Ta)
+84: 0.01 2 Cmin(1,1,5) -> Cmin(Nb,Nb,V)
+85: 1 2.8 Cmax(1,1,5) -> Cmax(Nb,Nb,V)
+86: -0.1 0.1 attrac(2,3) -> attrac(Mo,W)
+87: -0.1 0.1 repuls(2,3) -> repuls(Mo,W)
+88: 0.01 2 Cmin(2,3,1) -> Cmin(Mo,W,Nb)
+89: 1 2.8 Cmax(2,3,1) -> Cmax(Mo,W,Nb)
+90: 0.01 2 Cmin(2,3,2) -> Cmin(Mo,W,Mo)
+91: 1 2.8 Cmax(2,3,2) -> Cmax(Mo,W,Mo)
+92: 0.01 2 Cmin(2,3,3) -> Cmin(Mo,W,W)
+93: 1 2.8 Cmax(2,3,3) -> Cmax(Mo,W,W)
+94: 0.01 2 Cmin(2,3,4) -> Cmin(Mo,W,Ta)
+95: 1 2.8 Cmax(2,3,4) -> Cmax(Mo,W,Ta)
+96: 0.01 2 Cmin(2,3,5) -> Cmin(Mo,W,V)
+97: 1 2.8 Cmax(2,3,5) -> Cmax(Mo,W,V)
+98: -0.1 0.1 attrac(2,4) -> attrac(Mo,Ta)
+99: -0.1 0.1 repuls(2,4) -> repuls(Mo,Ta)
+100: 0.01 2 Cmin(2,4,1) -> Cmin(Mo,Ta,Nb)
+101: 1 2.8 Cmax(2,4,1) -> Cmax(Mo,Ta,Nb)
+102: 0.01 2 Cmin(2,4,2) -> Cmin(Mo,Ta,Mo)
+103: 1 2.8 Cmax(2,4,2) -> Cmax(Mo,Ta,Mo)
+104: 0.01 2 Cmin(2,4,3) -> Cmin(Mo,Ta,W)
+105: 1 2.8 Cmax(2,4,3) -> Cmax(Mo,Ta,W)
+106: 0.01 2 Cmin(2,4,4) -> Cmin(Mo,Ta,Ta)
+107: 1 2.8 Cmax(2,4,4) -> Cmax(Mo,Ta,Ta)
+108: 0.01 2 Cmin(2,4,5) -> Cmin(Mo,Ta,V)
+109: 1 2.8 Cmax(2,4,5) -> Cmax(Mo,Ta,V)
+110: -0.1 0.1 attrac(2,5) -> attrac(Mo,V)
+111: -0.1 0.1 repuls(2,5) -> repuls(Mo,V)
+112: 0.01 2 Cmin(2,5,1) -> Cmin(Mo,V,Nb)
+113: 1 2.8 Cmax(2,5,1) -> Cmax(Mo,V,Nb)
+114: 0.01 2 Cmin(2,5,2) -> Cmin(Mo,V,Mo)
+115: 1 2.8 Cmax(2,5,2) -> Cmax(Mo,V,Mo)
+116: 0.01 2 Cmin(2,5,3) -> Cmin(Mo,V,W)
+117: 1 2.8 Cmax(2,5,3) -> Cmax(Mo,V,W)
+118: 0.01 2 Cmin(2,5,4) -> Cmin(Mo,V,Ta)
+119: 1 2.8 Cmax(2,5,4) -> Cmax(Mo,V,Ta)
+120: 0.01 2 Cmin(2,5,5) -> Cmin(Mo,V,V)
+121: 1 2.8 Cmax(2,5,5) -> Cmax(Mo,V,V)
+122: 0.01 2 Cmin(2,2,1) -> Cmin(Mo,Mo,Nb)
+123: 1 2.8 Cmax(2,2,1) -> Cmax(Mo,Mo,Nb)
+124: 0.01 2 Cmin(2,2,3) -> Cmin(Mo,Mo,W)
+125: 1 2.8 Cmax(2,2,3) -> Cmax(Mo,Mo,W)
+126: 0.01 2 Cmin(2,2,4) -> Cmin(Mo,Mo,Ta)
+127: 1 2.8 Cmax(2,2,4) -> Cmax(Mo,Mo,Ta)
+128: 0.01 2 Cmin(2,2,5) -> Cmin(Mo,Mo,V)
+129: 1 2.8 Cmax(2,2,5) -> Cmax(Mo,Mo,V)
+130: 0.8 1.2 rho0(2) -> rho0(Mo)
+131: -0.1 0.1 attrac(3,4) -> attrac(W,Ta)
+132: -0.1 0.1 repuls(3,4) -> repuls(W,Ta)
+133: 0.01 2 Cmin(3,4,1) -> Cmin(W,Ta,Nb)
+134: 1 2.8 Cmax(3,4,1) -> Cmax(W,Ta,Nb)
+135: 0.01 2 Cmin(3,4,2) -> Cmin(W,Ta,Mo)
+136: 1 2.8 Cmax(3,4,2) -> Cmax(W,Ta,Mo)
+137: 0.01 2 Cmin(3,4,3) -> Cmin(W,Ta,W)
+138: 1 2.8 Cmax(3,4,3) -> Cmax(W,Ta,W)
+139: 0.01 2 Cmin(3,4,4) -> Cmin(W,Ta,Ta)
+140: 1 2.8 Cmax(3,4,4) -> Cmax(W,Ta,Ta)
+141: 0.01 2 Cmin(3,4,5) -> Cmin(W,Ta,V)
+142: 1 2.8 Cmax(3,4,5) -> Cmax(W,Ta,V)
+143: -0.1 0.1 attrac(3,5) -> attrac(W,V)
+144: -0.1 0.1 repuls(3,5) -> repuls(W,V)
+145: 0.01 2 Cmin(3,5,1) -> Cmin(W,V,Nb)
+146: 1 2.8 Cmax(3,5,1) -> Cmax(W,V,Nb)
+147: 0.01 2 Cmin(3,5,2) -> Cmin(W,V,Mo)
+148: 1 2.8 Cmax(3,5,2) -> Cmax(W,V,Mo)
+149: 0.01 2 Cmin(3,5,3) -> Cmin(W,V,W)
+150: 1 2.8 Cmax(3,5,3) -> Cmax(W,V,W)
+151: 0.01 2 Cmin(3,5,4) -> Cmin(W,V,Ta)
+152: 1 2.8 Cmax(3,5,4) -> Cmax(W,V,Ta)
+153: 0.01 2 Cmin(3,5,5) -> Cmin(W,V,V)
+154: 1 2.8 Cmax(3,5,5) -> Cmax(W,V,V)
+155: 0.01 2 Cmin(3,3,1) -> Cmin(W,W,Nb)
+156: 1 2.8 Cmax(3,3,1) -> Cmax(W,W,Nb)
+157: 0.01 2 Cmin(3,3,2) -> Cmin(W,W,Mo)
+158: 1 2.8 Cmax(3,3,2) -> Cmax(W,W,Mo)
+159: 0.01 2 Cmin(3,3,4) -> Cmin(W,W,Ta)
+160: 1 2.8 Cmax(3,3,4) -> Cmax(W,W,Ta)
+161: 0.01 2 Cmin(3,3,5) -> Cmin(W,W,V)
+162: 1 2.8 Cmax(3,3,5) -> Cmax(W,W,V)
+163: 0.8 1.2 rho0(3) -> rho0(W)
+164: -0.1 0.1 attrac(4,5) -> attrac(Ta,V)
+165: -0.1 0.1 repuls(4,5) -> repuls(Ta,V)
+166: 0.01 2 Cmin(4,5,1) -> Cmin(Ta,V,Nb)
+167: 1 2.8 Cmax(4,5,1) -> Cmax(Ta,V,Nb)
+168: 0.01 2 Cmin(4,5,2) -> Cmin(Ta,V,Mo)
+169: 1 2.8 Cmax(4,5,2) -> Cmax(Ta,V,Mo)
+170: 0.01 2 Cmin(4,5,3) -> Cmin(Ta,V,W)
+171: 1 2.8 Cmax(4,5,3) -> Cmax(Ta,V,W)
+172: 0.01 2 Cmin(4,5,4) -> Cmin(Ta,V,Ta)
+173: 1 2.8 Cmax(4,5,4) -> Cmax(Ta,V,Ta)
+174: 0.01 2 Cmin(4,5,5) -> Cmin(Ta,V,V)
+175: 1 2.8 Cmax(4,5,5) -> Cmax(Ta,V,V)
+176: 0.01 2 Cmin(4,4,1) -> Cmin(Ta,Ta,Nb)
+177: 1 2.8 Cmax(4,4,1) -> Cmax(Ta,Ta,Nb)
+178: 0.01 2 Cmin(4,4,2) -> Cmin(Ta,Ta,Mo)
+179: 1 2.8 Cmax(4,4,2) -> Cmax(Ta,Ta,Mo)
+180: 0.01 2 Cmin(4,4,3) -> Cmin(Ta,Ta,W)
+181: 1 2.8 Cmax(4,4,3) -> Cmax(Ta,Ta,W)
+182: 0.01 2 Cmin(4,4,5) -> Cmin(Ta,Ta,V)
+183: 1 2.8 Cmax(4,4,5) -> Cmax(Ta,Ta,V)
+184: 0.8 1.2 rho0(4) -> rho0(Ta)
+185: 0.01 2 Cmin(5,5,1) -> Cmin(V,V,Nb)
+186: 1 2.8 Cmax(5,5,1) -> Cmax(V,V,Nb)
+187: 0.01 2 Cmin(5,5,2) -> Cmin(V,V,Mo)
+188: 1 2.8 Cmax(5,5,2) -> Cmax(V,V,Mo)
+189: 0.01 2 Cmin(5,5,3) -> Cmin(V,V,W)
+190: 1 2.8 Cmax(5,5,3) -> Cmax(V,V,W)
+191: 0.01 2 Cmin(5,5,4) -> Cmin(V,V,Ta)
+192: 1 2.8 Cmax(5,5,4) -> Cmax(V,V,Ta)
+193: 0.8 1.2 rho0(5) -> rho0(V)

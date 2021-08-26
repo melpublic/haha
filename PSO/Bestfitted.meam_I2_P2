@@ -1,0 +1,332 @@
+# MEAM C, Ta alloy potential system (This file should be combined 
+# developed by Prof. Shin-Pon Ju at NSYSU 2016/06/24
+#	modified by Cheng-Chia Yang at 2016/12/19
+# The MEAM form is from "https://openkim.org/f/all-posts", so you may refer to the instruction how to set lammps parameters
+# The following terms have No default settings (need to be provided for cross-element system): 
+#1. Ec(I,J) or delta(I,J)
+#2. alpha(I,J)
+#3. re(I,J)
+#4. lattce(I,J)
+
+#This part keeps the known parameters
+
+  erose_form = 2
+  rc = 4.5
+  ialloy=2 
+  augt1=0
+  delr=0.1
+  emb_lin_neg=0
+  bkgd_dyn=0
+  mixture_ref_t =0  
+ 
+  nn2(1,1)=1   
+  nn2(2,2)=1 
+  nn2(3,3)=1   
+  nn2(4,4)=1 
+  nn2(5,5)=1   
+  zbl(1,1)=1
+  zbl(2,2)=1  
+  zbl(3,3)=1
+  zbl(4,4)=1 
+  zbl(5,5)=1
+
+attrac(1,1) = 0.05
+repuls(1,1) = 0.05
+  
+Cmin(1,1,1) = 0.36
+Cmin(2,2,2) = 0.64
+Cmin(3,3,3) = 0.49
+Cmin(4,4,4) = 0.25
+Cmin(5,5,5) = 0.49
+Cmax(1,1,1) = 2.80
+Cmax(2,2,2) = 2.80
+Cmax(3,3,3) = 2.80
+Cmax(4,4,4) = 2.80
+Cmax(5,5,5) = 2.80
+
+
+
+#####***The following data is used to fitted from the minor modification of Dmol3 data***######
+
+## For NbMo, lammps types: 1,2
+
+nn2(1,2)= 1
+zbl(1,2)= 0
+lattce(1,2)= 'b2'
+Ec(1,2)=        7.213
+re(1,2)=        2.739
+alpha(1,2)=        4.789
+
+## For NbW, lammps types: 1,3
+
+nn2(1,3)= 1
+zbl(1,3)= 0
+lattce(1,3)= 'b2'
+Ec(1,3)=        8.233
+re(1,3)=        2.748
+alpha(1,3)=        5.544
+
+## For NbTa, lammps types: 1,4
+
+nn2(1,4)= 1
+zbl(1,4)= 0
+lattce(1,4)= 'b2'
+Ec(1,4)=        7.838
+re(1,4)=        3.066
+alpha(1,4)=        5.000
+
+## For NbV, lammps types: 1,5
+
+nn2(1,5)= 1
+zbl(1,5)= 0
+lattce(1,5)= 'b2'
+Ec(1,5)=        6.888
+re(1,5)=        2.796
+alpha(1,5)=        4.534
+
+## For MoW, lammps types: 2,3
+
+nn2(2,3)= 1
+zbl(2,3)= 0
+lattce(2,3)= 'b2'
+Ec(2,3)=        7.473
+re(2,3)=        2.890
+alpha(2,3)=        5.358
+
+## For MoTa, lammps types: 2,4
+
+nn2(2,4)= 1
+zbl(2,4)= 0
+lattce(2,4)= 'b2'
+Ec(2,4)=        6.729
+re(2,4)=        2.818
+alpha(2,4)=        5.700
+
+## For MoV, lammps types: 2,5
+
+nn2(2,5)= 1
+zbl(2,5)= 0
+lattce(2,5)= 'b2'
+Ec(2,5)=        6.119
+re(2,5)=        2.591
+alpha(2,5)=        5.044
+
+## For WTa, lammps types: 3,4
+
+nn2(3,4)= 1
+zbl(3,4)= 0
+lattce(3,4)= 'b2'
+Ec(3,4)=        8.349
+re(3,4)=        2.692
+alpha(3,4)=        5.606
+
+## For WV, lammps types: 3,5
+
+nn2(3,5)= 1
+zbl(3,5)= 0
+lattce(3,5)= 'b2'
+Ec(3,5)=        7.400
+re(3,5)=        2.657
+alpha(3,5)=        5.749
+
+## For TaV, lammps types: 4,5
+
+nn2(4,5)= 1
+zbl(4,5)= 0
+lattce(4,5)= 'b2'
+Ec(4,5)=        6.802
+re(4,5)=        2.651
+alpha(4,5)=        5.089
+
+
+
+
+#####***The following data is used to be fitted by randomly generating values within ranges***######
+
+rho0(1)= 1
+
+##For NbMo, Lammps types: 1,2
+
+attrac(1,2)=       -0.067
+repuls(1,2)=       -0.076
+Cmin(1,2,1)=        0.669
+Cmax(1,2,1)=        2.614
+Cmin(1,2,2)=        0.559
+Cmax(1,2,2)=        2.410
+Cmin(1,2,3)=        0.269
+Cmax(1,2,3)=        2.735
+Cmin(1,2,4)=        0.640
+Cmax(1,2,4)=        2.624
+Cmin(1,2,5)=        0.505
+Cmax(1,2,5)=        2.465
+##For NbW, Lammps types: 1,3
+
+attrac(1,3)=       -0.036
+repuls(1,3)=       -0.024
+Cmin(1,3,1)=        0.129
+Cmax(1,3,1)=        2.353
+Cmin(1,3,2)=        0.472
+Cmax(1,3,2)=        2.742
+Cmin(1,3,3)=        0.893
+Cmax(1,3,3)=        2.700
+Cmin(1,3,4)=        0.641
+Cmax(1,3,4)=        2.237
+Cmin(1,3,5)=        0.265
+Cmax(1,3,5)=        2.576
+##For NbTa, Lammps types: 1,4
+
+attrac(1,4)=       -0.069
+repuls(1,4)=        0.012
+Cmin(1,4,1)=        0.592
+Cmax(1,4,1)=        2.482
+Cmin(1,4,2)=        0.384
+Cmax(1,4,2)=        2.779
+Cmin(1,4,3)=        0.771
+Cmax(1,4,3)=        2.694
+Cmin(1,4,4)=        0.850
+Cmax(1,4,4)=        2.535
+Cmin(1,4,5)=        0.871
+Cmax(1,4,5)=        2.242
+##For NbV, Lammps types: 1,5
+
+attrac(1,5)=        0.057
+repuls(1,5)=       -0.100
+Cmin(1,5,1)=        0.630
+Cmax(1,5,1)=        2.394
+Cmin(1,5,2)=        0.190
+Cmax(1,5,2)=        2.767
+Cmin(1,5,3)=        0.912
+Cmax(1,5,3)=        2.788
+Cmin(1,5,4)=        0.206
+Cmax(1,5,4)=        2.200
+Cmin(1,5,5)=        0.229
+Cmax(1,5,5)=        2.064
+Cmin(1,1,2)=        0.547
+Cmax(1,1,2)=        2.624
+Cmin(1,1,3)=        0.384
+Cmax(1,1,3)=        2.059
+Cmin(1,1,4)=        0.387
+Cmax(1,1,4)=        2.792
+Cmin(1,1,5)=        0.593
+Cmax(1,1,5)=        2.343
+##For MoW, Lammps types: 2,3
+
+attrac(2,3)=       -0.017
+repuls(2,3)=        0.082
+Cmin(2,3,1)=        0.458
+Cmax(2,3,1)=        2.553
+Cmin(2,3,2)=        0.660
+Cmax(2,3,2)=        2.711
+Cmin(2,3,3)=        0.380
+Cmax(2,3,3)=        2.566
+Cmin(2,3,4)=        0.784
+Cmax(2,3,4)=        2.347
+Cmin(2,3,5)=        0.850
+Cmax(2,3,5)=        2.084
+##For MoTa, Lammps types: 2,4
+
+attrac(2,4)=        0.019
+repuls(2,4)=        0.084
+Cmin(2,4,1)=        0.644
+Cmax(2,4,1)=        2.149
+Cmin(2,4,2)=        0.233
+Cmax(2,4,2)=        2.329
+Cmin(2,4,3)=        0.542
+Cmax(2,4,3)=        2.517
+Cmin(2,4,4)=        0.804
+Cmax(2,4,4)=        2.372
+Cmin(2,4,5)=        0.430
+Cmax(2,4,5)=        2.428
+##For MoV, Lammps types: 2,5
+
+attrac(2,5)=        0.025
+repuls(2,5)=       -0.049
+Cmin(2,5,1)=        0.458
+Cmax(2,5,1)=        2.041
+Cmin(2,5,2)=        0.742
+Cmax(2,5,2)=        2.320
+Cmin(2,5,3)=        0.486
+Cmax(2,5,3)=        2.089
+Cmin(2,5,4)=        0.563
+Cmax(2,5,4)=        2.581
+Cmin(2,5,5)=        0.648
+Cmax(2,5,5)=        2.575
+Cmin(2,2,1)=        0.799
+Cmax(2,2,1)=        2.495
+Cmin(2,2,3)=        0.350
+Cmax(2,2,3)=        2.507
+Cmin(2,2,4)=        0.220
+Cmax(2,2,4)=        2.231
+Cmin(2,2,5)=        0.371
+Cmax(2,2,5)=        2.025
+rho0(2)=        1.000
+##For WTa, Lammps types: 3,4
+
+attrac(3,4)=        0.027
+repuls(3,4)=       -0.004
+Cmin(3,4,1)=        0.219
+Cmax(3,4,1)=        2.035
+Cmin(3,4,2)=        0.990
+Cmax(3,4,2)=        2.355
+Cmin(3,4,3)=        0.609
+Cmax(3,4,3)=        2.398
+Cmin(3,4,4)=        0.202
+Cmax(3,4,4)=        2.337
+Cmin(3,4,5)=        0.259
+Cmax(3,4,5)=        2.154
+##For WV, Lammps types: 3,5
+
+attrac(3,5)=        0.028
+repuls(3,5)=       -0.001
+Cmin(3,5,1)=        0.756
+Cmax(3,5,1)=        2.550
+Cmin(3,5,2)=        0.895
+Cmax(3,5,2)=        2.693
+Cmin(3,5,3)=        0.914
+Cmax(3,5,3)=        2.387
+Cmin(3,5,4)=        0.779
+Cmax(3,5,4)=        2.602
+Cmin(3,5,5)=        0.974
+Cmax(3,5,5)=        2.634
+Cmin(3,3,1)=        0.834
+Cmax(3,3,1)=        2.497
+Cmin(3,3,2)=        0.648
+Cmax(3,3,2)=        2.727
+Cmin(3,3,4)=        0.361
+Cmax(3,3,4)=        2.272
+Cmin(3,3,5)=        0.727
+Cmax(3,3,5)=        2.331
+rho0(3)=        1.000
+##For TaV, Lammps types: 4,5
+
+attrac(4,5)=        0.075
+repuls(4,5)=       -0.091
+Cmin(4,5,1)=        0.621
+Cmax(4,5,1)=        2.050
+Cmin(4,5,2)=        0.528
+Cmax(4,5,2)=        2.434
+Cmin(4,5,3)=        0.453
+Cmax(4,5,3)=        2.741
+Cmin(4,5,4)=        0.827
+Cmax(4,5,4)=        2.128
+Cmin(4,5,5)=        0.322
+Cmax(4,5,5)=        2.013
+Cmin(4,4,1)=        0.339
+Cmax(4,4,1)=        2.570
+Cmin(4,4,2)=        0.807
+Cmax(4,4,2)=        2.561
+Cmin(4,4,3)=        0.823
+Cmax(4,4,3)=        2.295
+Cmin(4,4,5)=        0.843
+Cmax(4,4,5)=        2.141
+rho0(4)=        1.000
+Cmin(5,5,1)=        0.845
+Cmax(5,5,1)=        2.348
+Cmin(5,5,2)=        0.848
+Cmax(5,5,2)=        2.491
+Cmin(5,5,3)=        0.800
+Cmax(5,5,3)=        2.637
+Cmin(5,5,4)=        0.499
+Cmax(5,5,4)=        2.753
+rho0(5)=        1.000
+

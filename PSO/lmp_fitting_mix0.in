@@ -1,0 +1,46 @@
+# Three terms should be modified by Perl
+
+#lmp_fitting_mix # jumpname 
+#ref.meam # potential 
+#output.dat # output filename
+
+echo none
+#variable jumpname index lmp_fitting_mix #####1. FM
+variable jumpname index lmp_fitting_mix0 # for "jump" filename
+include mixindex.in
+label data #loop 
+
+clear
+
+units metal 
+dimension 3 
+boundary p p p
+box tilt large 
+atom_style atomic 
+atom_modify map array
+read_data ${filename}
+
+# ---------- Define Interatomic Potential ---------------------  
+                                         
+pair_style meam/c
+#pair_coeff * * ref.lib Pd Rh Co Ce Pt  ref.meam Pd Rh Co Ce Pt ######2. FM 
+pair_coeff * * ref.lib Nb Mo W Ta V   ref0.meam Nb Mo W Ta V 
+
+#---------------------------------------------
+
+change_box all triclinic
+neighbor 0.3 bin 
+neigh_modify every 1 check yes one 5000
+
+# the read-in structure is the optimized one
+thermo_style custom etotal pxx pyy pzz pxy pxz pyz
+run 0
+
+variable atomnum equal count(all)
+variable etotal equal etotal
+variable be equal ${etotal}/${atomnum}
+
+#print "Mixref ${be} " append output.dat screen no ######3. FM
+print "Mixref ${be} " append output0.dat screen no
+next filename 
+jump ${jumpname}.in data
