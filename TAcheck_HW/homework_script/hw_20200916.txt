@@ -1,0 +1,61 @@
+B053022031 HW01.c Folder name error!
+B063022062 HW01.c Compiled successfully! Homework very Good!
+B073021029 HW01.c Compiled successfully! Homework Good!
+B073021056 HW01.c Compiled successfully! Homework Bad!
+B073021057 HW01.c Compiled successfully! Homework Good!
+B075090026 HW01.c Compiled successfully! Homework Good!
+B083022022 HW01.c Folder name error!
+B083022035 HW01.c Folder name error!
+B093022001 HW01.c Compiled successfully! Homework very Good!
+B093022002 HW01.c Compiled successfully! Homework Good!
+B093022003 HW01.c Folder name error!
+B093022004 HW01.c Compiled successfully! Homework very Good!
+B093022005 HW01.c Compiled successfully! Homework Good!
+B093022006 HW01.c Compiled successfully! Homework very Good!
+B093022007 HW01.c Compiled successfully! Homework very Good!
+B093022008 HW01.c Compiled successfully! Homework very Good!
+B093022009 HW01.c Compiled successfully! Homework very Good!
+B093022010 HW01.c Compiled successfully! Homework Good!
+B093022011 HW01.c Compiled successfully! Homework Good!
+B093022012 HW01.c Compiled successfully! Homework Good!
+B093022013 HW01.c Compiled successfully! Homework Good!
+B093022014 HW01.c Compiled successfully! Homework very Good!
+B093022015 HW01.c Compiled successfully! Homework very Good!
+B093022016 HW01.c Compiled successfully! Homework very Good!
+B093022017 HW01.c Compiled successfully! Homework Good!
+B093022018 HW01.c Compiled successfully! Homework Good!
+B093022019 HW01.c Compiled successfully! Homework Good!
+B093022020 HW01.c Compiled successfully! Homework Good!
+B093022021 HW01.c Folder name error!
+B093022022 HW01.c Compiled successfully! Homework Good!
+B093022023 HW01.c Compiled successfully! Homework very Good!
+B093022024 HW01.c Compiled successfully! Homework Good!
+B093022025 HW01.c Compiled successfully! Homework Bad!
+B093022026 HW01.c Compiled successfully! Homework Good!
+B093022027 HW01.c Compiled successfully! Homework very Good!
+B093022028 HW01.c Compiled successfully! Homework very Good!
+B093022029 HW01.c Compiled successfully! Homework Good!
+B093022030 HW01.c Compiled successfully! Homework Good!
+B093022031 HW01.c Compiled successfully! Homework Good!
+B093022032 HW01.c Compiled successfully! Homework very Good!
+B093022033 HW01.c Compiled successfully! Homework Bad!
+B093022034 HW01.c Compiled successfully! Homework Good!
+B093022035 HW01.c Compiled successfully! Homework very Good!
+B093022036 HW01.c Compiled successfully! Homework very Good!
+B093022037 HW01.c Folder name error!
+B093022038 HW01.c Folder name error!
+B093022039 HW01.c Compiled failed!
+B093022040 HW01.c Compiled successfully! Homework Good!
+B093022041 HW01.c Compiled successfully! Homework Good!
+B093022042 HW01.c Compiled successfully! Homework very Good!
+B093022043 HW01.c Compiled successfully! Homework Good!
+B093022044 HW01.c Compiled successfully! Homework very Good!
+B093022045 HW01.c Compiled successfully! Homework very Good!
+B093022046 HW01.c Folder name error!
+B093022047 HW01.c Compiled successfully! Homework very Good!
+B093022048 HW01.c Folder name error!
+B093022049 HW01.c Compiled successfully! Homework Good!
+B093022050 HW01.c Compiled successfully! Homework very Good!
+B093022051 HW01.c Folder name error!
+B093022053 HW01.c Compiled successfully! Homework Good!
+B093022054 HW01.c Compiled successfully! Homework Good!
