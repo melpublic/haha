@@ -1,0 +1,20 @@
+使用USB CONSOLE Cable線 插在switch console孔和PC USB孔上
+
+# https://junyussh.github.io/p/linux-connect-serial-console/ Linux 連接 COM port方式
+用 dmesg | grep tty 查詢 tty 連接記錄
+安裝 screen -> yum install screen
+用 sudo screen /dev/ttyUSB0 -s <speed> 進行ib switch連接 # <speed> 為Baud Rate 華為Infiniband配置.pdf有提到
+
+switch 預設user和密碼皆為admin
+
+# Infiniband 基礎配置 請參考華為Infiniband配置.pdf
+switch IP address -> 192.168.1.1
+gateway -> 192.168.1.101
+
+離開screen -> 按 Ctrl + a 後 再按d
+
+使用 ping 192.168.1.1 是否有回應
+switch網路配置好 就可以使用ssh或web方式登入switch
+
+ssh 登入方式 ssh admin@192.168.1.1 密碼 admin
+Web GUI 登陸介面 必須透過server 連上網頁輸入 http://192.168.1.1 才能登陸

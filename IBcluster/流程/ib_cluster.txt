@@ -1,0 +1,8 @@
+0. server安裝1G網卡，server和node都安裝ib網卡
+1. 先透過1G網路線 進行串聯
+2. 跑00~08腳本
+3. 確認沒問題 將ib驅動和腳本傳到各node
+4. 進去node執行 01ib 02ib 03ib
+5. 確認node ib網卡沒問題 將1G對內網卡ip設定為192.168.1.101 設定server 對內ib網卡
+6. 確認各node是否有回應
+7. 將資料夾的 06slurm_slave.pl 和 11slurm_server.pl 進行替換 再安裝 slurm 
