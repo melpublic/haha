@@ -1,0 +1,58 @@
+ Randomly Shuffle process
+ The searched configuration No :            1
+ Shuffle Steps:            1
+ ***current normalized configurational entropy:    1.6020000000000001     
+ 
+ ***N1:        1602
+ Randomly Shuffle process
+ The searched configuration No :            2
+ Shuffle Steps:            3
+ ***current normalized configurational entropy:    1.5950000000000000     
+ 
+ ***N1:        1595
+ Randomly Shuffle process
+ The searched configuration No :            3
+ Shuffle Steps:            5
+ ***current normalized configurational entropy:    1.5940000000000001     
+ 
+ ***N1:        1594
+ ***** The following is MC output
+ 
+ #MC process at MC step:           1
+ The searched configuration No :            1
+ ***current normalized configurational entropy:    7.0000000000000001E-003
+ ***N1:           7
+ KeepNo in SCF sub:          18 natom:        2000 fraction:    8.9999999999999993E-003
+ 
+ #MC process at MC step:           2
+ The searched configuration No :            2
+ ***current normalized configurational entropy:    4.0000000000000001E-003
+ ***N1:           4
+ KeepNo in SCF sub:           8 natom:        2000 fraction:    4.0000000000000001E-003
+ 
+ #MC process at MC step:           4
+ The searched configuration No :            3
+ ***current normalized configurational entropy:    3.0000000000000001E-003
+ ***N1:           3
+ KeepNo in SCF sub:           6 natom:        2000 fraction:    3.0000000000000001E-003
+ 
+ #MC process at MC step:           6
+ The searched configuration No :            4
+ ***current normalized configurational entropy:    2.0000000000000000E-003
+ ***N1:           2
+ KeepNo in SCF sub:           4 natom:        2000 fraction:    2.0000000000000000E-003
+ 
+ #MC process at MC step:          20
+ The searched configuration No :            5
+ ***current normalized configurational entropy:    1.0000000000000000E-003
+ ***N1:           1
+ KeepNo in SCF sub:           2 natom:        2000 fraction:    1.0000000000000000E-003
+ 
+ #MC process at MC step:          24
+ The searched configuration No :            6
+ ***current normalized configurational entropy:    0.0000000000000000     
+ ***N1:           0
+ KeepNo in SCF sub:           0 natom:        2000 fraction:    0.0000000000000000     
+ ***keepNo = 0, All atoms with larger scoring values have been processed!!***
+ YOU CAN TERMINATE YOUR CODE after several more MC runs  !!!!!!!!!!!
+ 
